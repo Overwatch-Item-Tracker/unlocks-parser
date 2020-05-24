@@ -242,18 +242,15 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     document.body.removeChild(el);
   };
 
-  console.log('sdasda')
-
-    $http.get('unlock-mapping.json').then(data => {
-      console.log('wtf')
-      if (data.status === 200) {
-        vm.unlockData = data.data
-      } else {
-        vm.loadError = true
-      }
-    }, err => {
+  $http.get('unlock-mapping.json').then(data => {
+    if (data.status === 200) {
+      vm.unlockData = data.data
+    } else {
       vm.loadError = true
-    })
+    }
+  }, err => {
+    vm.loadError = true
+  })
 }])
 
 
