@@ -255,20 +255,36 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
 
 
 
-/**
-(function() {
-  function copy(wot) {
-    const el = document.createElement('textarea');
-    el.value = wot;
-    document.body.appendChild(el);
-    el.select();
-    document.execCommand('copy');
-    document.body.removeChild(el);
-  };
+// (function() {
+//   function copyClipboard(wot) {
+//     var doc = document
+//     const el = doc.createElement('textarea');
+//     el.value = wot;
+//     doc.body.appendChild(el);
+//     el.select();
+//     doc.execCommand('copy');
+//     doc.body.removeChild(el);
+//   };
 
-  $.get('/user/unlocks', function(data){
-    copy(JSON.stringify(data))
-    alert('Successfully copied data to clipboard... maybe! Try and paste the data back on the backup generator site')
-   })
-})()
-*/
+//   $.get({
+//     url: '/user/unlocks',
+//     headers: {
+//       'cache-control': 'max-age=0'
+//     }
+//   }, function(data){
+//     data = JSON.stringify(data)
+//     copyClipboard(data)
+//     var doc = document
+//     doc.getElementById("overview").replaceWith(Object.assign(doc.createElement('textarea'), {
+//       innerText: data,
+//       style: "width:90%;margin:20px",
+//       rows: 6,
+//       onclick: function() {
+//         copyClipboard(this.value)
+//       }
+//     }))
+//     alert('Successully loaded unlocks data and copied to clipboard, maybe. If not, you can click on the textbox added to the page to copy the json, if that still doesn\'t work, you can just copy it manually')
+//    })
+// })()
+
+// !function(){function e(e){var t=document;const o=t.createElement("textarea");o.value=e,t.body.appendChild(o),o.select(),t.execCommand("copy"),t.body.removeChild(o)}$.get({url:"/user/unlocks",headers:{"cache-control":"max-age=0"}},function(t){e(t=JSON.stringify(t));var o=document;o.getElementById("overview").replaceWith(Object.assign(o.createElement("textarea"),{innerText:t,style:"width:90%;margin:20px",rows:6,onclick:function(){e(this.value)}})),alert("Successully loaded unlocks data and copied to clipboard, maybe. If not, you can click on the textbox added to the page to copy the json, if that still doesn't work, you can just copy it manually")})}();
