@@ -5,6 +5,8 @@ app.config(['$compileProvider', function($compileProvider) {
 }])
 
 app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
+  const vm = this
+
   // Can't generate IDs off these names can we :)
   const stupidNames = {
     "^_^": "joy",
@@ -240,13 +242,18 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     document.body.removeChild(el);
   };
 
-  $http.get('/unlock-mapping.json').then(data => {
-    if (data.status === 200) {
-      this.unlockData = data.data
-    } else {
-      this.loadError = true
-    }
-  })
+  console.log('sdasda')
+
+    $http.get('unlock-mapping.json').then(data => {
+      console.log('wtf')
+      if (data.status === 200) {
+        vm.unlockData = data.data
+      } else {
+        vm.loadError = true
+      }
+    }, err => {
+      vm.loadError = true
+    })
 }])
 
 
