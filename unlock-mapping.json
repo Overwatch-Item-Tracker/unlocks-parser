@@ -215,6 +215,7 @@
         "0x02500000000010F6": "Finger Guns",
         "0x0250000000000A54": "Sitting Around...",
         "0x02500000000012AA": "Bomb Spin",
+        "0x0250000000004A02": "Warm up",
         "0x0250000000000A7E": "Charleston",
         "0x0250000000000908": "Heroic",
         "0x0250000000001573": "Horde Banner",
@@ -343,7 +344,8 @@
         "0x0250000000004476": "Los Angeles Valiant",
         "0x0250000000004494": "Los Angeles Valiant Away",
         "0x0250000000004457": "San Francisco Shock",
-        "0x0250000000004438": "San Francisco Shock Away"
+        "0x0250000000004438": "San Francisco Shock Away",
+        "0x02500000000049E8": "Union Jack"
       },
       "Spray": {
         "0x02500000000000DF": "Icon",
@@ -381,7 +383,8 @@
         "0x0250000000001080": "Slipstream",
         "0x0250000000001176": "Ace of Diamonds",
         "0x025000000000015C": "Pixel",
-        "0x025000000000015E": "Cute"
+        "0x025000000000015E": "Cute",
+        "0x0250000000004A82": "Union Jack"
       },
       "WeaponSkin": {
         "0x02500000000003BB": "DEFAULT",
@@ -1170,6 +1173,7 @@
         "0x02500000000007A3": "Wadjet",
         "0x02500000000015A7": "Cute Pharah",
         "0x0250000000000BBB": "Basketball",
+        "0x0250000000004AB1": "Lifeguard",
         "0x02500000000022CD": "Enchanted",
         "0x025000000000486D": "Aviator",
         "0x0250000000001159": "Anniversareeha",
@@ -1251,6 +1255,7 @@
         "0x02500000000009EC": "Thunderbird",
         "0x02500000000009ED": "Raindancer",
         "0x0250000000000E84": "Asp",
+        "0x0250000000004667": "Lifeguard",
         "0x0250000000000C6C": "Possessed",
         "0x025000000000194D": "Enchanted Armor",
         "0x0250000000000CFB": "Frostbite",
@@ -1878,7 +1883,8 @@
         "0x0250000000004467": "Los Angeles Valiant",
         "0x0250000000004485": "Los Angeles Valiant Away",
         "0x0250000000004448": "San Francisco Shock",
-        "0x0250000000004429": "San Francisco Shock Away"
+        "0x0250000000004429": "San Francisco Shock Away",
+        "0x02500000000049E3": "Sand Castle"
       },
       "Spray": {
         "0x025000000000018B": "Icon",
@@ -1914,7 +1920,8 @@
         "0x0250000000001078": "Sunken",
         "0x0250000000001169": "Ten of Clubs",
         "0x02500000000008DD": "Pixel",
-        "0x0250000000000618": "Cute"
+        "0x0250000000000618": "Cute",
+        "0x0250000000004A83": "Sand Castle"
       },
       "WeaponSkin": {
         "0x02500000000003B0": "DEFAULT",
@@ -2103,7 +2110,8 @@
         "0x0250000000001175": "Nine of Diamonds",
         "0x0250000000000825": "Pixel",
         "0x0250000000000826": "Cute",
-        "0x0250000000004833": "Holi"
+        "0x0250000000004833": "Holi",
+        "0x02500000000049F9": "Sitar"
       },
       "WeaponSkin": {
         "0x02500000000003BA": "DEFAULT",
@@ -2550,6 +2558,7 @@
         "0x02500000000015DB": "Eat this",
         "0x0250000000000BD5": "What's mine is mine",
         "0x0250000000001224": "There's no \"I\" in team",
+        "0x0250000000004A98": "No job too big",
         "0x0250000000000CA1": "Want some candy?",
         "0x02500000000012BF": "Boo!",
         "0x0250000000000D8D": "Ho ho ho",
@@ -2840,7 +2849,7 @@
         "0x02500000000001BA": "Bullet",
         "0x02500000000001BB": "Skull",
         "0x02500000000001BE": "Spin",
-        "0x0250000000000554": "Noose",
+        "0x0250000000000554": "Bad Luck",
         "0x0250000000000555": "Thumbs Up",
         "0x0250000000000556": "Bang!",
         "0x0250000000000558": "Deadeye",
@@ -3214,7 +3223,8 @@
         "0x025000000000446D": "Los Angeles Valiant",
         "0x025000000000448B": "Los Angeles Valiant Away",
         "0x025000000000444E": "San Francisco Shock",
-        "0x025000000000442F": "San Francisco Shock Away"
+        "0x025000000000442F": "San Francisco Shock Away",
+        "0x0250000000004935": "Alien"
       },
       "Spray": {
         "0x025000000000018D": "Icon",
@@ -3315,6 +3325,7 @@
         "0x02500000000015DD": "Sit down!",
         "0x0250000000000BD7": "You want a medal?",
         "0x0250000000001226": "Bring the noise",
+        "0x0250000000004A95": "Fore!",
         "0x0250000000000CA3": "Knock knock",
         "0x02500000000012C1": "Trick or treat",
         "0x0250000000002AC3": "Not much of a living",
@@ -3631,7 +3642,8 @@
         "0x0250000000001167": "Jack of Diamonds",
         "0x0250000000000247": "Pixel",
         "0x02500000000005ED": "Cute",
-        "0x02500000000047E7": "Carnival"
+        "0x02500000000047E7": "Carnival",
+        "0x02500000000049FA": "Bossa Nova"
       },
       "WeaponSkin": {
         "0x02500000000003AD": "DEFAULT",
@@ -3697,10 +3709,11 @@
         "0x02500000000015D8": "Nice try",
         "0x0250000000000BD2": "I'm #1",
         "0x0250000000001221": "Scoreboard",
+        "0x0250000000004A96": "Serious?",
         "0x0250000000000C9E": "Happy Halloween!",
         "0x02500000000012BC": "I'm not scared",
-        "0x0250000000000D8A": "Aw, you shouldn't have",
         "0x025000000000133E": "Happy holidays",
+        "0x0250000000000D8A": "Aw, you shouldn't have",
         "0x0250000000000F54": "The best things in life",
         "0x0250000000001637": "Happy new year",
         "0x02500000000010C3": "Try and keep up",
@@ -3811,8 +3824,8 @@
         "0x02500000000015BC": "Black Cat",
         "0x0250000000000B57": "Cycling",
         "0x0250000000000C5C": "Trick or Treat",
-        "0x0250000000000D17": "COOKIE",
         "0x0250000000000D33": "ORNAMENT",
+        "0x0250000000000D17": "COOKIE",
         "0x0250000000000ED6": "Seesaw",
         "0x0250000000000EE6": "Dragon Dance",
         "0x025000000000107A": "Handheld",
@@ -4022,7 +4035,8 @@
         "0x0250000000001168": "Ten of Diamonds",
         "0x025000000000025D": "Pixel",
         "0x0250000000000643": "Cute",
-        "0x0250000000004875": "Bear Hug"
+        "0x0250000000004875": "Bear Hug",
+        "0x02500000000049FB": "Guzheng"
       },
       "WeaponSkin": {
         "0x02500000000003AF": "DEFAULT",
@@ -4203,7 +4217,7 @@
         "0x0250000000000CD4": "Hacked the Moon",
         "0x0250000000000CDE": "Agent",
         "0x0250000000000CDF": "Hacker",
-        "0x0250000000000CE0": "Deaf-Mute",
+        "0x0250000000000CE0": "hax0red",
         "0x0250000000000CE1": "Puzzle",
         "0x0250000000000CE2": "Behind You",
         "0x0250000000000CE3": "Icon",
@@ -4234,6 +4248,7 @@
         "0x02500000000011D5": "Initials",
         "0x025000000000159E": "Cute Doomfist",
         "0x0250000000001235": "Shotput",
+        "0x0250000000004AAE": "Karate",
         "0x02500000000022CA": "Swamp Monster",
         "0x0250000000004358": "Jötunn",
         "0x02500000000017B4": "Ogundimu",
@@ -4287,6 +4302,7 @@
         "0x025000000000122C": "I make medicine sick",
         "0x0250000000001230": "Make you punch drunk",
         "0x0250000000001ABD": "Step into the ring",
+        "0x0250000000004A97": "You picked the wrong side",
         "0x02500000000012CB": "I have something for you",
         "0x02500000000012C8": "You should be scared",
         "0x025000000000134A": "Did you bring me a present?",
@@ -4314,6 +4330,7 @@
         "0x0250000000001135": "Irin",
         "0x025000000000117B": "Caution",
         "0x0250000000001252": "Blackhand",
+        "0x02500000000048C3": "Karate",
         "0x0250000000001982": "Swamp Monster",
         "0x02500000000027BB": "Jötunn",
         "0x0250000000001253": "Talon",
@@ -4458,6 +4475,7 @@
         "0x0250000000000A7B": "Locked On",
         "0x0250000000000A7A": "Guardian",
         "0x0250000000001271": "Under Fire",
+        "0x0250000000004A74": "Vacation",
         "0x0250000000000A5A": "Heroic",
         "0x0250000000000A5B": "RANDOM"
       },
@@ -4477,6 +4495,7 @@
         "0x0250000000001216": "Better than retirement",
         "0x0250000000001ABB": "You seem stressed",
         "0x02500000000029AC": "Do less",
+        "0x0250000000004A99": "It's not that hot",
         "0x0250000000000C91": "Are you scared?",
         "0x02500000000012B1": "Don't be scared",
         "0x0250000000000D7E": "I'm watching out for you",
@@ -4636,6 +4655,7 @@
         "0x0250000000000FFE": "Halt!",
         "0x0250000000001022": "Confident",
         "0x0250000000001023": "Flex",
+        "0x0250000000004A72": "Medal",
         "0x025000000000127F": "Pumpkin Head",
         "0x02500000000017AA": "Puppy",
         "0x0250000000002833": "Beacon",
@@ -4748,7 +4768,8 @@
         "0x025000000000445B": "Los Angeles Valiant",
         "0x0250000000004479": "Los Angeles Valiant Away",
         "0x025000000000443C": "San Francisco Shock",
-        "0x025000000000441D": "San Francisco Shock Away"
+        "0x025000000000441D": "San Francisco Shock Away",
+        "0x02500000000049F0": "Ice Cream"
       },
       "Spray": {
         "0x0250000000000FFF": "Protector",
@@ -4785,7 +4806,9 @@
         "0x025000000000108E": "Flower",
         "0x0250000000001161": "Nine of Spades",
         "0x0250000000001003": "Pixel",
-        "0x0250000000001010": "Cute"
+        "0x0250000000001010": "Cute",
+        "0x02500000000049FC": "Djembe",
+        "0x0250000000004A84": "Ice Cream"
       },
       "WeaponSkin": {
         "0x0250000000000F69": "DEFAULT",
@@ -4798,6 +4821,7 @@
         "0x0250000000001717": "Rally",
         "0x0250000000001718": "Brigitte",
         "0x0250000000001A6B": "Hammer Throw",
+        "0x0250000000004AB4": "Feskarn",
         "0x0250000000004606": "Opera Warrior",
         "0x025000000000196E": "Jubileum",
         "0x0250000000001988": "Björn",
@@ -4845,6 +4869,7 @@
         "0x02500000000016E6": "Get lost",
         "0x0250000000001AB1": "Scandinavian style?",
         "0x0250000000001AB2": "Dare to Lindholm",
+        "0x0250000000004A93": "Happy Midsummer!",
         "0x02500000000022AD": "Supposed to scare me",
         "0x02500000000022AE": "Not scared, are you",
         "0x02500000000024EE": "Merry Christmas",
@@ -4875,6 +4900,7 @@
         "0x02500000000016B0": "Engineer",
         "0x0250000000001733": "Mechanic",
         "0x0250000000001A3B": "Tre Kronor",
+        "0x025000000000484E": "Feskarn",
         "0x0250000000002530": "General",
         "0x02500000000028C7": "Opera",
         "0x0250000000001728": "Shieldmaiden",
@@ -5152,7 +5178,8 @@
         "0x0250000000001971": "Nine of Hearts",
         "0x025000000000130D": "Cute",
         "0x0250000000001309": "Pixel",
-        "0x0250000000003FB5": "Presents"
+        "0x0250000000003FB5": "Presents",
+        "0x02500000000049F8": "Fiddle"
       },
       "WeaponSkin": {
         "0x02500000000012E7": "DEFAULT",
@@ -5185,6 +5212,7 @@
         "0x02500000000019EF": "Lounging",
         "0x02500000000019F0": "On Top",
         "0x0250000000001A5D": "Swing",
+        "0x0250000000004A70": "Medal",
         "0x02500000000023F9": "Nibbling",
         "0x025000000000438B": "Imbibe",
         "0x0250000000002489": "Armament",
@@ -5369,6 +5397,7 @@
         "0x02500000000022AA": "Bullet Walk",
         "0x025000000000238B": "Ashe and Bob",
         "0x0250000000002461": "Standoff",
+        "0x02500000000049F2": "Target Practice",
         "0x0250000000002A90": "Scream Queen",
         "0x02500000000022A7": "Heroic",
         "0x02500000000022BD": "RANDOM"
@@ -5385,6 +5414,8 @@
         "0x025000000000243C": "Try and keep it together",
         "0x025000000000243D": "Need me to repeat myself?",
         "0x025000000000243E": "Just taking out the trash",
+        "0x0250000000004A77": "Bullseye",
+        "0x0250000000004A78": "The best way to win",
         "0x02500000000024EC": "It's a giving time of year",
         "0x02500000000024ED": "Girl Who Has Everything",
         "0x025000000000250F": "No one likes a squealer",
@@ -5527,6 +5558,8 @@
         "0x02500000000048EF": "Promise",
         "0x02500000000048F0": "Echo",
         "0x02500000000048F1": "Symmetry",
+        "0x0250000000004AAD": "Surf's up",
+        "0x0250000000004AAF": "Surf",
         "0x02500000000049A5": "Echoversary"
       },
       "Emote": {
@@ -5563,6 +5596,7 @@
         "0x0250000000004941": "Camo",
         "0x02500000000048C5": "Moth",
         "0x025000000000492D": "Butterfly",
+        "0x025000000000499E": "Surf's Up",
         "0x02500000000048AF": "Classic",
         "0x025000000000496B": "Atlanta Reign Away",
         "0x025000000000496A": "Atlanta Reign",
@@ -5629,6 +5663,7 @@
         "0x025000000000490B": "Loading...",
         "0x025000000000490C": "Ghost",
         "0x025000000000490D": "Symbol",
+        "0x0250000000004A85": "Surf's Up!",
         "0x02500000000049C3": "Seven of Hearts",
         "0x02500000000048FF": "Cute",
         "0x0250000000004900": "Pixel",
@@ -5651,6 +5686,9 @@
         "0x0250000000004917": "Every Situation",
         "0x0250000000004918": "I’ll try anything once",
         "0x025000000000490F": "Alamak!",
+        "0x0250000000004A79": "Imitate the best",
+        "0x0250000000004A7A": "You learn something new",
+        "0x0250000000004A7B": "Break down tape of this",
         "0x02500000000048DF": "Intriguing",
         "0x02500000000048E1": "Another helping?",
         "0x02500000000048DD": "A submarine can't swim",
@@ -5667,6 +5705,7 @@
         "0x0250000000002855": "Goddess",
         "0x0250000000002856": "Kraken",
         "0x02500000000029A1": "Pole Vault",
+        "0x0250000000004AB2": "Tropical",
         "0x02500000000028C2": "Lieutenant Augustin",
         "0x02500000000028FB": "Lò",
         "0x0250000000002977": "Combat Medic",
@@ -5740,6 +5779,7 @@
         "0x025000000000286D": "Desert Ops",
         "0x02500000000027A8": "Pirate",
         "0x02500000000027E6": "Buccaneer",
+        "0x0250000000004891": "Tropical",
         "0x025000000000279F": "Talon",
         "0x0250000000001B0C": "Classic",
         "0x02500000000027FB": "Atlanta Reign Away",
@@ -5846,9 +5886,11 @@
         "0x0250000000002A5C": "Sigma",
         "0x0250000000002A5D": "Hypersphere",
         "0x0250000000002A5E": "Black Hole",
+        "0x0250000000004AB0": "Swimming",
         "0x0250000000004355": "Rime",
         "0x02500000000049A4": "Sigmaversary",
-        "0x02500000000049BE": "Carbon Fiber"
+        "0x02500000000049BE": "Carbon Fiber",
+        "0x02500000000049E9": "Maestro"
       },
       "Emote": {
         "0x0250000000002A04": "Applause",
@@ -5857,12 +5899,14 @@
         "0x02500000000029D6": "Relaxation",
         "0x02500000000029CB": "Inconsequential",
         "0x0250000000004963": "Dans",
-        "0x0250000000002A32": "Heroic"
+        "0x0250000000002A32": "Heroic",
+        "0x0250000000004844": "Maestro"
       },
       "VictoryPose": {
         "0x02500000000029CC": "Poised",
         "0x0250000000002A05": "Observations",
         "0x0250000000002A0A": "Relaxation",
+        "0x0250000000004A7C": "Medal",
         "0x0250000000002ADE": "Pumpkin",
         "0x025000000000477F": "Postulating",
         "0x02500000000029BF": "Heroic",
@@ -5965,7 +6009,8 @@
         "0x0250000000004484": "Los Angeles Valiant Away",
         "0x0250000000004447": "San Francisco Shock",
         "0x0250000000004428": "San Francisco Shock Away",
-        "0x02500000000048C4": "Carbon Fiber"
+        "0x02500000000048C4": "Carbon Fiber",
+        "0x0250000000004921": "Maestro"
       },
       "Spray": {
         "0x0250000000002A39": "Icon",
@@ -5991,6 +6036,7 @@
         "0x0250000000002A51": "Night sky",
         "0x0250000000002A52": "Symphony",
         "0x0250000000002A53": "Hypersphere",
+        "0x0250000000004A86": "Swimming",
         "0x0250000000002AD4": "Trick or Treat",
         "0x0250000000003FB0": "Ice Statue",
         "0x0250000000003FB1": "Ornament",
@@ -6000,7 +6046,8 @@
         "0x02500000000049C4": "Eight of Spades",
         "0x0250000000002A3D": "Cute",
         "0x0250000000002A3C": "Pixel",
-        "0x02500000000049C5": "Carbon Fiber"
+        "0x02500000000049C5": "Carbon Fiber",
+        "0x02500000000049F7": "Maestro"
       },
       "WeaponSkin": {
         "0x02500000000029C0": "DEFAULT",
@@ -6211,7 +6258,9 @@
       "0x02500000000048BA": "Evasion",
       "0x02500000000048BB": "Maneuvers",
       "0x02500000000048CD": "Heroic",
-      "0x02500000000048CE": "RANDOM"
+      "0x02500000000048CE": "RANDOM",
+      "0x02500000000049F2": "Target Practice",
+      "0x0250000000004A74": "Vacation"
     },
     "Spray": {
       "0x025000000000008D": "Logo",
@@ -6548,7 +6597,7 @@
       "0x0250000000000538": "Scarf",
       "0x025000000000053F": "Drawn",
       "0x0250000000000542": "Cute",
-      "0x0250000000000554": "Noose",
+      "0x0250000000000554": "Bad Luck",
       "0x0250000000000555": "Thumbs Up",
       "0x0250000000000556": "Bang!",
       "0x0250000000000558": "Deadeye",
@@ -6909,7 +6958,7 @@
       "0x0250000000000CDD": "Key",
       "0x0250000000000CDE": "Agent",
       "0x0250000000000CDF": "Hacker",
-      "0x0250000000000CE0": "Deaf-Mute",
+      "0x0250000000000CE0": "hax0red",
       "0x0250000000000CE1": "Puzzle",
       "0x0250000000000CE2": "Behind You",
       "0x0250000000000CE3": "Icon",
@@ -7663,8 +7712,8 @@
       "0x0250000000004939": "My Legacy",
       "0x025000000000493A": "Echo Online",
       "0x025000000000493B": "Duplicate",
-      "0x025000000000495F": "Competitive Open Queue Competitor",
-      "0x0250000000004960": "Competitive Open Queue Hero",
+      "0x025000000000495F": "Open Queue Season 1 Competitor",
+      "0x0250000000004960": "Open Queue Season 1 Hero",
       "0x02500000000049C3": "Seven of Hearts",
       "0x02500000000049C4": "Eight of Spades",
       "0x02500000000049C5": "Carbon Fiber",
@@ -7678,7 +7727,28 @@
       "0x02500000000049CF": "Little Red",
       "0x02500000000049D0": "Dragoon",
       "0x02500000000049D4": "Fast",
-      "0x02500000000049D5": "Feast"
+      "0x02500000000049D5": "Feast",
+      "0x02500000000049EC": "Season 23 Hero",
+      "0x02500000000049ED": "Season 23 Competitor",
+      "0x02500000000049F7": "Maestro",
+      "0x02500000000049F8": "Fiddle",
+      "0x02500000000049F9": "Sitar",
+      "0x02500000000049FA": "Bossa Nova",
+      "0x02500000000049FB": "Guzheng",
+      "0x02500000000049FC": "Djembe",
+      "0x0250000000004A0A": "Open Queue Season 2 Hero",
+      "0x0250000000004A0B": "Open Queue Season 2 Competitor",
+      "0x0250000000004A82": "Union Jack",
+      "0x0250000000004A83": "Sand Castle",
+      "0x0250000000004A84": "Ice Cream",
+      "0x0250000000004A85": "Surf's Up!",
+      "0x0250000000004A86": "Swimming",
+      "0x0250000000004A87": "Header",
+      "0x0250000000004A88": "Goalkeeper",
+      "0x0250000000004A8A": "Season 24 Hero",
+      "0x0250000000004A8B": "Season 24 Competitor",
+      "0x0250000000004A90": "Copa Lúcioball Competitor 2020",
+      "0x0250000000004A91": "Copa Lúcioball Hero 2020"
     },
     "Portrait": {
       "0x02500000000002F7": "Overwatch Dark",
@@ -8338,8 +8408,8 @@
       "0x02500000000048EF": "Promise",
       "0x02500000000048F0": "Echo",
       "0x02500000000048F1": "Symmetry",
-      "0x025000000000495D": "Competitive Open Queue Competitor",
-      "0x025000000000495E": "Competitive Open Queue Hero",
+      "0x025000000000495D": "Open Queue Season 1 Competitor",
+      "0x025000000000495E": "Open Queue Season 1 Hero",
       "0x02500000000049A3": "Anniversary 2020",
       "0x02500000000049A4": "Sigmaversary",
       "0x02500000000049A5": "Echoversary",
@@ -8354,7 +8424,27 @@
       "0x02500000000049BE": "Carbon Fiber",
       "0x02500000000049CA": "Competitive Deathmatch Hero 2020",
       "0x02500000000049CB": "Competitive Deathmatch Competitor 2020",
-      "0x02500000000049D3": "Fanous"
+      "0x02500000000049D3": "Fanous",
+      "0x02500000000049E9": "Maestro",
+      "0x02500000000049EE": "Season 23 Hero",
+      "0x02500000000049EF": "Season 23 Competitor",
+      "0x0250000000004A0C": "Open Queue Season 2 Hero",
+      "0x0250000000004A0D": "Open Queue Season 2 Competitor",
+      "0x0250000000004A8C": "Season 24 Hero",
+      "0x0250000000004A8D": "Season 24 Competitor",
+      "0x0250000000004A8E": "Copa Lúcioball Competitor 2020",
+      "0x0250000000004A8F": "Copa Lúcioball Hero 2020",
+      "0x0250000000004A9E": "Summer Games 2020",
+      "0x0250000000004AAA": "Baseballmari",
+      "0x0250000000004AAB": "Golfimari",
+      "0x0250000000004AAC": "Surfimari",
+      "0x0250000000004AAD": "Surf's up",
+      "0x0250000000004AAE": "Karate",
+      "0x0250000000004AAF": "Surf",
+      "0x0250000000004AB0": "Swimming",
+      "0x0250000000004AB1": "Lifeguard",
+      "0x0250000000004AB2": "Tropical",
+      "0x0250000000004AB4": "Feskarn"
     },
     "WeaponSkin": {
       "0x02500000000003A8": "DEFAULT",
@@ -9708,8 +9798,6 @@
       "0x0250000000001B26": "Overwatch League White",
       "0x0250000000001B2E": "Zhang Fei",
       "0x0250000000001B2F": "Pumpkin",
-      "0x0250000000001B35": "Contenders",
-      "0x0250000000001B36": "Contenders",
       "0x0250000000001B3D": "Spider",
       "0x0250000000001B3E": "Guan Yu",
       "0x0250000000001B48": "Lü Bu",
@@ -10582,6 +10670,7 @@
       "0x02500000000044D3": "Florida Mayhem Away",
       "0x02500000000044D4": "Florida Mayhem Away",
       "0x02500000000044D7": "Thunder",
+      "0x0250000000004667": "Lifeguard",
       "0x0250000000004668": "Huitzilopochtli",
       "0x02500000000046C6": "Little Red",
       "0x02500000000047DF": "Mardi Gras",
@@ -10589,9 +10678,12 @@
       "0x0250000000004841": "Bear",
       "0x0250000000004842": "Holi",
       "0x025000000000484A": "Rustclad",
+      "0x025000000000484E": "Feskarn",
       "0x0250000000004879": "Dragoon",
+      "0x0250000000004891": "Tropical",
       "0x02500000000048AF": "Classic",
       "0x02500000000048C0": "Stealth",
+      "0x02500000000048C3": "Karate",
       "0x02500000000048C4": "Carbon Fiber",
       "0x02500000000048C5": "Moth",
       "0x02500000000048CA": "Masked Man",
@@ -10601,7 +10693,9 @@
       "0x02500000000048D8": "Marina",
       "0x02500000000048D9": "Hot Rod",
       "0x02500000000048DA": "Carbon Fiber",
+      "0x0250000000004921": "Maestro",
       "0x025000000000492D": "Butterfly",
+      "0x0250000000004935": "Alien",
       "0x0250000000004941": "Camo",
       "0x0250000000004944": null,
       "0x0250000000004945": null,
@@ -10645,7 +10739,11 @@
       "0x0250000000004997": "Vancouver Titans Away",
       "0x0250000000004998": "Washington Justice",
       "0x0250000000004999": "Washington Justice Away",
-      "0x02500000000049B4": "Fleur de Lis"
+      "0x025000000000499E": "Surf's Up",
+      "0x02500000000049B4": "Fleur de Lis",
+      "0x02500000000049E3": "Sand Castle",
+      "0x02500000000049E8": "Union Jack",
+      "0x02500000000049F0": "Ice Cream"
     },
     "Emote": {
       "0x02500000000004F8": "Caduceus",
@@ -10909,6 +11007,7 @@
       "0x02500000000043B5": "Sky Lantern",
       "0x02500000000043B7": "Kite Flying",
       "0x0250000000004839": "Katt",
+      "0x0250000000004844": "Maestro",
       "0x02500000000048AC": "Curtsy",
       "0x02500000000048B0": "Heroic",
       "0x02500000000048B3": "Analysis",
@@ -10917,7 +11016,8 @@
       "0x02500000000048BC": "Flourish",
       "0x0250000000004963": "Dans",
       "0x0250000000004964": "Big Guy",
-      "0x02500000000049A2": "Weightless"
+      "0x02500000000049A2": "Weightless",
+      "0x0250000000004A02": "Warm up"
     },
     "VictoryPose": {
       "0x02500000000004FB": "Ready for battle",
@@ -11227,7 +11327,10 @@
       "0x02500000000048D1": "Stasis",
       "0x025000000000499F": "Salute",
       "0x02500000000049A0": "Flashbang",
-      "0x02500000000049A1": "Beatdown"
+      "0x02500000000049A1": "Beatdown",
+      "0x0250000000004A70": "Medal",
+      "0x0250000000004A72": "Medal",
+      "0x0250000000004A7C": "Medal"
     },
     "VoiceLine": {
       "0x02500000000004FE": "Doctor's orders",
@@ -12155,7 +12258,18 @@
       "0x0250000000004916": "That was different",
       "0x0250000000004917": "Every Situation",
       "0x0250000000004918": "I’ll try anything once",
-      "0x0250000000004922": "Flight Plan"
+      "0x0250000000004922": "Flight Plan",
+      "0x0250000000004A77": "Bullseye",
+      "0x0250000000004A78": "The best way to win",
+      "0x0250000000004A79": "Imitate the best",
+      "0x0250000000004A7A": "You learn something new",
+      "0x0250000000004A7B": "Break down tape of this",
+      "0x0250000000004A93": "Happy Midsummer!",
+      "0x0250000000004A95": "Fore!",
+      "0x0250000000004A96": "Serious?",
+      "0x0250000000004A97": "You picked the wrong side",
+      "0x0250000000004A98": "No job too big",
+      "0x0250000000004A99": "It's not that hot"
     }
   }
 }

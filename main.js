@@ -56,6 +56,8 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
   }
 
   const idOverrides = {
+    "sprays/mccree-bad-luck": "mccree-noose",
+    "sprays/sombra-hax0red": "sombra-deafmute",
     "sprays/hanzo-brickstrike": "hanzo-brick-dragon",
     "sprays/year-of-the-dog": "year-of-the-dog-2018",
     "sprays/year-of-the-rooster": "year-of-the-rooster-2017",
@@ -97,7 +99,12 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     "sprays/competitive-team-deathmatch-competitor-2018": "competitive-team-deathmatch-competitor",
     "sprays/competitive-team-deathmatch-hero-2018": "competitive-team-deathmatch-hero",
     "icons/competitive-team-deathmatch-competitor-2018": "competitive-team-deathmatch-competitor",
-    "icons/competitive-team-deathmatch-hero-2018": "competitive-team-deathmatch-hero"
+    "icons/competitive-team-deathmatch-hero-2018": "competitive-team-deathmatch-hero",
+
+    "sprays/open-queue-season-1-competitor": "competitive-open-queue-competitor",
+    "sprays/open-queue-season-1-hero": "competitive-open-queue-hero",
+    "icons/open-queue-season-1-competitor": "competitive-open-queue-competitor",
+    "icons/open-queue-season-1-hero": "competitive-open-queue-hero"
   }
 
   this.rawUnlocks = null
