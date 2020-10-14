@@ -141,6 +141,7 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
       this.parsingError = false
       this.generateBackupJson(json)
     } catch (e) {
+      throw e
       console.error("Error parsing JSON")
       this.parsingError = e.message
     }
@@ -157,20 +158,23 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
         if (!itemTypeClean) continue
 
         for (let itemId in this.unlockData.Heroes[heroName][itemType]) {
-          const itemName = this.unlockData.Heroes[heroName][itemType][itemId]
-          if (!itemName) continue
+          const item = this.unlockData.Heroes[heroName][itemType][itemId]
+          if (!item.Name) continue
 
-          let itemSlug = getCleanID(itemName, heroNameClean)
+          let itemSlug = getCleanID(item.Name, heroNameClean)
 
           const uniqueId = `${itemTypeClean}/${itemSlug}`
           itemSlug = idOverrides[uniqueId] || itemSlug;
 
           itemIdMapping[itemId] = {
-            type: itemTypeClean,
-            hero: heroNameClean,
-            id: getCleanID(itemName),
+            typeSlug: itemTypeClean,
+            heroSlug: heroNameClean,
             itemSlug: itemSlug,
-            itemName
+            itemId: getCleanID(item.Name),
+            typeName: itemType,
+            heroName: heroName,
+            itemName: item.Name,
+            quality: item.Quality
           }
         }
       }
@@ -190,72 +194,97 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
           continue
         }
 
-        const itemName = this.unlockData.AllUnlocks[itemType][itemId]
-        if (!itemName) continue
+        const item = this.unlockData.AllUnlocks[itemType][itemId]
+        if (!item.Name) continue
 
-        let itemSlug = getCleanID(itemName)
+        let itemSlug = getCleanID(item.Name)
 
         const uniqueId = `${itemTypeClean}/${itemSlug}`
         itemSlug = idOverrides[uniqueId] || itemSlug;
 
         itemIdMapping[itemId] = {
-          type: itemTypeClean,
-          hero: 'all',
-          id: getCleanID(itemName),
+          typeSlug: itemTypeClean,
+          heroSlug: 'all',
           itemSlug: itemSlug,
-          itemName: itemName
+          itemId: getCleanID(item.Name),
+          typeName: itemType,
+          heroName: 'All Class',
+          itemName: item.Name,
+          quality: item.Quality
         }
       }
     }
 
     const backup = {}
     const pretty = {}
+    const prettyWithQuality = {}
 
     for (const itemId of userUnlocks) {
       const item = itemIdMapping[itemId]
       if (!item) continue
 
-      const itemTypeId = `${item.type}/${item.id}`
+      const itemTypeId = `${item.typeSlug}/${item.itemId}`
       if (itemTypeId in ignoredItems) continue
 
-      if (!(item.hero in backup)) {
-        backup[item.hero] = {}
-        pretty[item.hero] = {}
+      if (!(item.heroSlug in backup)) {
+        backup[item.heroSlug] = {}
+        pretty[item.heroSlug] = {}
+        prettyWithQuality[item.heroName] = {}
       }
 
-      if (!(item.type in backup[item.hero])) {
-        backup[item.hero][item.type] = {}
-        pretty[item.hero][item.type] = []
+      if (!(item.typeSlug in backup[item.heroSlug])) {
+        backup[item.heroSlug][item.typeSlug] = {}
+        pretty[item.heroSlug][item.typeSlug] = []
+        prettyWithQuality[item.heroName][item.typeName] = []
       }
 
-      backup[item.hero][item.type][item.itemSlug] = true
-      pretty[item.hero][item.type].push(item.itemName)
+      backup[item.heroSlug][item.typeSlug][item.itemSlug] = true
+      pretty[item.heroSlug][item.typeSlug].push(item.itemName)
+      prettyWithQuality[item.heroName][item.typeName].push({
+        itemName: item.itemName,
+        quality: item.quality,
+      })
+    }
+
+    let output = ``
+    for (const hero in prettyWithQuality) {
+      output += `${hero} Unlocks`
+      for (const type in prettyWithQuality[hero]) {
+        output += `\n\t${type}s`
+        for (const item of prettyWithQuality[hero][type]) {
+          output += `\n\t\t${item.itemName} (${item.quality})`
+        }
+      }
+
+      output += '\n'
     }
 
     this.backupData = JSON.stringify(backup, null, 2)
     this.prettyData = JSON.stringify(pretty, null, 2)
+    this.plainTextData = output
   }
 
   this.copied = false
-  this.copyBackupJson = () => {
+  this.copyData = (type) => {
+    let data
+    switch (type) {
+      case 'backup':
+        data = this.backupData
+        break
+      case 'pretty':
+        data = this.prettyData
+        break
+      case 'plaintext':
+        data = this.plainTextData
+        break
+    }
+
     if (this.copied) {
       return
     }
 
     this.copied = true
-    copyToClipboard(this.backupData)
-    $timeout(() => {
-      this.copied = false
-    }, 2000)
-  }
-
-  this.copyPrettyJson = () => {
-    if (this.copied) {
-      return
-    }
-
-    this.copied = true
-    copyToClipboard(this.prettyData)
+    copyToClipboard(data)
     $timeout(() => {
       this.copied = false
     }, 2000)

@@ -50,7 +50,7 @@
             <div class="col-lg-12" style="margin-top: 10px">
               <p>Generated JSON that you can import into the Overwatch Item Tracker will be generated below when you enter valid unlocks data above. Once the data has been generated, you can copy the JSON and go to the Overwatch Item Tracker to import it.</p>
               <div class="form-group">
-                <button class="btn btn-primary" ng-disabled="!$vm.backupData" ng-click="$vm.copyBackupJson()">{{$vm.copied ? 'Copied!' : 'Copy JSON'}}</button>
+                <button class="btn btn-primary" ng-disabled="!$vm.backupData" ng-click="$vm.copyData('backup')">{{$vm.copied ? 'Copied!' : 'Copy JSON'}}</button>
               </div>
               <textarea class="form-control" rows="20" ng-model="$vm.backupData" placeholder="Generated backup JSON will appear here :)" disabled="true"></textarea>
             </div>
@@ -59,9 +59,18 @@
             <div class="col-lg-12" style="margin-top: 10px">
               <p>Generated JSON of your unlocks that you can use for looking or something, I don't know.</p>
               <div class="form-group">
-                <button class="btn btn-primary" ng-disabled="!$vm.backupData" ng-click="$vm.copyPrettyJson()">{{$vm.copied ? 'Copied!' : 'Copy JSON'}}</button>
+                <button class="btn btn-primary" ng-disabled="!$vm.backupData" ng-click="$vm.copyData('pretty')">{{$vm.copied ? 'Copied!' : 'Copy JSON'}}</button>
               </div>
               <textarea class="form-control" rows="20" ng-model="$vm.prettyData" placeholder="Prettier version of your unlocks will appear here" disabled="true"></textarea>
+            </div>
+          </uib-tab>
+          <uib-tab index="2" heading="Plaintext Output">
+            <div class="col-lg-12" style="margin-top: 10px">
+              <p>Generated plaintext of your unlocks</p>
+              <div class="form-group">
+                <button class="btn btn-primary" ng-disabled="!$vm.backupData" ng-click="$vm.copyData('plaintext')">{{$vm.copied ? 'Copied!' : 'Copy Data'}}</button>
+              </div>
+              <textarea class="form-control" rows="20" ng-model="$vm.plainTextData" placeholder="Prettier version of your unlocks will appear here" disabled="true"></textarea>
             </div>
           </uib-tab>
         </uib-tabset>
