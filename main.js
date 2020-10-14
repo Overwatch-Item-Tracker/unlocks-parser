@@ -107,8 +107,10 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     "icons/open-queue-season-1-hero": "competitive-open-queue-hero"
   }
 
+  this.activeTab = 0
   this.rawUnlocks = null
   this.parsingError = false
+
   this.onJsonChange = () => {
     this.parsingError = false
     if (!this.rawUnlocks) {
@@ -167,7 +169,8 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
             type: itemTypeClean,
             hero: heroNameClean,
             id: getCleanID(itemName),
-            itemSlug: itemSlug
+            itemSlug: itemSlug,
+            itemName
           }
         }
       }
@@ -199,12 +202,14 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
           type: itemTypeClean,
           hero: 'all',
           id: getCleanID(itemName),
-          itemSlug: itemSlug
+          itemSlug: itemSlug,
+          itemName: itemName
         }
       }
     }
 
     const backup = {}
+    const pretty = {}
 
     for (const itemId of userUnlocks) {
       const item = itemIdMapping[itemId]
@@ -215,16 +220,20 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
 
       if (!(item.hero in backup)) {
         backup[item.hero] = {}
+        pretty[item.hero] = {}
       }
 
       if (!(item.type in backup[item.hero])) {
         backup[item.hero][item.type] = {}
+        pretty[item.hero][item.type] = []
       }
 
       backup[item.hero][item.type][item.itemSlug] = true
+      pretty[item.hero][item.type].push(item.itemName)
     }
 
     this.backupData = JSON.stringify(backup, null, 2)
+    this.prettyData = JSON.stringify(pretty, null, 2)
   }
 
   this.copied = false
@@ -235,6 +244,18 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
 
     this.copied = true
     copyToClipboard(this.backupData)
+    $timeout(() => {
+      this.copied = false
+    }, 2000)
+  }
+
+  this.copyPrettyJson = () => {
+    if (this.copied) {
+      return
+    }
+
+    this.copied = true
+    copyToClipboard(this.prettyData)
     $timeout(() => {
       this.copied = false
     }, 2000)
