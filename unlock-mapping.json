@@ -147,7 +147,9 @@
         "0x025000000000446F": "Los Angeles Valiant",
         "0x025000000000448D": "Los Angeles Valiant Away",
         "0x0250000000004450": "San Francisco Shock",
-        "0x0250000000004431": "San Francisco Shock Away"
+        "0x0250000000004431": "San Francisco Shock Away",
+        "0x0250000000004A65": "Contenders Home",
+        "0x0250000000004A46": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000181": "Icon",
@@ -206,7 +208,8 @@
         "0x0250000000002523": "Noble Thief",
         "0x02500000000010BC": "Cadet",
         "0x025000000000115E": "Auxton",
-        "0x0250000000002AA4": "Tracer Minifig"
+        "0x0250000000002AA4": "Tracer Minifig",
+        "0x0250000000004AEA": "Comic Book"
       },
       "Emote": {
         "0x0250000000000827": "Spin",
@@ -345,7 +348,10 @@
         "0x0250000000004494": "Los Angeles Valiant Away",
         "0x0250000000004457": "San Francisco Shock",
         "0x0250000000004438": "San Francisco Shock Away",
-        "0x02500000000049E8": "Union Jack"
+        "0x0250000000004A6C": "Contenders Home",
+        "0x0250000000004A4D": "Contenders Away",
+        "0x02500000000049E8": "Union Jack",
+        "0x0250000000004AEC": "Comic Book"
       },
       "Spray": {
         "0x02500000000000DF": "Icon",
@@ -384,7 +390,14 @@
         "0x0250000000001176": "Ace of Diamonds",
         "0x025000000000015C": "Pixel",
         "0x025000000000015E": "Cute",
-        "0x0250000000004A82": "Union Jack"
+        "0x0250000000004A82": "Union Jack",
+        "0x0250000000004ADF": "Blink!",
+        "0x0250000000004AE0": "Zap!",
+        "0x0250000000004AE1": "Pow!",
+        "0x0250000000004AE2": "Bang!",
+        "0x0250000000004AE3": "Whack!",
+        "0x0250000000004AE4": "Pew Pew!",
+        "0x0250000000004AEB": "Quote Me"
       },
       "WeaponSkin": {
         "0x02500000000003BB": "DEFAULT",
@@ -543,7 +556,9 @@
         "0x025000000000445C": "Los Angeles Valiant",
         "0x025000000000447A": "Los Angeles Valiant Away",
         "0x025000000000443D": "San Francisco Shock",
-        "0x025000000000441E": "San Francisco Shock Away"
+        "0x025000000000441E": "San Francisco Shock Away",
+        "0x0250000000004A32": "Contenders Away",
+        "0x0250000000004A51": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000185": "Icon",
@@ -610,6 +625,7 @@
         "0x0250000000001598": "Cute Hanzo",
         "0x0250000000000BC6": "Archery",
         "0x02500000000029A4": "Wave",
+        "0x0250000000004B21": "Dai-Tengu",
         "0x0250000000001399": "Casual",
         "0x025000000000251D": "Hanzhong",
         "0x02500000000017B3": "Scion",
@@ -665,6 +681,7 @@
         "0x0250000000001218": "Defeat is the first step",
         "0x0250000000000C93": "You are already dead",
         "0x02500000000012B3": "Master your fears",
+        "0x0250000000004AFE": "The Shimada will rise again",
         "0x0250000000000D80": "A gift for you",
         "0x0250000000001334": "Cold as ice",
         "0x02500000000024F0": "Out Cold",
@@ -696,6 +713,7 @@
         "0x0250000000000CB2": "Kabuki",
         "0x0250000000001981": "Wave",
         "0x0250000000000C68": "Demon",
+        "0x0250000000004877": "Dai-Tengu",
         "0x0250000000001039": "Casual",
         "0x0250000000001A38": "Huang Zhong",
         "0x025000000000128E": "Scion",
@@ -748,7 +766,9 @@
         "0x025000000000445E": "Los Angeles Valiant",
         "0x025000000000447C": "Los Angeles Valiant Away",
         "0x025000000000443F": "San Francisco Shock",
-        "0x0250000000004420": "San Francisco Shock Away"
+        "0x0250000000004420": "San Francisco Shock Away",
+        "0x0250000000004A34": "Contenders Away",
+        "0x0250000000004A53": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000186": "Icon",
@@ -777,6 +797,7 @@
         "0x02500000000015B1": "Kabuki",
         "0x0250000000000B77": "Archery",
         "0x0250000000000C53": "Trick or Treat",
+        "0x0250000000004B27": "Dai-Tengu",
         "0x0250000000000D0E": "Kadomatsu",
         "0x0250000000000D29": "Ornament",
         "0x0250000000000EC5": "Blue Dragon",
@@ -855,6 +876,7 @@
         "0x0250000000000C9A": "If you build it",
         "0x02500000000012BA": "I smell trouble brewing",
         "0x0250000000002AC7": "Mind the beard",
+        "0x0250000000004B02": "The Viking's quest",
         "0x0250000000000D88": "Made to order",
         "0x025000000000133C": "Expert craftsmanship",
         "0x0250000000000F51": "Too hot for you?",
@@ -939,7 +961,9 @@
         "0x0250000000004487": "Los Angeles Valiant Away",
         "0x025000000000444A": "San Francisco Shock",
         "0x025000000000442B": "San Francisco Shock Away",
-        "0x025000000000484A": "Rustclad"
+        "0x025000000000484A": "Rustclad",
+        "0x0250000000004A40": "Contenders Away",
+        "0x0250000000004A5F": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000187": "Icon",
@@ -1003,6 +1027,7 @@
         "0x0250000000000A81": "Uproarious",
         "0x0250000000000A82": "Kneel",
         "0x0250000000000C2F": "Pumpkin Smash",
+        "0x0250000000004ADB": "Zombie Walk",
         "0x0250000000000CF5": "Sweethardt",
         "0x02500000000008FF": "Heroic"
       },
@@ -1123,7 +1148,10 @@
         "0x025000000000446A": "Los Angeles Valiant",
         "0x0250000000004488": "Los Angeles Valiant Away",
         "0x025000000000444B": "San Francisco Shock",
-        "0x025000000000442C": "San Francisco Shock Away"
+        "0x025000000000442C": "San Francisco Shock Away",
+        "0x02500000000043B8": "2020 Atlantic All-Stars",
+        "0x0250000000004A41": "Contenders Away",
+        "0x0250000000004A60": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000184": "Icon",
@@ -1206,6 +1234,7 @@
         "0x0250000000000083": "Mission Complete",
         "0x0250000000000085": "Barrage",
         "0x0250000000001141": "Slam Dunk",
+        "0x0250000000004B06": "Target Practice",
         "0x025000000000021D": "Heroic",
         "0x0250000000000230": "RANDOM"
       },
@@ -1313,7 +1342,9 @@
         "0x0250000000004471": "Los Angeles Valiant",
         "0x025000000000448F": "Los Angeles Valiant Away",
         "0x0250000000004433": "San Francisco Shock Away",
-        "0x0250000000004452": "San Francisco Shock"
+        "0x0250000000004452": "San Francisco Shock",
+        "0x0250000000004A67": "Contenders Home",
+        "0x0250000000004A48": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000183": "Raptora",
@@ -1367,6 +1398,7 @@
         "0x02500000000015A8": "Cute Winston",
         "0x0250000000000BBD": "Volleyball",
         "0x0250000000001A88": "Catcher",
+        "0x0250000000004B1F": "Werewolf",
         "0x0250000000000D61": "Yeti",
         "0x0250000000000F07": "Monkey",
         "0x02500000000017B5": "Specimen 28",
@@ -1449,6 +1481,7 @@
         "0x025000000000045C": "Explorer",
         "0x025000000000045D": "Safari",
         "0x025000000000170B": "Catcher",
+        "0x02500000000049B5": "Werewolf",
         "0x0250000000000BF1": "Yeti",
         "0x0250000000000BF3": "Wukong",
         "0x025000000000142A": "Specimen 28",
@@ -1504,7 +1537,9 @@
         "0x0250000000004473": "Los Angeles Valiant",
         "0x0250000000004491": "Los Angeles Valiant Away",
         "0x0250000000004454": "San Francisco Shock",
-        "0x0250000000004435": "San Francisco Shock Away"
+        "0x0250000000004435": "San Francisco Shock Away",
+        "0x0250000000004A69": "Contenders Home",
+        "0x0250000000004A4A": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000188": "Icon",
@@ -1533,6 +1568,7 @@
         "0x02500000000015C1": "Safari",
         "0x0250000000000BA1": "Volleyball",
         "0x0250000000000C60": "Trick or Treat",
+        "0x0250000000004B28": "Werewolf",
         "0x0250000000000D1D": "Presents",
         "0x0250000000000D39": "Ornament",
         "0x0250000000000ECF": "Kite",
@@ -1588,6 +1624,7 @@
         "0x0250000000000129": "Swinging into Action",
         "0x025000000000012A": "I see you...",
         "0x025000000000012B": "Hanging Around",
+        "0x0250000000004AF1": "Itsy Bitsy Spider",
         "0x0250000000000D43": "Under the Mistletoe",
         "0x025000000000021C": "Heroic",
         "0x025000000000022F": "RANDOM"
@@ -1610,6 +1647,7 @@
         "0x0250000000000CA8": "The party is over",
         "0x02500000000012C6": "Morning spider...",
         "0x0250000000002AC5": "In your dreams",
+        "0x0250000000004B03": "Feared by all",
         "0x0250000000000D94": "Exquisite",
         "0x0250000000001331": "Merry Christmas",
         "0x02500000000024F7": "Happy Holidays",
@@ -1695,7 +1733,9 @@
         "0x0250000000004495": "Los Angeles Valiant Away",
         "0x0250000000004458": "San Francisco Shock",
         "0x0250000000004439": "San Francisco Shock Away",
-        "0x02500000000049B4": "Fleur de Lis"
+        "0x02500000000049B4": "Fleur de Lis",
+        "0x0250000000004A6D": "Contenders Home",
+        "0x0250000000004A4E": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000182": "Icon",
@@ -1884,6 +1924,8 @@
         "0x0250000000004485": "Los Angeles Valiant Away",
         "0x0250000000004448": "San Francisco Shock",
         "0x0250000000004429": "San Francisco Shock Away",
+        "0x0250000000004A5D": "Contenders Home",
+        "0x0250000000004A3E": "Contenders Away",
         "0x02500000000049E3": "Sand Castle"
       },
       "Spray": {
@@ -2073,7 +2115,9 @@
         "0x0250000000004493": "Los Angeles Valiant Away",
         "0x0250000000004456": "San Francisco Shock",
         "0x0250000000004437": "San Francisco Shock Away",
-        "0x0250000000004842": "Holi"
+        "0x0250000000004842": "Holi",
+        "0x0250000000004A6B": "Contenders Home",
+        "0x0250000000004A4C": "Contenders Away"
       },
       "Spray": {
         "0x025000000000018A": "Icon",
@@ -2265,7 +2309,9 @@
         "0x0250000000004460": "Los Angeles Valiant",
         "0x025000000000447E": "Los Angeles Valiant Away",
         "0x0250000000004441": "San Francisco Shock",
-        "0x0250000000004422": "San Francisco Shock Away"
+        "0x0250000000004422": "San Francisco Shock Away",
+        "0x0250000000004A36": "Contenders Away",
+        "0x0250000000004A55": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000189": "Icon",
@@ -2320,6 +2366,7 @@
         "0x02500000000015A9": "Cute Genji",
         "0x0250000000000BBE": "Fencing",
         "0x02500000000029A3": "Kendoka",
+        "0x0250000000004B20": "Karasu-Tengu",
         "0x02500000000010B9": "Cyborg",
         "0x025000000000115C": "Goldborg",
         "0x0250000000002AA6": "Genji Minifig"
@@ -2371,6 +2418,7 @@
         "0x0250000000000CA5": "My Halloween costume?",
         "0x02500000000012C3": "Happy Halloween",
         "0x02500000000022B1": "Trick or treat",
+        "0x0250000000004AFD": "Sword in the shadows",
         "0x0250000000000D91": "Merry Christmas!",
         "0x0250000000001345": "Count your blessings",
         "0x0250000000000F5B": "To know yourself",
@@ -2399,6 +2447,7 @@
         "0x0250000000000C1F": "Oni",
         "0x0250000000000B26": "Nihon",
         "0x025000000000172D": "Kendoka",
+        "0x0250000000004780": "Karasu-Tengu",
         "0x025000000000125F": "Baihu",
         "0x0250000000000F91": "Blackwatch",
         "0x0250000000000FE3": "Sentai",
@@ -2452,7 +2501,9 @@
         "0x0250000000004474": "Los Angeles Valiant",
         "0x0250000000004492": "Los Angeles Valiant Away",
         "0x0250000000004455": "San Francisco Shock",
-        "0x0250000000004436": "San Francisco Shock Away"
+        "0x0250000000004436": "San Francisco Shock Away",
+        "0x0250000000004A6A": "Contenders Home",
+        "0x0250000000004A4B": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000192": "Icon",
@@ -2482,6 +2533,7 @@
         "0x02500000000015C2": "Blackwatch",
         "0x0250000000000B76": "Fencing",
         "0x0250000000000C61": "Trick or Treat",
+        "0x0250000000004B26": "Karasu-Tengu",
         "0x0250000000000D1E": "Kadomatsu",
         "0x0250000000000D3A": "Ornament",
         "0x0250000000000ED4": "Green Dragon",
@@ -2642,7 +2694,9 @@
         "0x0250000000004470": "Los Angeles Valiant",
         "0x025000000000448E": "Los Angeles Valiant Away",
         "0x0250000000004451": "San Francisco Shock",
-        "0x0250000000004432": "San Francisco Shock Away"
+        "0x0250000000004432": "San Francisco Shock Away",
+        "0x0250000000004A66": "Contenders Home",
+        "0x0250000000004A47": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000190": "Icon",
@@ -2839,7 +2893,9 @@
         "0x025000000000447D": "Los Angeles Valiant Away",
         "0x0250000000004440": "San Francisco Shock",
         "0x0250000000004421": "San Francisco Shock Away",
-        "0x02500000000048CA": "Masked Man"
+        "0x02500000000048CA": "Masked Man",
+        "0x0250000000004A35": "Contenders Away",
+        "0x0250000000004A54": "Contenders Home"
       },
       "Spray": {
         "0x025000000000018C": "Icon",
@@ -3032,7 +3088,9 @@
         "0x0250000000004461": "Los Angeles Valiant",
         "0x025000000000447F": "Los Angeles Valiant Away",
         "0x0250000000004423": "San Francisco Shock Away",
-        "0x0250000000004442": "San Francisco Shock"
+        "0x0250000000004442": "San Francisco Shock",
+        "0x0250000000004A37": "Contenders Away",
+        "0x0250000000004A56": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000191": "Icon",
@@ -3224,7 +3282,9 @@
         "0x025000000000448B": "Los Angeles Valiant Away",
         "0x025000000000444E": "San Francisco Shock",
         "0x025000000000442F": "San Francisco Shock Away",
-        "0x0250000000004935": "Alien"
+        "0x0250000000004935": "Alien",
+        "0x0250000000004A44": "Contenders Away",
+        "0x0250000000004A63": "Contenders Home"
       },
       "Spray": {
         "0x025000000000018D": "Icon",
@@ -3329,6 +3389,7 @@
         "0x0250000000000CA3": "Knock knock",
         "0x02500000000012C1": "Trick or treat",
         "0x0250000000002AC3": "Not much of a living",
+        "0x0250000000004B01": "What, are you scared?",
         "0x0250000000000D8F": "Stay frosty",
         "0x0250000000001343": "Merry Christmas",
         "0x0250000000000F59": "The rooster crows",
@@ -3411,7 +3472,9 @@
         "0x0250000000004472": "Los Angeles Valiant",
         "0x0250000000004490": "Los Angeles Valiant Away",
         "0x0250000000004453": "San Francisco Shock",
-        "0x0250000000004434": "San Francisco Shock Away"
+        "0x0250000000004434": "San Francisco Shock Away",
+        "0x0250000000004A68": "Contenders Home",
+        "0x0250000000004A49": "Contenders Away"
       },
       "Spray": {
         "0x025000000000018E": "Icon",
@@ -3521,6 +3584,7 @@
         "0x0250000000000C97": "Killed it!",
         "0x02500000000012B7": "So good it's scary!",
         "0x02500000000022B2": "Trick or treat",
+        "0x0250000000004AFF": "No such thing as ghosts",
         "0x0250000000000D84": "Happy holidays!",
         "0x0250000000001338": "Climbing the charts!",
         "0x0250000000000F4E": "I make this look good...",
@@ -3603,7 +3667,9 @@
         "0x0250000000004462": "Los Angeles Valiant",
         "0x0250000000004480": "Los Angeles Valiant Away",
         "0x0250000000004443": "San Francisco Shock",
-        "0x0250000000004424": "San Francisco Shock Away"
+        "0x0250000000004424": "San Francisco Shock Away",
+        "0x0250000000004A57": "Contenders Home",
+        "0x0250000000004A38": "Contenders Away"
       },
       "Spray": {
         "0x025000000000018F": "Icon",
@@ -3660,6 +3726,7 @@
         "0x0250000000000BB2": "Cycling",
         "0x0250000000001A86": "Waveracer",
         "0x0250000000001A87": "D.Vacation",
+        "0x0250000000004B22": "Shin-Ryeong",
         "0x0250000000000F05": "Hanbok",
         "0x0250000000001155": "Hanaversary",
         "0x0250000000002901": "Academy",
@@ -3741,6 +3808,7 @@
         "0x02500000000012CD": "Black Cat",
         "0x0250000000000B28": "Taegeukgi",
         "0x02500000000016D2": "Waveracer",
+        "0x02500000000049E1": "Shin-Ryeong",
         "0x0250000000000CFF": "Palanquin",
         "0x0250000000000D26": "Cruiser",
         "0x0250000000002535": "Academy",
@@ -3794,7 +3862,10 @@
         "0x025000000000446C": "Los Angeles Valiant",
         "0x025000000000448A": "Los Angeles Valiant Away",
         "0x025000000000444D": "San Francisco Shock",
-        "0x025000000000442E": "San Francisco Shock Away"
+        "0x025000000000442E": "San Francisco Shock Away",
+        "0x0250000000003F7B": "2020 Pacific All-Stars",
+        "0x0250000000004A43": "Contenders Away",
+        "0x0250000000004A62": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000193": "Icon",
@@ -3824,6 +3895,7 @@
         "0x02500000000015BC": "Black Cat",
         "0x0250000000000B57": "Cycling",
         "0x0250000000000C5C": "Trick or Treat",
+        "0x0250000000004B25": "Shin-Ryeong",
         "0x0250000000000D33": "ORNAMENT",
         "0x0250000000000D17": "COOKIE",
         "0x0250000000000ED6": "Seesaw",
@@ -3998,7 +4070,9 @@
         "0x0250000000004482": "Los Angeles Valiant Away",
         "0x0250000000004445": "San Francisco Shock",
         "0x0250000000004426": "San Francisco Shock Away",
-        "0x0250000000004841": "Bear"
+        "0x0250000000004841": "Bear",
+        "0x0250000000004A5A": "Contenders Home",
+        "0x0250000000004A3B": "Contenders Away"
       },
       "Spray": {
         "0x0250000000000194": "Icon",
@@ -4060,7 +4134,8 @@
         "0x025000000000467C": "Blue Mask",
         "0x02500000000017B6": "Colomar",
         "0x0250000000001152": "Aniversario",
-        "0x0250000000002AE1": "Demon Hunter"
+        "0x0250000000002AE1": "Demon Hunter",
+        "0x0250000000004B19": "Fantasma"
       },
       "Emote": {
         "0x0250000000000AF7": "Amused",
@@ -4192,7 +4267,10 @@
         "0x0250000000004468": "Los Angeles Valiant",
         "0x0250000000004486": "Los Angeles Valiant Away",
         "0x0250000000004449": "San Francisco Shock",
-        "0x025000000000442A": "San Francisco Shock Away"
+        "0x025000000000442A": "San Francisco Shock Away",
+        "0x0250000000004A3F": "Contenders Away",
+        "0x0250000000004A5E": "Contenders Home",
+        "0x0250000000004A07": "Fantasma"
       },
       "Spray": {
         "0x0250000000000CC8": "Marionette",
@@ -4234,7 +4312,8 @@
         "0x025000000000116A": "Queen of Spades",
         "0x0250000000000CCA": "Pixel",
         "0x0250000000000CC9": "Cute",
-        "0x0250000000002AF8": "Demon Hunter"
+        "0x0250000000002AF8": "Demon Hunter",
+        "0x0250000000004B1A": "Fantasma"
       },
       "WeaponSkin": {
         "0x0250000000000AF0": "DEFAULT",
@@ -4386,7 +4465,9 @@
         "0x0250000000004481": "Los Angeles Valiant Away",
         "0x0250000000004444": "San Francisco Shock",
         "0x0250000000004425": "San Francisco Shock Away",
-        "0x02500000000044D7": "Thunder"
+        "0x02500000000044D7": "Thunder",
+        "0x0250000000004A58": "Contenders Home",
+        "0x0250000000004A39": "Contenders Away"
       },
       "Spray": {
         "0x02500000000011BC": "Punching Bag",
@@ -4498,6 +4579,7 @@
         "0x0250000000004A99": "It's not that hot",
         "0x0250000000000C91": "Are you scared?",
         "0x02500000000012B1": "Don't be scared",
+        "0x0250000000004AF9": "Listen to your mummy",
         "0x0250000000000D7E": "I'm watching out for you",
         "0x0250000000001332": "I'm too old for surprises",
         "0x0250000000000E93": "The moon in winter",
@@ -4578,7 +4660,9 @@
         "0x025000000000445A": "Los Angeles Valiant",
         "0x025000000000441B": "Los Angeles Valiant Away",
         "0x025000000000443B": "San Francisco Shock",
-        "0x025000000000441C": "San Francisco Shock Away"
+        "0x025000000000441C": "San Francisco Shock Away",
+        "0x0250000000004A30": "Contenders Away",
+        "0x0250000000004A4F": "Contenders Home"
       },
       "Spray": {
         "0x0250000000000A94": "Old Soldier",
@@ -4689,6 +4773,7 @@
         "0x02500000000029AE": "Thank you for understanding",
         "0x02500000000012CA": "Your pulse has increased",
         "0x02500000000012C7": "Be careful",
+        "0x0250000000004B00": "Exterminate!",
         "0x025000000000134B": "Can't I guide your way tonight",
         "0x0250000000001348": "Annual performance analysis",
         "0x025000000000164D": "The moon that wanes",
@@ -4769,6 +4854,8 @@
         "0x0250000000004479": "Los Angeles Valiant Away",
         "0x025000000000443C": "San Francisco Shock",
         "0x025000000000441D": "San Francisco Shock Away",
+        "0x0250000000004A31": "Contenders Away",
+        "0x0250000000004A50": "Contenders Home",
         "0x02500000000049F0": "Ice Cream"
       },
       "Spray": {
@@ -4825,7 +4912,8 @@
         "0x0250000000004606": "Opera Warrior",
         "0x025000000000196E": "Jubileum",
         "0x0250000000001988": "Björn",
-        "0x02500000000028FC": "Riot Police"
+        "0x02500000000028FC": "Riot Police",
+        "0x0250000000004B1D": "Stone"
       },
       "Emote": {
         "0x02500000000016D5": "Recalibrate",
@@ -4954,7 +5042,10 @@
         "0x025000000000446E": "Los Angeles Valiant",
         "0x025000000000448C": "Los Angeles Valiant Away",
         "0x025000000000444F": "San Francisco Shock",
-        "0x0250000000004430": "San Francisco Shock Away"
+        "0x0250000000004430": "San Francisco Shock Away",
+        "0x0250000000004A45": "Contenders Away",
+        "0x0250000000004A64": "Contenders Home",
+        "0x0250000000004A89": "Stone"
       },
       "Spray": {
         "0x02500000000016E7": "Icon",
@@ -4991,7 +5082,8 @@
         "0x0250000000001972": "Eight of Spades",
         "0x02500000000016F3": "Cute",
         "0x02500000000016F4": "Pixel",
-        "0x02500000000047E3": "Semlor"
+        "0x02500000000047E3": "Semlor",
+        "0x0250000000004B1B": "Stone"
       },
       "WeaponSkin": {
         "0x02500000000016DA": "DEFAULT",
@@ -5139,7 +5231,9 @@
         "0x025000000000446B": "Los Angeles Valiant",
         "0x0250000000004489": "Los Angeles Valiant Away",
         "0x025000000000444C": "San Francisco Shock",
-        "0x025000000000442D": "San Francisco Shock Away"
+        "0x025000000000442D": "San Francisco Shock Away",
+        "0x0250000000004A42": "Contenders Away",
+        "0x0250000000004A61": "Contenders Home"
       },
       "Spray": {
         "0x0250000000001304": "Icon",
@@ -5324,7 +5418,9 @@
         "0x0250000000004478": "Los Angeles Valiant",
         "0x0250000000004496": "Los Angeles Valiant Away",
         "0x0250000000004459": "San Francisco Shock",
-        "0x025000000000443A": "San Francisco Shock Away"
+        "0x025000000000443A": "San Francisco Shock Away",
+        "0x0250000000001B36": "Contenders Away",
+        "0x0250000000001B35": "Contenders Home"
       },
       "Spray": {
         "0x0250000000001A04": "Icon",
@@ -5416,6 +5512,9 @@
         "0x025000000000243E": "Just taking out the trash",
         "0x0250000000004A77": "Bullseye",
         "0x0250000000004A78": "The best way to win",
+        "0x0250000000004AFA": "You scared?",
+        "0x0250000000004AFB": "Is that a costume?",
+        "0x0250000000004AFC": "The Outlaw's ghost",
         "0x02500000000024EC": "It's a giving time of year",
         "0x02500000000024ED": "Girl Who Has Everything",
         "0x025000000000250F": "No one likes a squealer",
@@ -5435,6 +5534,7 @@
         "0x0250000000002456": "Relaxing",
         "0x0250000000002458": "Kneeling",
         "0x025000000000299C": "Medal",
+        "0x0250000000004B07": "Pumpkin",
         "0x025000000000248D": "Lighting the fuse",
         "0x02500000000047DB": "The Spoils",
         "0x02500000000022BE": "Heroic",
@@ -5504,7 +5604,9 @@
         "0x025000000000447B": "Los Angeles Valiant Away",
         "0x025000000000443E": "San Francisco Shock",
         "0x025000000000441F": "San Francisco Shock Away",
-        "0x02500000000047DF": "Mardi Gras"
+        "0x02500000000047DF": "Mardi Gras",
+        "0x0250000000004A33": "Contenders Away",
+        "0x0250000000004A52": "Contenders Home"
       },
       "Spray": {
         "0x0250000000002481": "Icon",
@@ -5560,7 +5662,8 @@
         "0x02500000000048F1": "Symmetry",
         "0x0250000000004AAD": "Surf's up",
         "0x0250000000004AAF": "Surf",
-        "0x02500000000049A5": "Echoversary"
+        "0x02500000000049A5": "Echoversary",
+        "0x0250000000004B1E": "Ragdoll"
       },
       "Emote": {
         "0x02500000000048AC": "Curtsy",
@@ -5575,6 +5678,7 @@
         "0x02500000000048B5": "Prim",
         "0x02500000000048D0": "Empowered",
         "0x02500000000048D1": "Stasis",
+        "0x0250000000004B04": "Pumpkin",
         "0x02500000000048B2": "Heroic",
         "0x02500000000048CC": "RANDOM"
       },
@@ -5637,7 +5741,10 @@
         "0x0250000000004997": "Vancouver Titans Away",
         "0x0250000000004996": "Vancouver Titans",
         "0x0250000000004999": "Washington Justice Away",
-        "0x0250000000004998": "Washington Justice"
+        "0x0250000000004998": "Washington Justice",
+        "0x0250000000004A59": "Contenders Home",
+        "0x0250000000004A3A": "Contenders Away",
+        "0x0250000000004AD6": "Ragdoll"
       },
       "Spray": {
         "0x02500000000048CF": "Icon",
@@ -5664,6 +5771,7 @@
         "0x025000000000490C": "Ghost",
         "0x025000000000490D": "Symbol",
         "0x0250000000004A85": "Surf's Up!",
+        "0x0250000000004B29": "Trick or Treat",
         "0x02500000000049C3": "Seven of Hearts",
         "0x02500000000048FF": "Cute",
         "0x0250000000004900": "Pixel",
@@ -5672,7 +5780,8 @@
         "0x0250000000004938": "Bright Idea",
         "0x0250000000004939": "My Legacy",
         "0x025000000000493A": "Echo Online",
-        "0x025000000000493B": "Duplicate"
+        "0x025000000000493B": "Duplicate",
+        "0x0250000000004B1C": "Ragdoll"
       },
       "VoiceLine": {
         "0x0250000000004922": "Flight Plan",
@@ -5689,6 +5798,8 @@
         "0x0250000000004A79": "Imitate the best",
         "0x0250000000004A7A": "You learn something new",
         "0x0250000000004A7B": "Break down tape of this",
+        "0x0250000000004AF7": "Spirits live within me",
+        "0x0250000000004AF8": "Do you believe in ghosts?",
         "0x02500000000048DF": "Intriguing",
         "0x02500000000048E1": "Another helping?",
         "0x02500000000048DD": "A submarine can't swim",
@@ -5724,6 +5835,7 @@
         "0x02500000000027C8": "Peace Out",
         "0x02500000000027C9": "On Alert",
         "0x02500000000027CA": "Say Cheese",
+        "0x0250000000004B0B": "Pumpkin",
         "0x02500000000043B2": "Hot Soup",
         "0x02500000000027BA": "Heroic",
         "0x0250000000002895": "RANDOM"
@@ -5754,6 +5866,8 @@
         "0x0250000000002AB7": "Don't cry",
         "0x0250000000002AB8": "Bandage or bullet?",
         "0x0250000000002ABC": "Don't die on me",
+        "0x0250000000004AF5": "Behind you!",
+        "0x0250000000004AF6": "Long ago...",
         "0x0250000000004341": "A little T.L.C.",
         "0x0250000000004342": "Today, I give you a choice",
         "0x0250000000004343": "Some kind of angel",
@@ -5830,7 +5944,9 @@
         "0x0250000000004465": "Los Angeles Valiant",
         "0x0250000000004483": "Los Angeles Valiant Away",
         "0x0250000000004446": "San Francisco Shock",
-        "0x0250000000004427": "San Francisco Shock Away"
+        "0x0250000000004427": "San Francisco Shock Away",
+        "0x0250000000004A5B": "Contenders Home",
+        "0x0250000000004A3C": "Contenders Away"
       },
       "Spray": {
         "0x0250000000002838": "Icon",
@@ -5887,6 +6003,7 @@
         "0x0250000000002A5D": "Hypersphere",
         "0x0250000000002A5E": "Black Hole",
         "0x0250000000004AB0": "Swimming",
+        "0x0250000000004B23": "Flying Dutchman",
         "0x0250000000004355": "Rime",
         "0x02500000000049A4": "Sigmaversary",
         "0x02500000000049BE": "Carbon Fiber",
@@ -5959,6 +6076,7 @@
         "0x02500000000029BB": "Asylum",
         "0x025000000000295D": "Prophet",
         "0x0250000000002A3B": "Oracle",
+        "0x02500000000049D6": "Flying Dutchman",
         "0x0250000000002A8A": "Rime",
         "0x02500000000022A6": "Classic",
         "0x0250000000002A01": "Washington Justice",
@@ -6010,7 +6128,9 @@
         "0x0250000000004447": "San Francisco Shock",
         "0x0250000000004428": "San Francisco Shock Away",
         "0x02500000000048C4": "Carbon Fiber",
-        "0x0250000000004921": "Maestro"
+        "0x0250000000004921": "Maestro",
+        "0x0250000000004A3D": "Contenders Away",
+        "0x0250000000004A5C": "Contenders Home"
       },
       "Spray": {
         "0x0250000000002A39": "Icon",
@@ -6038,6 +6158,7 @@
         "0x0250000000002A53": "Hypersphere",
         "0x0250000000004A86": "Swimming",
         "0x0250000000002AD4": "Trick or Treat",
+        "0x0250000000004B24": "Flying Dutchman",
         "0x0250000000003FB0": "Ice Statue",
         "0x0250000000003FB1": "Ornament",
         "0x025000000000440F": "Dumpling Grasp",
@@ -6260,7 +6381,9 @@
       "0x02500000000048CD": "Heroic",
       "0x02500000000048CE": "RANDOM",
       "0x02500000000049F2": "Target Practice",
-      "0x0250000000004A74": "Vacation"
+      "0x0250000000004A74": "Vacation",
+      "0x0250000000004AF1": "Itsy Bitsy Spider",
+      "0x0250000000004B06": "Target Practice"
     },
     "Spray": {
       "0x025000000000008D": "Logo",
@@ -6934,6 +7057,7 @@
       "0x0250000000000CAE": "Boop!",
       "0x0250000000000CAF": "Rise of the Zomnics",
       "0x0250000000000CB0": "The Reapening",
+      "0x0250000000000CB1": "Halloween Elite",
       "0x0250000000000CC8": "Marionette",
       "0x0250000000000CC9": "Cute",
       "0x0250000000000CCA": "Pixel",
@@ -7748,7 +7872,38 @@
       "0x0250000000004A8A": "Season 24 Hero",
       "0x0250000000004A8B": "Season 24 Competitor",
       "0x0250000000004A90": "Copa Lúcioball Competitor 2020",
-      "0x0250000000004A91": "Copa Lúcioball Hero 2020"
+      "0x0250000000004A91": "Copa Lúcioball Hero 2020",
+      "0x0250000000004AD7": "Competitive 3v3 Elimination Hero 2020",
+      "0x0250000000004AD8": "Competitive 3v3 Elimination Competitor 2020",
+      "0x0250000000004ADE": "Grand Finals 2020",
+      "0x0250000000004ADF": "Blink!",
+      "0x0250000000004AE0": "Zap!",
+      "0x0250000000004AE1": "Pow!",
+      "0x0250000000004AE2": "Bang!",
+      "0x0250000000004AE3": "Whack!",
+      "0x0250000000004AE4": "Pew Pew!",
+      "0x0250000000004AEB": "Quote Me",
+      "0x0250000000004AEF": "Season 25 Competitor",
+      "0x0250000000004AF0": "Season 25 Hero",
+      "0x0250000000004B0D": "Overwatch Contenders",
+      "0x0250000000004B1A": "Fantasma",
+      "0x0250000000004B1B": "Stone",
+      "0x0250000000004B1C": "Ragdoll",
+      "0x0250000000004B24": "Flying Dutchman",
+      "0x0250000000004B25": "Shin-Ryeong",
+      "0x0250000000004B26": "Karasu-Tengu",
+      "0x0250000000004B27": "Dai-Tengu",
+      "0x0250000000004B28": "Werewolf",
+      "0x0250000000004B29": "Trick or Treat",
+      "0x0250000000004B2B": "Red Riding Hunt",
+      "0x0250000000004B2C": "Frenzied Stampede",
+      "0x0250000000004B2D": "Uncanny Speed",
+      "0x0250000000004B2E": "Zombarded",
+      "0x0250000000004B2F": "Quickdraw",
+      "0x0250000000004B30": "Viking Fury",
+      "0x0250000000004B38": "Competitive Team Deathmatch Competitor 2020",
+      "0x0250000000004B39": "Competitive Team Deathmatch Hero 2020",
+      "0x0250000000004B7D": "Vengeful Ghost"
     },
     "Portrait": {
       "0x02500000000002F7": "Overwatch Dark",
@@ -8355,6 +8510,8 @@
       "0x0250000000002AE8": "Mummy",
       "0x0250000000002AE9": "Kittymari",
       "0x0250000000002AEA": "Halloween Terror 2019",
+      "0x0250000000002AEB": "Clownmari",
+      "0x0250000000002AEC": "Halloween Terror 2020",
       "0x0250000000002AEE": "Competitive 3v3 Elimination Competitor 2019",
       "0x0250000000002AEF": "Competitive 3v3 Elimination Hero 2019",
       "0x0250000000003F92": "Dr. Ziegler",
@@ -8408,6 +8565,8 @@
       "0x02500000000048EF": "Promise",
       "0x02500000000048F0": "Echo",
       "0x02500000000048F1": "Symmetry",
+      "0x025000000000492B": "2020 Pacific All-Stars",
+      "0x025000000000492C": "2020 Atlantic All-Stars",
       "0x025000000000495D": "Open Queue Season 1 Competitor",
       "0x025000000000495E": "Open Queue Season 1 Hero",
       "0x02500000000049A3": "Anniversary 2020",
@@ -8444,7 +8603,23 @@
       "0x0250000000004AB0": "Swimming",
       "0x0250000000004AB1": "Lifeguard",
       "0x0250000000004AB2": "Tropical",
-      "0x0250000000004AB4": "Feskarn"
+      "0x0250000000004AB4": "Feskarn",
+      "0x0250000000004AD9": "Competitive 3v3 Elimination Hero 2020",
+      "0x0250000000004ADA": "Competitive 3v3 Elimination Competitor 2020",
+      "0x0250000000004AEA": "Comic Book",
+      "0x0250000000004AED": "Season 25 Competitor",
+      "0x0250000000004AEE": "Season 25 Hero",
+      "0x0250000000004B0E": "Overwatch Contenders",
+      "0x0250000000004B19": "Fantasma",
+      "0x0250000000004B1D": "Stone",
+      "0x0250000000004B1E": "Ragdoll",
+      "0x0250000000004B1F": "Werewolf",
+      "0x0250000000004B20": "Karasu-Tengu",
+      "0x0250000000004B21": "Dai-Tengu",
+      "0x0250000000004B22": "Shin-Ryeong",
+      "0x0250000000004B23": "Flying Dutchman",
+      "0x0250000000004B36": "Competitive Team Deathmatch Competitor 2020",
+      "0x0250000000004B37": "Competitive Team Deathmatch Hero 2020"
     },
     "WeaponSkin": {
       "0x02500000000003A8": "DEFAULT",
@@ -9798,6 +9973,8 @@
       "0x0250000000001B26": "Overwatch League White",
       "0x0250000000001B2E": "Zhang Fei",
       "0x0250000000001B2F": "Pumpkin",
+      "0x0250000000001B35": "Contenders Home",
+      "0x0250000000001B36": "Contenders Away",
       "0x0250000000001B3D": "Spider",
       "0x0250000000001B3E": "Guan Yu",
       "0x0250000000001B48": "Lü Bu",
@@ -10478,9 +10655,11 @@
       "0x0250000000003F66": "Dr. Ziegler",
       "0x0250000000003F6F": "Ancient Bronze",
       "0x0250000000003F79": "Goat",
+      "0x0250000000003F7B": "2020 Pacific All-Stars",
       "0x0250000000003F7E": "King Jamison",
       "0x0250000000003F89": "Holly",
       "0x0250000000003F90": "Monk",
+      "0x02500000000043B8": "2020 Atlantic All-Stars",
       "0x02500000000043BB": "Sniper",
       "0x0250000000004418": "Workout",
       "0x025000000000441B": "Los Angeles Valiant Away",
@@ -10673,12 +10852,14 @@
       "0x0250000000004667": "Lifeguard",
       "0x0250000000004668": "Huitzilopochtli",
       "0x02500000000046C6": "Little Red",
+      "0x0250000000004780": "Karasu-Tengu",
       "0x02500000000047DF": "Mardi Gras",
       "0x02500000000047E9": "Submarine",
       "0x0250000000004841": "Bear",
       "0x0250000000004842": "Holi",
       "0x025000000000484A": "Rustclad",
       "0x025000000000484E": "Feskarn",
+      "0x0250000000004877": "Dai-Tengu",
       "0x0250000000004879": "Dragoon",
       "0x0250000000004891": "Tropical",
       "0x02500000000048AF": "Classic",
@@ -10741,9 +10922,142 @@
       "0x0250000000004999": "Washington Justice Away",
       "0x025000000000499E": "Surf's Up",
       "0x02500000000049B4": "Fleur de Lis",
+      "0x02500000000049B5": "Werewolf",
+      "0x02500000000049D6": "Flying Dutchman",
+      "0x02500000000049E1": "Shin-Ryeong",
       "0x02500000000049E3": "Sand Castle",
       "0x02500000000049E8": "Union Jack",
-      "0x02500000000049F0": "Ice Cream"
+      "0x02500000000049F0": "Ice Cream",
+      "0x0250000000004A07": "Fantasma",
+      "0x0250000000004A30": "Contenders Away",
+      "0x0250000000004A31": "Contenders Away",
+      "0x0250000000004A32": "Contenders Away",
+      "0x0250000000004A33": "Contenders Away",
+      "0x0250000000004A34": "Contenders Away",
+      "0x0250000000004A35": "Contenders Away",
+      "0x0250000000004A36": "Contenders Away",
+      "0x0250000000004A37": "Contenders Away",
+      "0x0250000000004A38": "Contenders Away",
+      "0x0250000000004A39": "Contenders Away",
+      "0x0250000000004A3A": "Contenders Away",
+      "0x0250000000004A3B": "Contenders Away",
+      "0x0250000000004A3C": "Contenders Away",
+      "0x0250000000004A3D": "Contenders Away",
+      "0x0250000000004A3E": "Contenders Away",
+      "0x0250000000004A3F": "Contenders Away",
+      "0x0250000000004A40": "Contenders Away",
+      "0x0250000000004A41": "Contenders Away",
+      "0x0250000000004A42": "Contenders Away",
+      "0x0250000000004A43": "Contenders Away",
+      "0x0250000000004A44": "Contenders Away",
+      "0x0250000000004A45": "Contenders Away",
+      "0x0250000000004A46": "Contenders Away",
+      "0x0250000000004A47": "Contenders Away",
+      "0x0250000000004A48": "Contenders Away",
+      "0x0250000000004A49": "Contenders Away",
+      "0x0250000000004A4A": "Contenders Away",
+      "0x0250000000004A4B": "Contenders Away",
+      "0x0250000000004A4C": "Contenders Away",
+      "0x0250000000004A4D": "Contenders Away",
+      "0x0250000000004A4E": "Contenders Away",
+      "0x0250000000004A4F": "Contenders Home",
+      "0x0250000000004A50": "Contenders Home",
+      "0x0250000000004A51": "Contenders Home",
+      "0x0250000000004A52": "Contenders Home",
+      "0x0250000000004A53": "Contenders Home",
+      "0x0250000000004A54": "Contenders Home",
+      "0x0250000000004A55": "Contenders Home",
+      "0x0250000000004A56": "Contenders Home",
+      "0x0250000000004A57": "Contenders Home",
+      "0x0250000000004A58": "Contenders Home",
+      "0x0250000000004A59": "Contenders Home",
+      "0x0250000000004A5A": "Contenders Home",
+      "0x0250000000004A5B": "Contenders Home",
+      "0x0250000000004A5C": "Contenders Home",
+      "0x0250000000004A5D": "Contenders Home",
+      "0x0250000000004A5E": "Contenders Home",
+      "0x0250000000004A5F": "Contenders Home",
+      "0x0250000000004A60": "Contenders Home",
+      "0x0250000000004A61": "Contenders Home",
+      "0x0250000000004A62": "Contenders Home",
+      "0x0250000000004A63": "Contenders Home",
+      "0x0250000000004A64": "Contenders Home",
+      "0x0250000000004A65": "Contenders Home",
+      "0x0250000000004A66": "Contenders Home",
+      "0x0250000000004A67": "Contenders Home",
+      "0x0250000000004A68": "Contenders Home",
+      "0x0250000000004A69": "Contenders Home",
+      "0x0250000000004A6A": "Contenders Home",
+      "0x0250000000004A6B": "Contenders Home",
+      "0x0250000000004A6C": "Contenders Home",
+      "0x0250000000004A6D": "Contenders Home",
+      "0x0250000000004A89": "Stone",
+      "0x0250000000004AD6": "Ragdoll",
+      "0x0250000000004AEC": "Comic Book",
+      "0x0250000000004B3D": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B3E": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B3F": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B40": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B41": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B42": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B43": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B44": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B45": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B46": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B47": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B48": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B49": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4A": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4B": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4C": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4D": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4E": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B4F": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B50": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B51": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B52": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B53": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B54": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B55": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B56": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B57": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B58": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B59": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B5A": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B5B": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B5C": "Overwatch All-Stars Atlantic",
+      "0x0250000000004B5D": "Overwatch All-Stars Pacific",
+      "0x0250000000004B5E": "Overwatch All-Stars Pacific",
+      "0x0250000000004B5F": "Overwatch All-Stars Pacific",
+      "0x0250000000004B60": "Overwatch All-Stars Pacific",
+      "0x0250000000004B61": "Overwatch All-Stars Pacific",
+      "0x0250000000004B62": "Overwatch All-Stars Pacific",
+      "0x0250000000004B63": "Overwatch All-Stars Pacific",
+      "0x0250000000004B64": "Overwatch All-Stars Pacific",
+      "0x0250000000004B65": "Overwatch All-Stars Pacific",
+      "0x0250000000004B66": "Overwatch All-Stars Pacific",
+      "0x0250000000004B67": "Overwatch All-Stars Pacific",
+      "0x0250000000004B68": "Overwatch All-Stars Pacific",
+      "0x0250000000004B69": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6A": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6B": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6C": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6D": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6E": "Overwatch All-Stars Pacific",
+      "0x0250000000004B6F": "Overwatch All-Stars Pacific",
+      "0x0250000000004B70": "Overwatch All-Stars Pacific",
+      "0x0250000000004B71": "Overwatch All-Stars Pacific",
+      "0x0250000000004B72": "Overwatch All-Stars Pacific",
+      "0x0250000000004B73": "Overwatch All-Stars Pacific",
+      "0x0250000000004B74": "Overwatch All-Stars Pacific",
+      "0x0250000000004B75": "Overwatch All-Stars Pacific",
+      "0x0250000000004B76": "Overwatch All-Stars Pacific",
+      "0x0250000000004B77": "Overwatch All-Stars Pacific",
+      "0x0250000000004B78": "Overwatch All-Stars Pacific",
+      "0x0250000000004B79": "Overwatch All-Stars Pacific",
+      "0x0250000000004B7A": "Overwatch All-Stars Pacific",
+      "0x0250000000004B7B": "Overwatch All-Stars Pacific",
+      "0x0250000000004B7C": "Overwatch All-Stars Pacific"
     },
     "Emote": {
       "0x02500000000004F8": "Caduceus",
@@ -11017,7 +11331,8 @@
       "0x0250000000004963": "Dans",
       "0x0250000000004964": "Big Guy",
       "0x02500000000049A2": "Weightless",
-      "0x0250000000004A02": "Warm up"
+      "0x0250000000004A02": "Warm up",
+      "0x0250000000004ADB": "Zombie Walk"
     },
     "VictoryPose": {
       "0x02500000000004FB": "Ready for battle",
@@ -11330,7 +11645,10 @@
       "0x02500000000049A1": "Beatdown",
       "0x0250000000004A70": "Medal",
       "0x0250000000004A72": "Medal",
-      "0x0250000000004A7C": "Medal"
+      "0x0250000000004A7C": "Medal",
+      "0x0250000000004B04": "Pumpkin",
+      "0x0250000000004B07": "Pumpkin",
+      "0x0250000000004B0B": "Pumpkin"
     },
     "VoiceLine": {
       "0x02500000000004FE": "Doctor's orders",
@@ -12269,7 +12587,22 @@
       "0x0250000000004A96": "Serious?",
       "0x0250000000004A97": "You picked the wrong side",
       "0x0250000000004A98": "No job too big",
-      "0x0250000000004A99": "It's not that hot"
+      "0x0250000000004A99": "It's not that hot",
+      "0x0250000000004AF5": "Behind you!",
+      "0x0250000000004AF6": "Long ago...",
+      "0x0250000000004AF7": "Spirits live within me",
+      "0x0250000000004AF8": "Do you believe in ghosts?",
+      "0x0250000000004AF9": "Listen to your mummy",
+      "0x0250000000004AFA": "You scared?",
+      "0x0250000000004AFB": "Is that a costume?",
+      "0x0250000000004AFC": "The Outlaw's ghost",
+      "0x0250000000004AFD": "Sword in the shadows",
+      "0x0250000000004AFE": "The Shimada will rise again",
+      "0x0250000000004AFF": "No such thing as ghosts",
+      "0x0250000000004B00": "Exterminate!",
+      "0x0250000000004B01": "What, are you scared?",
+      "0x0250000000004B02": "The Viking's quest",
+      "0x0250000000004B03": "Feared by all"
     }
   }
 }
