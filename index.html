@@ -9,7 +9,7 @@
   <body ng-controller="MainCtrl as $vm">
     <div class="container">
       <div class="page-header">
-        <h1>Overwatch Item Tracker Data Importer <small>ayyyyyyy</small></h1>
+        <h1>Overwatch Item Tracker Data Importer</h1>
       </div>
 
       <div class="alert alert-danger" ng-show="$vm.loadError">
@@ -20,7 +20,7 @@
         <div class="col-md-12">
           <p>This tool parses the unlocks provided by the Overwatch Unlocks API into something that can be imported into the item tracker.</p>
           <p><strong>Note: This probably goes without saying but you also need to be logged in for these to work.</strong></p>
-          <p>In order to get the JSON, you need to go to <a href="https://playoverwatch.com/en-us/events/anniversary" target="_blank">https://playoverwatch.com/en-us/events/anniversary</a>, open the dev tools (F12), open the Network tab and then reload the page. What you're looking for is a request called <code>unlocks</code>. Click on the request, copy/paste the raw data and paste it below.</p>
+          <p>In order to get the JSON, you need to go to <a href="https://playoverwatch.com/en-us/events/anniversary" target="_blank">https://playoverwatch.com/en-us/events/anniversary</a>, open the dev tools (F12), look at the top of dev tools for a tab called Network and then reload the page. What you're looking for is a request called <code>unlocks/</code>, you can filter by XHR or search for "unlocks" to see the request easier. Once you see the request, click on it to view it and click on the Response tab to view the raw data. In Firefox you may need to also click a seperate option at the bottom of the page called "Request Payload", you should now be seeing something that looks like <code>["0x025000000000008D","0x02500000000001BF", ...</code>, copy all if it (CTRL-A) and then come back to this site and paste it in the input below.</p>
           <p>Optionally you can also try and run this javascript which will attempt to fetch it and copy it to your clipboard or put the data in a box visible on the page. All you need to do is copy the code below. Go to the website linked above, press F12 to open the dev tools, go to the <code>Console</code> tab and then paste the code below. It will load the unlocks and copy it to your clipboard and will alert you when done. If copying fails which can happen on Firefox, you can click on the textbox that gets added to the page which will also attempt to automatically copy the data (should work in Firefox), if that doesn't work you can just manually select it all and copy it yourself.</strong></p>
           <pre style="white-space: pre-wrap;">!function(){function e(e){var t=document;const o=t.createElement("textarea");o.value=e,t.body.appendChild(o),o.select(),t.execCommand("copy"),t.body.removeChild(o)}$.get({url:"/user/unlocks",headers:{"cache-control":"max-age=0"}},function(t){e(t=JSON.stringify(t));var o=document;o.getElementById("overview").replaceWith(Object.assign(o.createElement("textarea"),{innerText:t,style:"width:90%;margin:20px",rows:6,onclick:function(){e(this.value)}})),alert("Successully loaded unlocks data and copied to clipboard, maybe. If not, you can click on the textbox added to the page to copy the json, if that still doesn't work, you can just copy it manually")})}();
           </pre>
