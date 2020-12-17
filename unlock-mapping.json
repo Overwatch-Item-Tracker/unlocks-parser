@@ -980,6 +980,10 @@
           "Name": "Ho ho ho!",
           "Quality": "Common"
         },
+        "0x0250000000004BC2": {
+          "Name": "Ready for some pudding",
+          "Quality": "Common"
+        },
         "0x0250000000000F5D": {
           "Name": "Ready for some fireworks?",
           "Quality": "Common"
@@ -1590,6 +1594,10 @@
         },
         "0x0250000000001390": {
           "Name": "Parasol",
+          "Quality": "Epic"
+        },
+        "0x0250000000004B35": {
+          "Name": "Flurry",
           "Quality": "Epic"
         },
         "0x0250000000000CAA": {
@@ -3070,6 +3078,10 @@
           "Name": "Santaclad",
           "Quality": "Rare"
         },
+        "0x0250000000004BDE": {
+          "Name": "Lumberjack",
+          "Quality": "Rare"
+        },
         "0x025000000000251B": {
           "Name": "Serpent Spear",
           "Quality": "Rare"
@@ -3270,6 +3282,10 @@
           "Name": "Expert craftsmanship",
           "Quality": "Common"
         },
+        "0x0250000000004BC1": {
+          "Name": "Give me a warm fire...",
+          "Quality": "Common"
+        },
         "0x0250000000000F51": {
           "Name": "Too hot for you?",
           "Quality": "Common"
@@ -3378,6 +3394,10 @@
         },
         "0x0250000000000C31": {
           "Name": "Santaclad",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004ACE": {
+          "Name": "Lumberjack",
           "Quality": "Legendary"
         },
         "0x0250000000001B2E": {
@@ -3718,6 +3738,10 @@
           "Name": "Ornament",
           "Quality": "Common"
         },
+        "0x0250000000004BE5": {
+          "Name": "Lumberjack",
+          "Quality": "Common"
+        },
         "0x0250000000000ECE": {
           "Name": "Gold",
           "Quality": "Common"
@@ -3782,6 +3806,10 @@
         },
         "0x0250000000001A8B": {
           "Name": "Gridironhardt",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BDD": {
+          "Name": "Conductor",
           "Quality": "Rare"
         },
         "0x0250000000000F04": {
@@ -3972,6 +4000,10 @@
           "Name": "Forgive and forget",
           "Quality": "Common"
         },
+        "0x0250000000004BBF": {
+          "Name": "Cold? Me? Hah!",
+          "Quality": "Common"
+        },
         "0x0250000000000F53": {
           "Name": "Are you chicken?",
           "Quality": "Common"
@@ -4077,6 +4109,10 @@
         "0x0250000000002460": {
           "Name": "Festive",
           "Quality": "Epic"
+        },
+        "0x02500000000048C2": {
+          "Name": "Conductor",
+          "Quality": "Legendary"
         },
         "0x0250000000000C1B": {
           "Name": "Wujing",
@@ -4414,6 +4450,10 @@
         },
         "0x0250000000000D32": {
           "Name": "Ornament",
+          "Quality": "Common"
+        },
+        "0x0250000000004BE8": {
+          "Name": "Alle Einsteigen",
           "Quality": "Common"
         },
         "0x0250000000000ECD": {
@@ -5296,6 +5336,10 @@
           "Name": "R.I.P.",
           "Quality": "Rare"
         },
+        "0x0250000000004BCD": {
+          "Name": "Toast",
+          "Quality": "Rare"
+        },
         "0x025000000000142B": {
           "Name": "Sparklers",
           "Quality": "Rare"
@@ -5418,6 +5462,10 @@
         },
         "0x02500000000024F8": {
           "Name": "I'm a Party Animal",
+          "Quality": "Common"
+        },
+        "0x0250000000004BC3": {
+          "Name": "Mountain Gorilla, Moon Gorilla",
           "Quality": "Common"
         },
         "0x0250000000000F5A": {
@@ -7381,6 +7429,10 @@
         "0x0250000000004832": {
           "Name": "Holi",
           "Quality": "Rare"
+        },
+        "0x0250000000004B10": {
+          "Name": "Marammat",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -7895,6 +7947,10 @@
         "0x0250000000004A4C": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004B08": {
+          "Name": "Marammat",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -8041,6 +8097,30 @@
         "0x02500000000049F9": {
           "Name": "Sitar",
           "Quality": "Common"
+        },
+        "0x0250000000004B11": {
+          "Name": "Marammat",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB5": {
+          "Name": "Pilgrim",
+          "Quality": "Common"
+        },
+        "0x0250000000004BBA": {
+          "Name": "Mealtime",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB9": {
+          "Name": "Light Weave",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB7": {
+          "Name": "Incense",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB6": {
+          "Name": "Sanjay",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -8090,6 +8170,10 @@
         },
         "0x0250000000000D62": {
           "Name": "Nutcracker",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BDA": {
+          "Name": "Toybot",
           "Quality": "Rare"
         },
         "0x0250000000000F03": {
@@ -8292,6 +8376,10 @@
           "Name": "Snowball Fight?",
           "Quality": "Common"
         },
+        "0x0250000000004BC4": {
+          "Name": "Blessings of the season",
+          "Quality": "Common"
+        },
         "0x0250000000000F4C": {
           "Name": "Every rooster crows",
           "Quality": "Common"
@@ -8396,6 +8484,10 @@
         },
         "0x0250000000000A8D": {
           "Name": "Nutcracker",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004A28": {
+          "Name": "Toybot",
           "Quality": "Legendary"
         },
         "0x0250000000000A87": {
@@ -8736,6 +8828,10 @@
           "Name": "Nutcracker",
           "Quality": "Common"
         },
+        "0x0250000000004BE6": {
+          "Name": "Toybot",
+          "Quality": "Common"
+        },
         "0x0250000000000EC7": {
           "Name": "Yut Nori",
           "Quality": "Common"
@@ -8766,6 +8862,10 @@
         },
         "0x02500000000047E4": {
           "Name": "Beads",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB8": {
+          "Name": "Perception",
           "Quality": "Common"
         }
       },
@@ -9543,6 +9643,10 @@
         "0x02500000000028FD": {
           "Name": "Toxic",
           "Quality": "Rare"
+        },
+        "0x0250000000004BE1": {
+          "Name": "Frosty",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -10049,6 +10153,10 @@
         "0x0250000000004A47": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004AD4": {
+          "Name": "Frosty",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -10190,6 +10298,10 @@
         },
         "0x0250000000000795": {
           "Name": "Cute",
+          "Quality": "Common"
+        },
+        "0x0250000000004BEB": {
+          "Name": "Frosty",
           "Quality": "Common"
         }
       },
@@ -10999,6 +11111,10 @@
         "0x0250000000002AE4": {
           "Name": "Inferno",
           "Quality": "Rare"
+        },
+        "0x0250000000004BDF": {
+          "Name": "Elf",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -11020,6 +11136,10 @@
         },
         "0x0250000000000A8A": {
           "Name": "Lounging",
+          "Quality": "Epic"
+        },
+        "0x0250000000004B9C": {
+          "Name": "Unwrap",
           "Quality": "Epic"
         },
         "0x0250000000000EB0": {
@@ -11517,6 +11637,10 @@
         "0x0250000000004A56": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004AA3": {
+          "Name": "Elf",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -11662,6 +11786,10 @@
         },
         "0x0250000000002ADD": {
           "Name": "Inferno",
+          "Quality": "Common"
+        },
+        "0x0250000000004BE9": {
+          "Name": "Elf",
           "Quality": "Common"
         }
       },
@@ -13346,6 +13474,10 @@
           "Name": "Climbing the charts!",
           "Quality": "Common"
         },
+        "0x0250000000004BBD": {
+          "Name": "Swap these out for ice skates",
+          "Quality": "Common"
+        },
         "0x0250000000000F4E": {
           "Name": "I make this look good...",
           "Quality": "Common"
@@ -14060,12 +14192,16 @@
           "Name": "I'm not scared",
           "Quality": "Common"
         },
+        "0x0250000000000D8A": {
+          "Name": "Aw, you shouldn't have",
+          "Quality": "Common"
+        },
         "0x025000000000133E": {
           "Name": "Happy holidays",
           "Quality": "Common"
         },
-        "0x0250000000000D8A": {
-          "Name": "Aw, you shouldn't have",
+        "0x0250000000004BBC": {
+          "Name": "Hotteok weather",
           "Quality": "Common"
         },
         "0x0250000000000F54": {
@@ -14630,6 +14766,10 @@
           "Name": "Jiangshi",
           "Quality": "Rare"
         },
+        "0x0250000000004BDB": {
+          "Name": "Penguin",
+          "Quality": "Rare"
+        },
         "0x0250000000000F02": {
           "Name": "Chang'e",
           "Quality": "Rare"
@@ -14716,6 +14856,10 @@
         },
         "0x0250000000000C2D": {
           "Name": "R.I.P.",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BD5": {
+          "Name": "Toast",
           "Quality": "Rare"
         },
         "0x0250000000000EB4": {
@@ -14838,6 +14982,10 @@
           "Name": "Snowball Fight!",
           "Quality": "Common"
         },
+        "0x0250000000004BBE": {
+          "Name": "Let's have some hot cocoa",
+          "Quality": "Common"
+        },
         "0x0250000000000F4F": {
           "Name": "Wishing you prosperity",
           "Quality": "Common"
@@ -14942,6 +15090,10 @@
         },
         "0x0250000000000CF9": {
           "Name": "Mei-rry",
+          "Quality": "Legendary"
+        },
+        "0x025000000000491F": {
+          "Name": "Penguin",
           "Quality": "Legendary"
         },
         "0x0250000000000D56": {
@@ -15290,6 +15442,10 @@
           "Name": "Ornament",
           "Quality": "Common"
         },
+        "0x0250000000004BE7": {
+          "Name": "Penguin",
+          "Quality": "Common"
+        },
         "0x0250000000000ED8": {
           "Name": "Fortune",
           "Quality": "Common"
@@ -15586,6 +15742,10 @@
         },
         "0x02500000000024F6": {
           "Name": "Merry Christmas",
+          "Quality": "Common"
+        },
+        "0x0250000000004BC0": {
+          "Name": "Who wants to buy me a present",
           "Quality": "Common"
         },
         "0x0250000000000F52": {
@@ -16855,6 +17015,10 @@
         "0x02500000000024D6": {
           "Name": "Bastet",
           "Quality": "Rare"
+        },
+        "0x0250000000004BE0": {
+          "Name": "Gingerbread",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -17373,6 +17537,10 @@
         "0x0250000000004A4F": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004ACD": {
+          "Name": "Gingerbread",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -17534,6 +17702,10 @@
         },
         "0x025000000000278A": {
           "Name": "On the Prowl",
+          "Quality": "Common"
+        },
+        "0x0250000000004BEA": {
+          "Name": "Gingerbread",
           "Quality": "Common"
         }
       },
@@ -18982,6 +19154,10 @@
           "Name": "Banshee",
           "Quality": "Rare"
         },
+        "0x0250000000004BDC": {
+          "Name": "Ice Empress",
+          "Quality": "Rare"
+        },
         "0x0250000000004607": {
           "Name": "Mask Dancer",
           "Quality": "Rare"
@@ -19274,6 +19450,10 @@
         },
         "0x0250000000001A39": {
           "Name": "Banshee",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004AF2": {
+          "Name": "Ice Empress",
           "Quality": "Legendary"
         },
         "0x025000000000297F": {
@@ -19612,6 +19792,10 @@
         },
         "0x0250000000001395": {
           "Name": "Ornament",
+          "Quality": "Common"
+        },
+        "0x0250000000004BE4": {
+          "Name": "Ice Empress",
           "Quality": "Common"
         },
         "0x02500000000015EC": {
@@ -20530,6 +20714,10 @@
         },
         "0x02500000000024ED": {
           "Name": "Girl Who Has Everything",
+          "Quality": "Common"
+        },
+        "0x0250000000004BBB": {
+          "Name": "Wind down a mountain pass",
           "Quality": "Common"
         },
         "0x025000000000250F": {
@@ -21486,6 +21674,14 @@
           "Name": "Trick or Treat",
           "Quality": "Common"
         },
+        "0x0250000000004BE2": {
+          "Name": "Snowman",
+          "Quality": "Common"
+        },
+        "0x0250000000004BE3": {
+          "Name": "Ornament",
+          "Quality": "Common"
+        },
         "0x02500000000049C3": {
           "Name": "Seven of Hearts",
           "Quality": "Common"
@@ -21592,6 +21788,14 @@
           "Name": "Do you believe in ghosts?",
           "Quality": "Common"
         },
+        "0x0250000000004BC5": {
+          "Name": "This experience is a gift",
+          "Quality": "Common"
+        },
+        "0x0250000000004BC6": {
+          "Name": "Happy holidays",
+          "Quality": "Common"
+        },
         "0x02500000000048DF": {
           "Name": "Intriguing",
           "Quality": "Common"
@@ -21678,6 +21882,10 @@
         },
         "0x02500000000027B1": {
           "Name": "Take a knee",
+          "Quality": "Epic"
+        },
+        "0x0250000000004BEE": {
+          "Name": "Mistletoe",
           "Quality": "Epic"
         },
         "0x0250000000002888": {
@@ -22406,6 +22614,10 @@
         },
         "0x0250000000002ADE": {
           "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BAE": {
+          "Name": "Toast",
           "Quality": "Rare"
         },
         "0x025000000000477F": {
@@ -29801,6 +30013,10 @@
         "Name": "Overwatch Contenders",
         "Quality": "Common"
       },
+      "0x0250000000004B11": {
+        "Name": "Marammat",
+        "Quality": "Common"
+      },
       "0x0250000000004B1A": {
         "Name": "Fantasma",
         "Quality": "Common"
@@ -29871,6 +30087,98 @@
       },
       "0x0250000000004B7D": {
         "Name": "Vengeful Ghost",
+        "Quality": "Common"
+      },
+      "0x0250000000004BA8": {
+        "Name": "Competitive No Limits Competitor 2020",
+        "Quality": "Common"
+      },
+      "0x0250000000004BA9": {
+        "Name": "Competitive No Limits Hero 2020",
+        "Quality": "Common"
+      },
+      "0x0250000000004BB5": {
+        "Name": "Pilgrim",
+        "Quality": "Common"
+      },
+      "0x0250000000004BB6": {
+        "Name": "Sanjay",
+        "Quality": "Common"
+      },
+      "0x0250000000004BB7": {
+        "Name": "Incense",
+        "Quality": "Common"
+      },
+      "0x0250000000004BB8": {
+        "Name": "Perception",
+        "Quality": "Common"
+      },
+      "0x0250000000004BB9": {
+        "Name": "Light Weave",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBA": {
+        "Name": "Mealtime",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE2": {
+        "Name": "Snowman",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE3": {
+        "Name": "Ornament",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE4": {
+        "Name": "Ice Empress",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE5": {
+        "Name": "Lumberjack",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE6": {
+        "Name": "Toybot",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE7": {
+        "Name": "Penguin",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE8": {
+        "Name": "Alle Einsteigen",
+        "Quality": "Common"
+      },
+      "0x0250000000004BE9": {
+        "Name": "Elf",
+        "Quality": "Common"
+      },
+      "0x0250000000004BEA": {
+        "Name": "Gingerbread",
+        "Quality": "Common"
+      },
+      "0x0250000000004BEB": {
+        "Name": "Frosty",
+        "Quality": "Common"
+      },
+      "0x0250000000004BF5": {
+        "Name": "Season 26 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004BF6": {
+        "Name": "Season 26 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004BF9": {
+        "Name": "Frozen Elf",
+        "Quality": "Common"
+      },
+      "0x0250000000004BFA": {
+        "Name": "Mutual Thaw",
+        "Quality": "Common"
+      },
+      "0x0250000000004BFB": {
+        "Name": "Cookie Throw",
         "Quality": "Common"
       }
     },
@@ -32691,6 +32999,10 @@
         "Name": "Overwatch Contenders",
         "Quality": "Rare"
       },
+      "0x0250000000004B10": {
+        "Name": "Marammat",
+        "Quality": "Rare"
+      },
       "0x0250000000004B19": {
         "Name": "Fantasma",
         "Quality": "Rare"
@@ -32729,6 +33041,66 @@
       },
       "0x0250000000004B37": {
         "Name": "Competitive Team Deathmatch Hero 2020",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BA6": {
+        "Name": "Competitive No Limits Competitor 2020",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BA7": {
+        "Name": "Competitive No Limits Hero 2020",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDA": {
+        "Name": "Toybot",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDB": {
+        "Name": "Penguin",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDC": {
+        "Name": "Ice Empress",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDD": {
+        "Name": "Conductor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDE": {
+        "Name": "Lumberjack",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BDF": {
+        "Name": "Elf",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BE0": {
+        "Name": "Gingerbread",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BE1": {
+        "Name": "Frosty",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BF0": {
+        "Name": "Winter Wonderland 2020",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BF1": {
+        "Name": "2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BF2": {
+        "Name": "End of 2020",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BF3": {
+        "Name": "Season 26 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BF4": {
+        "Name": "Season 26 Hero",
         "Quality": "Rare"
       }
     },
@@ -41695,6 +42067,10 @@
         "Name": "Stealth",
         "Quality": "Legendary"
       },
+      "0x02500000000048C2": {
+        "Name": "Conductor",
+        "Quality": "Legendary"
+      },
       "0x02500000000048C3": {
         "Name": "Karate",
         "Quality": "Legendary"
@@ -41734,6 +42110,10 @@
       "0x02500000000048DA": {
         "Name": "Carbon Fiber",
         "Quality": "Epic"
+      },
+      "0x025000000000491F": {
+        "Name": "Penguin",
+        "Quality": "Legendary"
       },
       "0x0250000000004921": {
         "Name": "Maestro",
@@ -41954,6 +42334,10 @@
       "0x0250000000004A07": {
         "Name": "Fantasma",
         "Quality": "Epic"
+      },
+      "0x0250000000004A28": {
+        "Name": "Toybot",
+        "Quality": "Legendary"
       },
       "0x0250000000004A30": {
         "Name": "Contenders Away",
@@ -42207,12 +42591,36 @@
         "Name": "Stone",
         "Quality": "Epic"
       },
+      "0x0250000000004AA3": {
+        "Name": "Elf",
+        "Quality": "Epic"
+      },
+      "0x0250000000004ACD": {
+        "Name": "Gingerbread",
+        "Quality": "Epic"
+      },
+      "0x0250000000004ACE": {
+        "Name": "Lumberjack",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004AD4": {
+        "Name": "Frosty",
+        "Quality": "Epic"
+      },
       "0x0250000000004AD6": {
         "Name": "Ragdoll",
         "Quality": "Epic"
       },
       "0x0250000000004AEC": {
         "Name": "Comic Book",
+        "Quality": "Epic"
+      },
+      "0x0250000000004AF2": {
+        "Name": "Ice Empress",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004B08": {
+        "Name": "Marammat",
         "Quality": "Epic"
       },
       "0x0250000000004B3D": {
@@ -43564,6 +43972,18 @@
       "0x0250000000004ADB": {
         "Name": "Zombie Walk",
         "Quality": "Epic"
+      },
+      "0x0250000000004B35": {
+        "Name": "Flurry",
+        "Quality": "Epic"
+      },
+      "0x0250000000004B9C": {
+        "Name": "Unwrap",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BEE": {
+        "Name": "Mistletoe",
+        "Quality": "Epic"
       }
     },
     "VictoryPose": {
@@ -44821,6 +45241,18 @@
       },
       "0x0250000000004B0B": {
         "Name": "Pumpkin",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BAE": {
+        "Name": "Toast",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BCD": {
+        "Name": "Toast",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BD5": {
+        "Name": "Toast",
         "Quality": "Rare"
       }
     },
@@ -48631,6 +49063,54 @@
       },
       "0x0250000000004B03": {
         "Name": "Feared by all",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBB": {
+        "Name": "Wind down a mountain pass",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBC": {
+        "Name": "Hotteok weather",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBD": {
+        "Name": "Swap these out for ice skates",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBE": {
+        "Name": "Let's have some hot cocoa",
+        "Quality": "Common"
+      },
+      "0x0250000000004BBF": {
+        "Name": "Cold? Me? Hah!",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC0": {
+        "Name": "Who wants to buy me a present",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC1": {
+        "Name": "Give me a warm fire...",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC2": {
+        "Name": "Ready for some pudding",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC3": {
+        "Name": "Mountain Gorilla, Moon Gorilla",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC4": {
+        "Name": "Blessings of the season",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC5": {
+        "Name": "This experience is a gift",
+        "Quality": "Common"
+      },
+      "0x0250000000004BC6": {
+        "Name": "Happy holidays",
         "Quality": "Common"
       }
     }
