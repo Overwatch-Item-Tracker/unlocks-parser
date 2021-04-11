@@ -49,6 +49,10 @@
         "0x02500000000049B9": {
           "Name": "Masquerade",
           "Quality": "Rare"
+        },
+        "0x0250000000004C14": {
+          "Name": "Imperial Guard",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -74,6 +78,10 @@
         },
         "0x0250000000001148": {
           "Name": "Shrug",
+          "Quality": "Epic"
+        },
+        "0x0250000000004C8E": {
+          "Name": "Gauging Options",
           "Quality": "Epic"
         },
         "0x0250000000000E80": {
@@ -532,6 +540,10 @@
           "Name": "American",
           "Quality": "Epic"
         },
+        "0x0250000000004BCF": {
+          "Name": "Imperial Guard",
+          "Quality": "Epic"
+        },
         "0x02500000000044AC": {
           "Name": "Florida Mayhem",
           "Quality": "Epic"
@@ -714,6 +726,10 @@
           "Name": "Cute",
           "Quality": "Common"
         },
+        "0x0250000000004C15": {
+          "Name": "Siwang",
+          "Quality": "Common"
+        },
         "0x02500000000047E6": {
           "Name": "Red Death",
           "Quality": "Common"
@@ -766,6 +782,10 @@
         },
         "0x02500000000010BC": {
           "Name": "Cadet",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CDC": {
+          "Name": "Cavalry",
           "Quality": "Rare"
         },
         "0x025000000000115E": {
@@ -1092,6 +1112,10 @@
         },
         "0x0250000000000F77": {
           "Name": "Cadet Oxton",
+          "Quality": "Legendary"
+        },
+        "0x02500000000028A8": {
+          "Name": "Cavalry",
           "Quality": "Legendary"
         },
         "0x0250000000000E7B": {
@@ -1456,6 +1480,10 @@
           "Name": "Slipstream",
           "Quality": "Common"
         },
+        "0x0250000000004CE1": {
+          "Name": "Cavalry",
+          "Quality": "Common"
+        },
         "0x0250000000001176": {
           "Name": "Ace of Diamonds",
           "Quality": "Common"
@@ -1568,6 +1596,10 @@
         },
         "0x0250000000003FB6": {
           "Name": "Snow Angel",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CE8": {
+          "Name": "Camouflage",
           "Quality": "Rare"
         }
       },
@@ -1780,6 +1812,10 @@
         },
         "0x02500000000028BA": {
           "Name": "I'm needed somewhere",
+          "Quality": "Common"
+        },
+        "0x0250000000004C9B": {
+          "Name": "My Expert Opinion",
           "Quality": "Common"
         },
         "0x02500000000010FF": {
@@ -2099,6 +2135,10 @@
         "0x0250000000004A51": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004C1A": {
+          "Name": "Camouflage",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -2301,6 +2341,10 @@
         "0x0250000000003FB3": {
           "Name": "Winter spell",
           "Quality": "Common"
+        },
+        "0x0250000000004CE5": {
+          "Name": "Night Mission",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -2362,6 +2406,10 @@
         },
         "0x0250000000002AA7": {
           "Name": "Hanzo Minifig",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BB2": {
+          "Name": "Pagoda",
           "Quality": "Rare"
         }
       },
@@ -2885,6 +2933,10 @@
         "0x0250000000004A53": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004AA4": {
+          "Name": "Kyōgisha",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -3030,6 +3082,10 @@
         },
         "0x0250000000002AAC": {
           "Name": "Brickstrike",
+          "Quality": "Common"
+        },
+        "0x0250000000004BB1": {
+          "Name": "Yōkai",
           "Quality": "Common"
         }
       },
@@ -4012,6 +4068,10 @@
           "Name": "Fortune favors the bold",
           "Quality": "Common"
         },
+        "0x0250000000004C41": {
+          "Name": "Strong as oxen",
+          "Quality": "Common"
+        },
         "0x02500000000010D9": {
           "Name": "Easy does it",
           "Quality": "Common"
@@ -4022,6 +4082,10 @@
         },
         "0x0250000000001914": {
           "Name": "Prost",
+          "Quality": "Common"
+        },
+        "0x0250000000004CA1": {
+          "Name": "Shields Up!",
           "Quality": "Common"
         },
         "0x0250000000001113": {
@@ -4337,6 +4401,10 @@
         "0x0250000000004A60": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x025000000000488A": {
+          "Name": "Raynhardt",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -4748,6 +4816,10 @@
         },
         "0x02500000000028BC": {
           "Name": "From my mother",
+          "Quality": "Common"
+        },
+        "0x0250000000004C9C": {
+          "Name": "Death From Above",
           "Quality": "Common"
         },
         "0x025000000000111D": {
@@ -5480,6 +5552,10 @@
           "Name": "To the moon and back",
           "Quality": "Common"
         },
+        "0x0250000000004C3F": {
+          "Name": "Red and Green",
+          "Quality": "Common"
+        },
         "0x02500000000010E9": {
           "Name": "Have you seen my glasses?",
           "Quality": "Common"
@@ -5986,8 +6062,16 @@
           "Name": "Black Lily",
           "Quality": "Rare"
         },
+        "0x0250000000004C33": {
+          "Name": "Serpent",
+          "Quality": "Rare"
+        },
         "0x02500000000010BD": {
           "Name": "Lacroix",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CD9": {
+          "Name": "Mousquetaire",
           "Quality": "Rare"
         },
         "0x025000000000115F": {
@@ -6210,6 +6294,10 @@
           "Name": "Always the hunters",
           "Quality": "Common"
         },
+        "0x0250000000004CA2": {
+          "Name": "The Night Holds Surprises",
+          "Quality": "Common"
+        },
         "0x0250000000001129": {
           "Name": "What a bore",
           "Quality": "Common"
@@ -6300,8 +6388,16 @@
           "Name": "Black Lily",
           "Quality": "Legendary"
         },
+        "0x0250000000004AD5": {
+          "Name": "Pale Serpent",
+          "Quality": "Legendary"
+        },
         "0x025000000000103E": {
           "Name": "Talon",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004BCB": {
+          "Name": "Mousquetaire",
           "Quality": "Legendary"
         },
         "0x02500000000028AF": {
@@ -6650,8 +6746,16 @@
           "Name": "Dragon Dance",
           "Quality": "Common"
         },
+        "0x0250000000004C2F": {
+          "Name": "Eye to Eye",
+          "Quality": "Common"
+        },
         "0x025000000000107D": {
           "Name": "Wedding",
+          "Quality": "Common"
+        },
+        "0x0250000000004CDF": {
+          "Name": "Mousquetaire",
           "Quality": "Common"
         },
         "0x0250000000001177": {
@@ -6708,6 +6812,10 @@
           "Name": "Avalanche",
           "Quality": "Rare"
         },
+        "0x0250000000004C35": {
+          "Name": "Dragonhead",
+          "Quality": "Rare"
+        },
         "0x02500000000028C1": {
           "Name": "Gwishin",
           "Quality": "Rare"
@@ -6760,6 +6868,10 @@
         },
         "0x02500000000043B7": {
           "Name": "Kite Flying",
+          "Quality": "Epic"
+        },
+        "0x0250000000004CA6": {
+          "Name": "Bird Feeder",
           "Quality": "Epic"
         },
         "0x0250000000000FF9": {
@@ -6997,6 +7109,10 @@
         "0x0250000000000E63": {
           "Name": "Rooster",
           "Quality": "Epic"
+        },
+        "0x0250000000004B17": {
+          "Name": "Dragonfire",
+          "Quality": "Legendary"
         },
         "0x0250000000000FE8": {
           "Name": "Null Sector",
@@ -7356,6 +7472,10 @@
           "Name": "Dragon Dance",
           "Quality": "Common"
         },
+        "0x0250000000004C2B": {
+          "Name": "Thunder",
+          "Quality": "Common"
+        },
         "0x0250000000001078": {
           "Name": "Sunken",
           "Quality": "Common"
@@ -7528,6 +7648,10 @@
           "Name": "Snowflakes",
           "Quality": "Epic"
         },
+        "0x0250000000004BF8": {
+          "Name": "Shining Bull",
+          "Quality": "Epic"
+        },
         "0x0250000000000223": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -7628,6 +7752,10 @@
         },
         "0x0250000000004672": {
           "Name": "If I can think it, I can create it",
+          "Quality": "Common"
+        },
+        "0x0250000000004C46": {
+          "Name": "Chaos",
           "Quality": "Common"
         },
         "0x02500000000010E1": {
@@ -8191,6 +8319,10 @@
         "0x02500000000049BB": {
           "Name": "Huitzilopochtli",
           "Quality": "Rare"
+        },
+        "0x0250000000004CE7": {
+          "Name": "Subaquatic",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -8709,6 +8841,10 @@
         "0x0250000000004A55": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004BD6": {
+          "Name": "Subaquatic",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -8867,6 +9003,10 @@
         "0x0250000000004BB8": {
           "Name": "Perception",
           "Quality": "Common"
+        },
+        "0x0250000000004CE4": {
+          "Name": "Deep In Thought",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -8916,6 +9056,10 @@
         },
         "0x02500000000010B9": {
           "Name": "Cyborg",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CDA": {
+          "Name": "Bushi",
           "Quality": "Rare"
         },
         "0x025000000000115C": {
@@ -9214,6 +9358,10 @@
         },
         "0x0250000000000F91": {
           "Name": "Blackwatch",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004ADD": {
+          "Name": "Bushi",
           "Quality": "Legendary"
         },
         "0x0250000000000FE3": {
@@ -9564,6 +9712,10 @@
         },
         "0x0250000000001085": {
           "Name": "Ramen",
+          "Quality": "Common"
+        },
+        "0x0250000000004CE0": {
+          "Name": "Bushi",
           "Quality": "Common"
         },
         "0x0250000000001174": {
@@ -10157,6 +10309,14 @@
         "0x0250000000004AD4": {
           "Name": "Frosty",
           "Quality": "Epic"
+        },
+        "0x0250000000004C50": {
+          "Name": "Pachimari",
+          "Quality": "Epic"
+        },
+        "0x0250000000004C65": {
+          "Name": "Midas",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -10369,6 +10529,10 @@
         "0x02500000000049BC": {
           "Name": "Masked Man",
           "Quality": "Rare"
+        },
+        "0x0250000000004C13": {
+          "Name": "Wanderer",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -10394,6 +10558,10 @@
         },
         "0x0250000000000D24": {
           "Name": "Hat Trick",
+          "Quality": "Epic"
+        },
+        "0x0250000000004C8C": {
+          "Name": "Quick Draw",
           "Quality": "Epic"
         },
         "0x0250000000000CA9": {
@@ -10588,6 +10756,10 @@
         },
         "0x025000000000485B": {
           "Name": "That went against my better nature",
+          "Quality": "Common"
+        },
+        "0x0250000000004C9E": {
+          "Name": "Take My Advice",
           "Quality": "Common"
         },
         "0x0250000000001103": {
@@ -10892,16 +11064,20 @@
           "Name": "San Francisco Shock Away",
           "Quality": "Epic"
         },
-        "0x02500000000048CA": {
-          "Name": "Masked Man",
-          "Quality": "Epic"
-        },
         "0x0250000000004A35": {
           "Name": "Contenders Away",
           "Quality": "Epic"
         },
         "0x0250000000004A54": {
           "Name": "Contenders Home",
+          "Quality": "Epic"
+        },
+        "0x02500000000048CA": {
+          "Name": "Masked Man",
+          "Quality": "Epic"
+        },
+        "0x0250000000004B34": {
+          "Name": "Xiake",
           "Quality": "Epic"
         }
       },
@@ -11049,6 +11225,10 @@
         "0x02500000000049C7": {
           "Name": "Masked Man",
           "Quality": "Common"
+        },
+        "0x0250000000004C12": {
+          "Name": "Gunsmoke",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -11152,6 +11332,10 @@
         },
         "0x02500000000008F9": {
           "Name": "Heroic",
+          "Quality": "Common"
+        },
+        "0x0250000000004C73": {
+          "Name": "Pachimari",
           "Quality": "Common"
         }
       },
@@ -11740,6 +11924,10 @@
           "Name": "Hayseed",
           "Quality": "Common"
         },
+        "0x0250000000004C8B": {
+          "Name": "\"Venomous\" by Leon",
+          "Quality": "Common"
+        },
         "0x0250000000000B55": {
           "Name": "Tennis",
           "Quality": "Common"
@@ -11836,6 +12024,10 @@
         },
         "0x0250000000004871": {
           "Name": "Workout",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CD8": {
+          "Name": "Polyanitsa",
           "Quality": "Rare"
         },
         "0x0250000000001156": {
@@ -12058,6 +12250,10 @@
           "Name": "You have failed your team",
           "Quality": "Common"
         },
+        "0x0250000000004C9D": {
+          "Name": "The Dog Gnaws The Bone",
+          "Quality": "Common"
+        },
         "0x0250000000001117": {
           "Name": "Peace through firepower",
           "Quality": "Common"
@@ -12154,6 +12350,10 @@
         },
         "0x0250000000004418": {
           "Name": "Workout",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004B89": {
+          "Name": "Polyanitsa",
           "Quality": "Legendary"
         },
         "0x0250000000000F7D": {
@@ -12498,6 +12698,10 @@
           "Name": "Pulse",
           "Quality": "Common"
         },
+        "0x0250000000004CDE": {
+          "Name": "Warrior Woman",
+          "Quality": "Common"
+        },
         "0x025000000000116E": {
           "Name": "Ten of Spades",
           "Quality": "Common"
@@ -12554,6 +12758,10 @@
         },
         "0x02500000000028C3": {
           "Name": "Formal: 76",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CE9": {
+          "Name": "Soldier: 1776",
           "Quality": "Rare"
         },
         "0x025000000000115A": {
@@ -12630,6 +12838,10 @@
         },
         "0x0250000000000D51": {
           "Name": "Toast",
+          "Quality": "Rare"
+        },
+        "0x0250000000004BEC": {
+          "Name": "Hongbao",
           "Quality": "Rare"
         },
         "0x0250000000000886": {
@@ -12852,6 +13064,10 @@
         },
         "0x0250000000002541": {
           "Name": "Formal: 76",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004AA1": {
+          "Name": "Soldier: 1776",
           "Quality": "Legendary"
         },
         "0x0250000000000D04": {
@@ -13204,6 +13420,10 @@
           "Name": "Commando",
           "Quality": "Common"
         },
+        "0x0250000000004CE2": {
+          "Name": "Soldier: 1776",
+          "Quality": "Common"
+        },
         "0x0250000000001172": {
           "Name": "Ace of Spades",
           "Quality": "Common"
@@ -13276,6 +13496,10 @@
         },
         "0x025000000000114F": {
           "Name": "Lúciouro",
+          "Quality": "Rare"
+        },
+        "0x0250000000004CE6": {
+          "Name": "Corredor",
           "Quality": "Rare"
         }
       },
@@ -13496,6 +13720,10 @@
         },
         "0x025000000000190F": {
           "Name": "Turn it up in my headphones",
+          "Quality": "Common"
+        },
+        "0x0250000000004CA5": {
+          "Name": "Sick Of Your Rules!",
           "Quality": "Common"
         },
         "0x0250000000001109": {
@@ -13803,6 +14031,10 @@
         "0x0250000000004A38": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004C00": {
+          "Name": "Corredor",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -13956,6 +14188,10 @@
         },
         "0x02500000000049FA": {
           "Name": "Bossa Nova",
+          "Quality": "Common"
+        },
+        "0x0250000000004CE3": {
+          "Name": "Turn Up The Heat",
           "Quality": "Common"
         }
       },
@@ -14114,6 +14350,10 @@
           "Name": "MEKA Activated",
           "Quality": "Epic"
         },
+        "0x0250000000004BB3": {
+          "Name": "Finale",
+          "Quality": "Epic"
+        },
         "0x025000000000104B": {
           "Name": "Selfie",
           "Quality": "Epic"
@@ -14222,6 +14462,10 @@
         },
         "0x0250000000001915": {
           "Name": "Amazing!",
+          "Quality": "Common"
+        },
+        "0x0250000000004CA3": {
+          "Name": "I'm A Professional!",
           "Quality": "Common"
         },
         "0x0250000000001115": {
@@ -14998,6 +15242,10 @@
           "Name": "I feel like dancing!",
           "Quality": "Common"
         },
+        "0x0250000000004C40": {
+          "Name": "Moo!",
+          "Quality": "Common"
+        },
         "0x02500000000010CF": {
           "Name": "Science this",
           "Quality": "Common"
@@ -15756,6 +16004,10 @@
           "Name": "You're in the doghouse",
           "Quality": "Common"
         },
+        "0x0250000000004C47": {
+          "Name": "You work too hard",
+          "Quality": "Common"
+        },
         "0x02500000000010DF": {
           "Name": "Don't be a coward",
           "Quality": "Common"
@@ -16364,6 +16616,10 @@
         },
         "0x0250000000002492": {
           "Name": "Fireworks",
+          "Quality": "Rare"
+        },
+        "0x0250000000004B84": {
+          "Name": "Polish",
           "Quality": "Rare"
         },
         "0x0250000000001993": {
@@ -17228,6 +17484,10 @@
           "Name": "I make my own luck",
           "Quality": "Common"
         },
+        "0x0250000000004C43": {
+          "Name": "Stubborn as an ox",
+          "Quality": "Common"
+        },
         "0x02500000000010C1": {
           "Name": "Damn",
           "Quality": "Common"
@@ -17238,6 +17498,10 @@
         },
         "0x0250000000001908": {
           "Name": "We're not keeping score",
+          "Quality": "Common"
+        },
+        "0x0250000000004CA4": {
+          "Name": "Remember Me?",
           "Quality": "Common"
         },
         "0x02500000000010FB": {
@@ -17750,6 +18014,10 @@
           "Name": "Sanye",
           "Quality": "Rare"
         },
+        "0x0250000000004C32": {
+          "Name": "Bull",
+          "Quality": "Rare"
+        },
         "0x02500000000010B7": {
           "Name": "OR14-NS",
           "Quality": "Rare"
@@ -17978,6 +18246,10 @@
           "Name": "Empathy module not responding",
           "Quality": "Common"
         },
+        "0x0250000000004CA0": {
+          "Name": "I Will Take Your Statement",
+          "Quality": "Common"
+        },
         "0x02500000000010FD": {
           "Name": "Your Compliance",
           "Quality": "Common"
@@ -18051,6 +18323,10 @@
         "0x0250000000002468": {
           "Name": "Sanye",
           "Quality": "Epic"
+        },
+        "0x0250000000004AE7": {
+          "Name": "Bull Demon",
+          "Quality": "Legendary"
         },
         "0x0250000000000F71": {
           "Name": "Null Sector",
@@ -18394,6 +18670,10 @@
           "Name": "Dragon Dance",
           "Quality": "Common"
         },
+        "0x0250000000004C29": {
+          "Name": "Bull's Fury",
+          "Quality": "Common"
+        },
         "0x025000000000108E": {
           "Name": "Flower",
           "Quality": "Common"
@@ -18530,6 +18810,10 @@
         },
         "0x0250000000002459": {
           "Name": "Toast",
+          "Quality": "Rare"
+        },
+        "0x0250000000004C28": {
+          "Name": "Sparkling Company",
           "Quality": "Rare"
         },
         "0x0250000000001823": {
@@ -19238,6 +19522,10 @@
           "Name": "Toast",
           "Quality": "Rare"
         },
+        "0x0250000000004B14": {
+          "Name": "The Lion Roars",
+          "Quality": "Rare"
+        },
         "0x0250000000001822": {
           "Name": "Erlenmeyer",
           "Quality": "Rare"
@@ -19364,6 +19652,10 @@
         },
         "0x0250000000004671": {
           "Name": "Superb",
+          "Quality": "Common"
+        },
+        "0x0250000000004C45": {
+          "Name": "Unsavory",
           "Quality": "Common"
         },
         "0x025000000000193A": {
@@ -20558,6 +20850,14 @@
           "Name": "Summoned",
           "Quality": "Rare"
         },
+        "0x0250000000004C30": {
+          "Name": "Bandit",
+          "Quality": "Rare"
+        },
+        "0x0250000000004C31": {
+          "Name": "Tiger",
+          "Quality": "Rare"
+        },
         "0x02500000000028C6": {
           "Name": "Butler",
           "Quality": "Rare"
@@ -20728,6 +21028,10 @@
           "Name": "Ready for the fireworks",
           "Quality": "Common"
         },
+        "0x0250000000004C42": {
+          "Name": "Life's a rodeo",
+          "Quality": "Common"
+        },
         "0x0250000000002881": {
           "Name": "Do you trust me?",
           "Quality": "Common"
@@ -20851,6 +21155,10 @@
         "0x0250000000002467": {
           "Name": "Winter",
           "Quality": "Epic"
+        },
+        "0x0250000000004AA5": {
+          "Name": "Tiger Huntress",
+          "Quality": "Legendary"
         },
         "0x0250000000002491": {
           "Name": "Socialite",
@@ -21190,6 +21498,10 @@
           "Name": "Dragon Dance",
           "Quality": "Common"
         },
+        "0x0250000000004C2A": {
+          "Name": "Garlic",
+          "Quality": "Common"
+        },
         "0x02500000000028C8": {
           "Name": "Playground Victory",
           "Quality": "Common"
@@ -21264,6 +21576,10 @@
           "Name": "Surf",
           "Quality": "Rare"
         },
+        "0x0250000000004C34": {
+          "Name": "Magpie",
+          "Quality": "Rare"
+        },
         "0x02500000000049A5": {
           "Name": "Echoversary",
           "Quality": "Rare"
@@ -21320,6 +21636,10 @@
           "Name": "Pumpkin",
           "Quality": "Rare"
         },
+        "0x0250000000004C8A": {
+          "Name": "Hey There, Cowboy",
+          "Quality": "Rare"
+        },
         "0x02500000000048B2": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -21340,6 +21660,10 @@
         },
         "0x02500000000048BA": {
           "Name": "Evasion",
+          "Quality": "Epic"
+        },
+        "0x0250000000004C1B": {
+          "Name": "Fan Dance",
           "Quality": "Epic"
         },
         "0x02500000000048CD": {
@@ -21394,6 +21718,14 @@
         },
         "0x025000000000499E": {
           "Name": "Surf's Up",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004ACF": {
+          "Name": "Kkachi",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004C17": {
+          "Name": "Good and Evil",
           "Quality": "Legendary"
         },
         "0x02500000000048AF": {
@@ -21682,6 +22014,22 @@
           "Name": "Ornament",
           "Quality": "Common"
         },
+        "0x0250000000004C2C": {
+          "Name": "Gratitude",
+          "Quality": "Common"
+        },
+        "0x0250000000004C2D": {
+          "Name": "Dragonflight",
+          "Quality": "Common"
+        },
+        "0x0250000000004C2E": {
+          "Name": "Among the Lanterns",
+          "Quality": "Common"
+        },
+        "0x0250000000004CDD": {
+          "Name": "Promise",
+          "Quality": "Common"
+        },
         "0x02500000000049C3": {
           "Name": "Seven of Hearts",
           "Quality": "Common"
@@ -21796,6 +22144,22 @@
           "Name": "Happy holidays",
           "Quality": "Common"
         },
+        "0x0250000000004C3D": {
+          "Name": "Congratulations!",
+          "Quality": "Common"
+        },
+        "0x0250000000004C3C": {
+          "Name": "I wish I could eat",
+          "Quality": "Common"
+        },
+        "0x0250000000004C99": {
+          "Name": "No Off Switch",
+          "Quality": "Common"
+        },
+        "0x0250000000004C9A": {
+          "Name": "Mind If I Record This?",
+          "Quality": "Common"
+        },
         "0x02500000000048DF": {
           "Name": "Intriguing",
           "Quality": "Common"
@@ -21861,6 +22225,10 @@
         "0x0250000000002AE2": {
           "Name": "Vampire",
           "Quality": "Rare"
+        },
+        "0x0250000000004C10": {
+          "Name": "Stonefaced",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -21916,6 +22284,10 @@
         },
         "0x02500000000043B2": {
           "Name": "Hot Soup",
+          "Quality": "Rare"
+        },
+        "0x0250000000004C7B": {
+          "Name": "Ta-da!",
           "Quality": "Rare"
         },
         "0x02500000000027BA": {
@@ -22048,6 +22420,10 @@
         },
         "0x025000000000467A": {
           "Name": "Don't you worry",
+          "Quality": "Common"
+        },
+        "0x0250000000004C48": {
+          "Name": "Persistence",
           "Quality": "Common"
         },
         "0x025000000000287B": {
@@ -22308,6 +22684,10 @@
           "Name": "Vampire",
           "Quality": "Epic"
         },
+        "0x0250000000004BCE": {
+          "Name": "Terracotta Medic",
+          "Quality": "Epic"
+        },
         "0x02500000000044A2": {
           "Name": "Florida Mayhem",
           "Quality": "Epic"
@@ -22508,6 +22888,10 @@
         },
         "0x0250000000002ADC": {
           "Name": "Vampire",
+          "Quality": "Common"
+        },
+        "0x0250000000004C11": {
+          "Name": "Terracotta Squad",
           "Quality": "Common"
         }
       },
@@ -22736,6 +23120,10 @@
           "Name": "Happy New Year!",
           "Quality": "Common"
         },
+        "0x0250000000004C3E": {
+          "Name": "Happy Year of the Ox",
+          "Quality": "Common"
+        },
         "0x025000000000485F": {
           "Name": "Reality is rarely what it seems",
           "Quality": "Common"
@@ -22746,6 +23134,10 @@
         },
         "0x0250000000004861": {
           "Name": "Extraordinary claims",
+          "Quality": "Common"
+        },
+        "0x0250000000004C9F": {
+          "Name": "Miscalculation",
           "Quality": "Common"
         },
         "0x02500000000048ED": {
@@ -24009,6 +24401,18 @@
       },
       "0x0250000000004B06": {
         "Name": "Target Practice",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BB3": {
+        "Name": "Finale",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BF8": {
+        "Name": "Shining Bull",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C1B": {
+        "Name": "Fan Dance",
         "Quality": "Epic"
       }
     },
@@ -30097,6 +30501,10 @@
         "Name": "Competitive No Limits Hero 2020",
         "Quality": "Common"
       },
+      "0x0250000000004BB1": {
+        "Name": "Yōkai",
+        "Quality": "Common"
+      },
       "0x0250000000004BB5": {
         "Name": "Pilgrim",
         "Quality": "Common"
@@ -30179,6 +30587,202 @@
       },
       "0x0250000000004BFB": {
         "Name": "Cookie Throw",
+        "Quality": "Common"
+      },
+      "0x0250000000004BFD": {
+        "Name": "Blizzard's 30th Anniversary",
+        "Quality": "Common"
+      },
+      "0x0250000000004C07": {
+        "Name": "Shrine District",
+        "Quality": "Common"
+      },
+      "0x0250000000004C08": {
+        "Name": "Pawttery",
+        "Quality": "Common"
+      },
+      "0x0250000000004C09": {
+        "Name": "Tato Takes Off",
+        "Quality": "Common"
+      },
+      "0x0250000000004C0A": {
+        "Name": "The Dragon Consumes",
+        "Quality": "Common"
+      },
+      "0x0250000000004C0B": {
+        "Name": "Bath Time",
+        "Quality": "Common"
+      },
+      "0x0250000000004C0C": {
+        "Name": "Catchamari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C11": {
+        "Name": "Terracotta Squad",
+        "Quality": "Common"
+      },
+      "0x0250000000004C12": {
+        "Name": "Gunsmoke",
+        "Quality": "Common"
+      },
+      "0x0250000000004C15": {
+        "Name": "Siwang",
+        "Quality": "Common"
+      },
+      "0x0250000000004C1D": {
+        "Name": "Path to Pro 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004C1E": {
+        "Name": "Competitive CTF Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004C1F": {
+        "Name": "Competitive CTF Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004C29": {
+        "Name": "Bull's Fury",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2A": {
+        "Name": "Garlic",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2B": {
+        "Name": "Thunder",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2C": {
+        "Name": "Gratitude",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2D": {
+        "Name": "Dragonflight",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2E": {
+        "Name": "Among the Lanterns",
+        "Quality": "Common"
+      },
+      "0x0250000000004C2F": {
+        "Name": "Eye to Eye",
+        "Quality": "Common"
+      },
+      "0x0250000000004C37": {
+        "Name": "Season 27 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3B": {
+        "Name": "Season 27 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004C4A": {
+        "Name": "Not So Fast, Outlaw",
+        "Quality": "Common"
+      },
+      "0x0250000000004C4B": {
+        "Name": "Pay Up",
+        "Quality": "Common"
+      },
+      "0x0250000000004C4C": {
+        "Name": "Quick On The Draw",
+        "Quality": "Common"
+      },
+      "0x0250000000004C4F": {
+        "Name": "Year of the Ox",
+        "Quality": "Common"
+      },
+      "0x0250000000004C53": {
+        "Name": "Hackimari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C54": {
+        "Name": "Junkimari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C55": {
+        "Name": "Tranquilimari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C56": {
+        "Name": "Pachirilla",
+        "Quality": "Common"
+      },
+      "0x0250000000004C57": {
+        "Name": "Doomari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C58": {
+        "Name": "Pachimada",
+        "Quality": "Common"
+      },
+      "0x0250000000004C8B": {
+        "Name": "\"Venomous\" by Leon",
+        "Quality": "Common"
+      },
+      "0x0250000000004C92": {
+        "Name": "Competitive 6v6 Elimination Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004C94": {
+        "Name": "Competitive 6v6 Elimination Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004C95": {
+        "Name": "Season 28 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004C98": {
+        "Name": "Season 28 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA7": {
+        "Name": "Overworked",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA8": {
+        "Name": "Not Part of the Plan",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA9": {
+        "Name": "High-Value Target",
+        "Quality": "Common"
+      },
+      "0x0250000000004CDD": {
+        "Name": "Promise",
+        "Quality": "Common"
+      },
+      "0x0250000000004CDE": {
+        "Name": "Warrior Woman",
+        "Quality": "Common"
+      },
+      "0x0250000000004CDF": {
+        "Name": "Mousquetaire",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE0": {
+        "Name": "Bushi",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE1": {
+        "Name": "Cavalry",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE2": {
+        "Name": "Soldier: 1776",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE3": {
+        "Name": "Turn Up The Heat",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE4": {
+        "Name": "Deep In Thought",
+        "Quality": "Common"
+      },
+      "0x0250000000004CE5": {
+        "Name": "Night Mission",
         "Quality": "Common"
       }
     },
@@ -32676,7 +33280,7 @@
         "Quality": "Rare"
       },
       "0x0250000000004416": {
-        "Name": "Year of the Rat 2020",
+        "Name": "Year of the Rat",
         "Quality": "Rare"
       },
       "0x0250000000004601": {
@@ -33051,6 +33655,10 @@
         "Name": "Competitive No Limits Hero 2020",
         "Quality": "Rare"
       },
+      "0x0250000000004BB2": {
+        "Name": "Pagoda",
+        "Quality": "Rare"
+      },
       "0x0250000000004BDA": {
         "Name": "Toybot",
         "Quality": "Rare"
@@ -33101,6 +33709,126 @@
       },
       "0x0250000000004BF4": {
         "Name": "Season 26 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BFC": {
+        "Name": "Blizzard's 30th Anniversary",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C0F": {
+        "Name": "Year of the Ox 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C10": {
+        "Name": "Stonefaced",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C13": {
+        "Name": "Wanderer",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C14": {
+        "Name": "Imperial Guard",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C1C": {
+        "Name": "Path to Pro 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C20": {
+        "Name": "Competitive CTF Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C21": {
+        "Name": "Competitive CTF Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C30": {
+        "Name": "Bandit",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C31": {
+        "Name": "Tiger",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C32": {
+        "Name": "Bull",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C33": {
+        "Name": "Serpent",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C34": {
+        "Name": "Magpie",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C35": {
+        "Name": "Dragonhead",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C39": {
+        "Name": "Season 27 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3A": {
+        "Name": "Season 27 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C52": {
+        "Name": "Pachimari Hat",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C91": {
+        "Name": "Competitive 6v6 Elimination Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C93": {
+        "Name": "Competitive 6v6 Elimination Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C96": {
+        "Name": "Season 28 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C97": {
+        "Name": "Season 28 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CD7": {
+        "Name": "Archives 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CD8": {
+        "Name": "Polyanitsa",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CD9": {
+        "Name": "Mousquetaire",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CDA": {
+        "Name": "Bushi",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CDC": {
+        "Name": "Cavalry",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CE6": {
+        "Name": "Corredor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CE7": {
+        "Name": "Subaquatic",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CE8": {
+        "Name": "Camouflage",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CE9": {
+        "Name": "Soldier: 1776",
         "Quality": "Rare"
       }
     },
@@ -40907,6 +41635,10 @@
         "Name": "Circus",
         "Quality": "Epic"
       },
+      "0x02500000000028A8": {
+        "Name": "Cavalry",
+        "Quality": "Legendary"
+      },
       "0x02500000000028AF": {
         "Name": "Electric",
         "Quality": "Epic"
@@ -42055,6 +42787,10 @@
         "Name": "Dragoon",
         "Quality": "Legendary"
       },
+      "0x025000000000488A": {
+        "Name": "Raynhardt",
+        "Quality": "Legendary"
+      },
       "0x0250000000004891": {
         "Name": "Tropical",
         "Quality": "Legendary"
@@ -42591,9 +43327,21 @@
         "Name": "Stone",
         "Quality": "Epic"
       },
+      "0x0250000000004AA1": {
+        "Name": "Soldier: 1776",
+        "Quality": "Legendary"
+      },
       "0x0250000000004AA3": {
         "Name": "Elf",
         "Quality": "Epic"
+      },
+      "0x0250000000004AA4": {
+        "Name": "Kyōgisha",
+        "Quality": "Epic"
+      },
+      "0x0250000000004AA5": {
+        "Name": "Tiger Huntress",
+        "Quality": "Legendary"
       },
       "0x0250000000004ACD": {
         "Name": "Gingerbread",
@@ -42603,13 +43351,29 @@
         "Name": "Lumberjack",
         "Quality": "Legendary"
       },
+      "0x0250000000004ACF": {
+        "Name": "Kkachi",
+        "Quality": "Legendary"
+      },
       "0x0250000000004AD4": {
         "Name": "Frosty",
         "Quality": "Epic"
       },
+      "0x0250000000004AD5": {
+        "Name": "Pale Serpent",
+        "Quality": "Legendary"
+      },
       "0x0250000000004AD6": {
         "Name": "Ragdoll",
         "Quality": "Epic"
+      },
+      "0x0250000000004ADD": {
+        "Name": "Bushi",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004AE7": {
+        "Name": "Bull Demon",
+        "Quality": "Legendary"
       },
       "0x0250000000004AEC": {
         "Name": "Comic Book",
@@ -42621,6 +43385,14 @@
       },
       "0x0250000000004B08": {
         "Name": "Marammat",
+        "Quality": "Epic"
+      },
+      "0x0250000000004B17": {
+        "Name": "Dragonfire",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004B34": {
+        "Name": "Xiake",
         "Quality": "Epic"
       },
       "0x0250000000004B3D": {
@@ -42878,6 +43650,46 @@
       "0x0250000000004B7C": {
         "Name": "Overwatch All-Stars Pacific",
         "Quality": "Common"
+      },
+      "0x0250000000004B89": {
+        "Name": "Polyanitsa",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004BCB": {
+        "Name": "Mousquetaire",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004BCE": {
+        "Name": "Terracotta Medic",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BCF": {
+        "Name": "Imperial Guard",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BD6": {
+        "Name": "Subaquatic",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C00": {
+        "Name": "Corredor",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C17": {
+        "Name": "Good and Evil",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004C1A": {
+        "Name": "Camouflage",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C50": {
+        "Name": "Pachimari",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C65": {
+        "Name": "Midas",
+        "Quality": "Legendary"
       }
     },
     "Emote": {
@@ -43983,6 +44795,22 @@
       },
       "0x0250000000004BEE": {
         "Name": "Mistletoe",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C73": {
+        "Name": "Pachimari",
+        "Quality": "Common"
+      },
+      "0x0250000000004C8C": {
+        "Name": "Quick Draw",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C8E": {
+        "Name": "Gauging Options",
+        "Quality": "Epic"
+      },
+      "0x0250000000004CA6": {
+        "Name": "Bird Feeder",
         "Quality": "Epic"
       }
     },
@@ -45243,6 +46071,14 @@
         "Name": "Pumpkin",
         "Quality": "Rare"
       },
+      "0x0250000000004B14": {
+        "Name": "The Lion Roars",
+        "Quality": "Rare"
+      },
+      "0x0250000000004B84": {
+        "Name": "Polish",
+        "Quality": "Rare"
+      },
       "0x0250000000004BAE": {
         "Name": "Toast",
         "Quality": "Rare"
@@ -45253,6 +46089,22 @@
       },
       "0x0250000000004BD5": {
         "Name": "Toast",
+        "Quality": "Rare"
+      },
+      "0x0250000000004BEC": {
+        "Name": "Hongbao",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C28": {
+        "Name": "Sparkling Company",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C7B": {
+        "Name": "Ta-da!",
+        "Quality": "Rare"
+      },
+      "0x0250000000004C8A": {
+        "Name": "Hey There, Cowboy",
         "Quality": "Rare"
       }
     },
@@ -49111,6 +49963,1314 @@
       },
       "0x0250000000004BC6": {
         "Name": "Happy holidays",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3C": {
+        "Name": "I wish I could eat",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3D": {
+        "Name": "Congratulations!",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3E": {
+        "Name": "Happy Year of the Ox",
+        "Quality": "Common"
+      },
+      "0x0250000000004C3F": {
+        "Name": "Red and Green",
+        "Quality": "Common"
+      },
+      "0x0250000000004C40": {
+        "Name": "Moo!",
+        "Quality": "Common"
+      },
+      "0x0250000000004C41": {
+        "Name": "Strong as oxen",
+        "Quality": "Common"
+      },
+      "0x0250000000004C42": {
+        "Name": "Life's a rodeo",
+        "Quality": "Common"
+      },
+      "0x0250000000004C43": {
+        "Name": "Stubborn as an ox",
+        "Quality": "Common"
+      },
+      "0x0250000000004C45": {
+        "Name": "Unsavory",
+        "Quality": "Common"
+      },
+      "0x0250000000004C46": {
+        "Name": "Chaos",
+        "Quality": "Common"
+      },
+      "0x0250000000004C47": {
+        "Name": "You work too hard",
+        "Quality": "Common"
+      },
+      "0x0250000000004C48": {
+        "Name": "Persistence",
+        "Quality": "Common"
+      },
+      "0x0250000000004C99": {
+        "Name": "No Off Switch",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9A": {
+        "Name": "Mind If I Record This?",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9B": {
+        "Name": "My Expert Opinion",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9C": {
+        "Name": "Death From Above",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9D": {
+        "Name": "The Dog Gnaws The Bone",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9E": {
+        "Name": "Take My Advice",
+        "Quality": "Common"
+      },
+      "0x0250000000004C9F": {
+        "Name": "Miscalculation",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA0": {
+        "Name": "I Will Take Your Statement",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA1": {
+        "Name": "Shields Up!",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA2": {
+        "Name": "The Night Holds Surprises",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA3": {
+        "Name": "I'm A Professional!",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA4": {
+        "Name": "Remember Me?",
+        "Quality": "Common"
+      },
+      "0x0250000000004CA5": {
+        "Name": "Sick Of Your Rules!",
+        "Quality": "Common"
+      }
+    },
+    "PortraitFrame": {
+      "0x0250000000000918": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000919": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000091F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000920": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000921": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000922": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000923": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000924": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000925": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000926": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000927": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000928": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000929": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000092F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000930": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000931": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000932": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000933": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000934": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000935": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000936": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000937": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000938": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000939": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000093F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000940": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000941": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000942": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000944": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000945": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000946": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000947": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000948": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000949": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000094F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000950": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000951": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000952": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000953": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000954": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000956": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000957": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000958": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000959": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000095F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000960": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000961": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000962": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000963": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000964": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000965": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000966": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000967": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000968": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000969": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000096F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000970": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000971": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000972": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000973": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000974": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000975": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000976": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000977": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000978": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000979": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000097F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000980": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000981": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000982": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000983": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000984": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000985": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000986": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000987": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000988": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000989": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000098F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000990": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000991": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000992": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000993": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000994": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000995": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000996": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000997": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000998": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000999": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x025000000000099F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009A9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AD": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AE": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009AF": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009B9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BD": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BE": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009BF": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009C9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009CA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009CB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009CC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x02500000000009CD": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F0D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F0E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F0F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F10": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F11": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F12": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F13": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F14": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F15": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F16": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F18": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F19": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F1F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F20": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F21": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F22": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F23": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F24": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F25": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F26": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F27": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F28": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F29": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F2F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F30": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F31": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F32": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F33": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F34": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F35": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F36": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F37": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F38": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F39": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F3F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F40": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F41": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F42": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F43": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F44": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F45": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F46": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F47": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F48": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F49": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F92": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F93": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F94": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F95": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F96": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F97": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F98": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F99": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9A": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9B": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9C": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9D": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9E": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000F9F": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FA9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAD": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAE": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FAF": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FB9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBD": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBE": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FBF": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC0": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC1": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC2": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC3": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC4": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC5": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC6": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC7": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC8": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FC9": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FCA": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FCB": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FCC": {
+        "Name": null,
+        "Quality": "Common"
+      },
+      "0x0250000000000FCD": {
+        "Name": null,
+        "Quality": "Common"
+      }
+    },
+    "Unknown": {
+      "0x0250000000001965": {
+        "Name": null,
         "Quality": "Common"
       }
     }
