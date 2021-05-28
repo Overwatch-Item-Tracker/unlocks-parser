@@ -278,6 +278,10 @@
           "Name": "Pathetic",
           "Quality": "Common"
         },
+        "0x0250000000004D12": {
+          "Name": "Smile",
+          "Quality": "Common"
+        },
         "0x02500000000008D4": {
           "Name": "What are you looking at",
           "Quality": "Common"
@@ -834,6 +838,10 @@
           "Name": "Charleston",
           "Quality": "Epic"
         },
+        "0x0250000000004D1C": {
+          "Name": "Kickin'",
+          "Quality": "Epic"
+        },
         "0x0250000000000908": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -1038,6 +1046,10 @@
         },
         "0x0250000000002942": {
           "Name": "I love this part!",
+          "Quality": "Common"
+        },
+        "0x0250000000004D15": {
+          "Name": "Give Up?",
           "Quality": "Common"
         },
         "0x02500000000008DB": {
@@ -3226,6 +3238,10 @@
           "Name": "Firework",
           "Quality": "Rare"
         },
+        "0x0250000000004CF6": {
+          "Name": "Taking A Break",
+          "Quality": "Rare"
+        },
         "0x0250000000000881": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -3376,6 +3392,10 @@
         },
         "0x0250000000002941": {
           "Name": "Try my meatballs",
+          "Quality": "Common"
+        },
+        "0x0250000000004D16": {
+          "Name": "How Riveting",
           "Quality": "Common"
         },
         "0x02500000000008D1": {
@@ -7790,6 +7810,10 @@
           "Name": "So dramatic",
           "Quality": "Common"
         },
+        "0x0250000000004D18": {
+          "Name": "Your Judgement Is Flawed",
+          "Quality": "Common"
+        },
         "0x02500000000008DA": {
           "Name": "Such a lack of imagination",
           "Quality": "Common"
@@ -9290,6 +9314,10 @@
           "Name": "An elegant weapon",
           "Quality": "Common"
         },
+        "0x0250000000004D13": {
+          "Name": "My Blade Never Dulls",
+          "Quality": "Common"
+        },
         "0x02500000000008D9": {
           "Name": "A steady blade",
           "Quality": "Common"
@@ -10022,6 +10050,10 @@
         },
         "0x025000000000293E": {
           "Name": "I'm beached as, bro",
+          "Quality": "Common"
+        },
+        "0x0250000000004D10": {
+          "Name": "Not a Rat",
           "Quality": "Common"
         },
         "0x02500000000008D5": {
@@ -11288,6 +11320,10 @@
           "Name": "Buccaneer",
           "Quality": "Rare"
         },
+        "0x0250000000004D24": {
+          "Name": "Junkfood",
+          "Quality": "Rare"
+        },
         "0x0250000000002AE4": {
           "Name": "Inferno",
           "Quality": "Rare"
@@ -11532,6 +11568,10 @@
           "Name": "That was the bomb",
           "Quality": "Common"
         },
+        "0x0250000000004D0F": {
+          "Name": "Not A Hog",
+          "Quality": "Common"
+        },
         "0x02500000000008CC": {
           "Name": "Tick-tock-tick-tock",
           "Quality": "Common"
@@ -11612,6 +11652,10 @@
         },
         "0x0250000000001384": {
           "Name": "Bilgerat",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004BCA": {
+          "Name": "Junkfood",
           "Quality": "Legendary"
         },
         "0x02500000000004B1": {
@@ -11962,6 +12006,10 @@
         },
         "0x0250000000001166": {
           "Name": "Joker",
+          "Quality": "Common"
+        },
+        "0x0250000000004D1F": {
+          "Name": "Jawbreaker",
           "Quality": "Common"
         },
         "0x02500000000005C1": {
@@ -12998,6 +13046,10 @@
         },
         "0x025000000000293F": {
           "Name": "I've died a hero",
+          "Quality": "Common"
+        },
+        "0x0250000000004D14": {
+          "Name": "Settle Down",
           "Quality": "Common"
         },
         "0x02500000000008D7": {
@@ -14328,6 +14380,10 @@
           "Name": "Lucky Pouch",
           "Quality": "Rare"
         },
+        "0x0250000000004D2A": {
+          "Name": "At Ease",
+          "Quality": "Rare"
+        },
         "0x025000000000087E": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -15110,6 +15166,10 @@
           "Name": "Lucky!",
           "Quality": "Rare"
         },
+        "0x0250000000004D27": {
+          "Name": "Peace",
+          "Quality": "Rare"
+        },
         "0x025000000000087F": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -15362,6 +15422,10 @@
         },
         "0x0250000000002440": {
           "Name": "Honeydew",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004BED": {
+          "Name": "MM-Mei",
           "Quality": "Legendary"
         },
         "0x02500000000004E8": {
@@ -15800,6 +15864,10 @@
           "Name": "Aniversario",
           "Quality": "Rare"
         },
+        "0x0250000000004D22": {
+          "Name": "Black Cat",
+          "Quality": "Rare"
+        },
         "0x0250000000002AE1": {
           "Name": "Demon Hunter",
           "Quality": "Rare"
@@ -16036,6 +16104,10 @@
           "Name": "Let's not do that again",
           "Quality": "Common"
         },
+        "0x0250000000004D17": {
+          "Name": "We're A Good Team",
+          "Quality": "Common"
+        },
         "0x0250000000000B07": {
           "Name": "Playing Fair",
           "Quality": "Common"
@@ -16113,6 +16185,10 @@
         "0x0250000000002871": {
           "Name": "Oro",
           "Quality": "Epic"
+        },
+        "0x0250000000002AB6": {
+          "Name": "Black Cat",
+          "Quality": "Legendary"
         },
         "0x0250000000000AE7": {
           "Name": "Classic",
@@ -16476,6 +16552,10 @@
           "Name": "Queen of Spades",
           "Quality": "Common"
         },
+        "0x0250000000004D1D": {
+          "Name": "On The Prowl",
+          "Quality": "Common"
+        },
         "0x0250000000000CCA": {
           "Name": "Pixel",
           "Quality": "Common"
@@ -16548,6 +16628,10 @@
         },
         "0x0250000000001984": {
           "Name": "Formal",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D26": {
+          "Name": "Gladiator",
           "Quality": "Rare"
         },
         "0x025000000000465E": {
@@ -16851,6 +16935,10 @@
         "0x0250000000002829": {
           "Name": "Carbon Fiber",
           "Quality": "Epic"
+        },
+        "0x0250000000004965": {
+          "Name": "Gladiator",
+          "Quality": "Legendary"
         },
         "0x025000000000117D": {
           "Name": "Classic",
@@ -17198,6 +17286,10 @@
           "Name": "Nine of Clubs",
           "Quality": "Common"
         },
+        "0x0250000000004D21": {
+          "Name": "Thumbs Down",
+          "Quality": "Common"
+        },
         "0x02500000000011C6": {
           "Name": "Cute",
           "Quality": "Common"
@@ -17274,6 +17366,10 @@
         },
         "0x0250000000004BE0": {
           "Name": "Gingerbread",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D0E": {
+          "Name": "Cybermedic",
           "Quality": "Rare"
         }
       },
@@ -17805,6 +17901,10 @@
         "0x0250000000004ACD": {
           "Name": "Gingerbread",
           "Quality": "Epic"
+        },
+        "0x0250000000004BD8": {
+          "Name": "Cybermedic",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -17970,6 +18070,10 @@
         },
         "0x0250000000004BEA": {
           "Name": "Gingerbread",
+          "Quality": "Common"
+        },
+        "0x0250000000004D0D": {
+          "Name": "Sentinel",
           "Quality": "Common"
         }
       },
@@ -18782,6 +18886,10 @@
           "Name": "Dance",
           "Quality": "Epic"
         },
+        "0x0250000000004CFD": {
+          "Name": "Power Flail",
+          "Quality": "Epic"
+        },
         "0x02500000000016D8": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -19458,6 +19566,10 @@
           "Name": "Cothrom an Lae",
           "Quality": "Rare"
         },
+        "0x0250000000004D25": {
+          "Name": "Bloom",
+          "Quality": "Rare"
+        },
         "0x0250000000003FB8": {
           "Name": "Coinín Nollag",
           "Quality": "Rare"
@@ -19758,6 +19870,10 @@
         },
         "0x0250000000002791": {
           "Name": "Scientist",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004C60": {
+          "Name": "Venus",
           "Quality": "Legendary"
         },
         "0x02500000000012FB": {
@@ -20110,6 +20226,10 @@
           "Name": "Nine of Hearts",
           "Quality": "Common"
         },
+        "0x0250000000004D20": {
+          "Name": "Mind The Thorns",
+          "Quality": "Common"
+        },
         "0x025000000000130D": {
           "Name": "Cute",
           "Quality": "Common"
@@ -20174,6 +20294,10 @@
         },
         "0x0250000000004662": {
           "Name": "Rat",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D0B": {
+          "Name": "8 Ball",
           "Quality": "Rare"
         }
       },
@@ -20394,6 +20518,10 @@
         },
         "0x0250000000002944": {
           "Name": "Self-assessment",
+          "Quality": "Common"
+        },
+        "0x0250000000004D11": {
+          "Name": "Amusement",
           "Quality": "Common"
         },
         "0x02500000000019E4": {
@@ -20665,6 +20793,10 @@
         "0x0250000000001B35": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004B31": {
+          "Name": "8 Ball",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -20811,6 +20943,10 @@
         "0x02500000000047E2": {
           "Name": "King Cake Ball",
           "Quality": "Common"
+        },
+        "0x0250000000004D0C": {
+          "Name": "Corner Pocket",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -20906,6 +21042,10 @@
         },
         "0x02500000000028E2": {
           "Name": "Line Dance",
+          "Quality": "Epic"
+        },
+        "0x0250000000004D1A": {
+          "Name": "Round 'Em Up",
           "Quality": "Epic"
         },
         "0x0250000000002433": {
@@ -21269,11 +21409,11 @@
           "Quality": "Epic"
         },
         "0x02500000000024DD": {
-          "Name": "Overwatch League Promo Skins",
+          "Name": "Overwatch League White",
           "Quality": "Epic"
         },
         "0x02500000000024DC": {
-          "Name": "Overwatch League Promo Skins Away",
+          "Name": "Overwatch League Gray",
           "Quality": "Epic"
         },
         "0x0250000000002717": {
@@ -21587,6 +21727,10 @@
         "0x0250000000004B1E": {
           "Name": "Ragdoll",
           "Quality": "Rare"
+        },
+        "0x0250000000004D0A": {
+          "Name": "Bird of Paradise",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -21731,6 +21875,14 @@
         "0x02500000000048AF": {
           "Name": "Classic",
           "Quality": "Common"
+        },
+        "0x02500000000049AB": {
+          "Name": "Overwatch League White",
+          "Quality": "Epic"
+        },
+        "0x02500000000049AA": {
+          "Name": "Overwatch League Gray",
+          "Quality": "Epic"
         },
         "0x025000000000496B": {
           "Name": "Atlanta Reign Away",
@@ -21903,6 +22055,10 @@
         "0x0250000000004AD6": {
           "Name": "Ragdoll",
           "Quality": "Epic"
+        },
+        "0x0250000000004BC9": {
+          "Name": "Bird of Paradise",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -22069,6 +22225,10 @@
         "0x0250000000004B1C": {
           "Name": "Ragdoll",
           "Quality": "Common"
+        },
+        "0x0250000000004D09": {
+          "Name": "Flutter",
+          "Quality": "Common"
         }
       },
       "VoiceLine": {
@@ -22216,6 +22376,10 @@
         },
         "0x02500000000028FB": {
           "Name": "Lò",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D23": {
+          "Name": "Funky",
           "Quality": "Rare"
         },
         "0x0250000000002977": {
@@ -22508,6 +22672,10 @@
           "Name": "Talon",
           "Quality": "Legendary"
         },
+        "0x0250000000004A21": {
+          "Name": "Funky",
+          "Quality": "Legendary"
+        },
         "0x0250000000001B0C": {
           "Name": "Classic",
           "Quality": "Common"
@@ -22670,6 +22838,10 @@
         },
         "0x0250000000002822": {
           "Name": "Vancouver Titans Away",
+          "Quality": "Epic"
+        },
+        "0x025000000000282B": {
+          "Name": "Overwatch League Gray",
           "Quality": "Epic"
         },
         "0x025000000000282A": {
@@ -22844,6 +23016,10 @@
         },
         "0x0250000000002906": {
           "Name": "Eight of Hearts",
+          "Quality": "Common"
+        },
+        "0x0250000000004D1E": {
+          "Name": "Keepin' Alive",
           "Quality": "Common"
         },
         "0x0250000000002844": {
@@ -30749,6 +30925,10 @@
         "Name": "High-Value Target",
         "Quality": "Common"
       },
+      "0x0250000000004CD6": {
+        "Name": "Super Fans",
+        "Quality": "Common"
+      },
       "0x0250000000004CDD": {
         "Name": "Promise",
         "Quality": "Common"
@@ -30783,6 +30963,46 @@
       },
       "0x0250000000004CE5": {
         "Name": "Night Mission",
+        "Quality": "Common"
+      },
+      "0x0250000000004D09": {
+        "Name": "Flutter",
+        "Quality": "Common"
+      },
+      "0x0250000000004D0C": {
+        "Name": "Corner Pocket",
+        "Quality": "Common"
+      },
+      "0x0250000000004D0D": {
+        "Name": "Sentinel",
+        "Quality": "Common"
+      },
+      "0x0250000000004D1D": {
+        "Name": "On The Prowl",
+        "Quality": "Common"
+      },
+      "0x0250000000004D1E": {
+        "Name": "Keepin' Alive",
+        "Quality": "Common"
+      },
+      "0x0250000000004D1F": {
+        "Name": "Jawbreaker",
+        "Quality": "Common"
+      },
+      "0x0250000000004D20": {
+        "Name": "Mind The Thorns",
+        "Quality": "Common"
+      },
+      "0x0250000000004D21": {
+        "Name": "Thumbs Down",
+        "Quality": "Common"
+      },
+      "0x0250000000004D30": {
+        "Name": "Competitive Deathmatch Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004D31": {
+        "Name": "Competitive Deathmatch Competitor 2021",
         "Quality": "Common"
       }
     },
@@ -33829,6 +34049,50 @@
       },
       "0x0250000000004CE9": {
         "Name": "Soldier: 1776",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D0A": {
+        "Name": "Bird of Paradise",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D0B": {
+        "Name": "8 Ball",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D0E": {
+        "Name": "Cybermedic",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D19": {
+        "Name": "Anniversary 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D22": {
+        "Name": "Black Cat",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D23": {
+        "Name": "Funky",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D24": {
+        "Name": "Junkfood",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D25": {
+        "Name": "Bloom",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D26": {
+        "Name": "Gladiator",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D2F": {
+        "Name": "Competitive Deathmatch Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D32": {
+        "Name": "Competitive Deathmatch Hero 2021",
         "Quality": "Rare"
       }
     },
@@ -39456,11 +39720,11 @@
         "Quality": "Epic"
       },
       "0x02500000000024DC": {
-        "Name": "Overwatch League Promo Skins Away",
+        "Name": "Overwatch League Gray",
         "Quality": "Epic"
       },
       "0x02500000000024DD": {
-        "Name": "Overwatch League Promo Skins",
+        "Name": "Overwatch League White",
         "Quality": "Epic"
       },
       "0x0250000000002501": {
@@ -41611,6 +41875,10 @@
         "Name": "Overwatch League White",
         "Quality": "Epic"
       },
+      "0x025000000000282B": {
+        "Name": "Overwatch League Gray",
+        "Quality": "Epic"
+      },
       "0x025000000000282C": {
         "Name": "Mountain Man",
         "Quality": "Legendary"
@@ -41933,6 +42201,10 @@
       },
       "0x0250000000002AB5": {
         "Name": "Aviator",
+        "Quality": "Legendary"
+      },
+      "0x0250000000002AB6": {
+        "Name": "Black Cat",
         "Quality": "Legendary"
       },
       "0x0250000000002AF4": {
@@ -42875,6 +43147,10 @@
         "Name": null,
         "Quality": "Common"
       },
+      "0x0250000000004965": {
+        "Name": "Gladiator",
+        "Quality": "Legendary"
+      },
       "0x025000000000496A": {
         "Name": "Atlanta Reign",
         "Quality": "Epic"
@@ -43039,6 +43315,14 @@
         "Name": "Surf's Up",
         "Quality": "Legendary"
       },
+      "0x02500000000049AA": {
+        "Name": "Overwatch League Gray",
+        "Quality": "Epic"
+      },
+      "0x02500000000049AB": {
+        "Name": "Overwatch League White",
+        "Quality": "Epic"
+      },
       "0x02500000000049B4": {
         "Name": "Fleur de Lis",
         "Quality": "Epic"
@@ -43070,6 +43354,10 @@
       "0x0250000000004A07": {
         "Name": "Fantasma",
         "Quality": "Epic"
+      },
+      "0x0250000000004A21": {
+        "Name": "Funky",
+        "Quality": "Legendary"
       },
       "0x0250000000004A28": {
         "Name": "Toybot",
@@ -43391,6 +43679,10 @@
         "Name": "Dragonfire",
         "Quality": "Legendary"
       },
+      "0x0250000000004B31": {
+        "Name": "8 Ball",
+        "Quality": "Epic"
+      },
       "0x0250000000004B34": {
         "Name": "Xiake",
         "Quality": "Epic"
@@ -43655,6 +43947,14 @@
         "Name": "Polyanitsa",
         "Quality": "Legendary"
       },
+      "0x0250000000004BC9": {
+        "Name": "Bird of Paradise",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BCA": {
+        "Name": "Junkfood",
+        "Quality": "Legendary"
+      },
       "0x0250000000004BCB": {
         "Name": "Mousquetaire",
         "Quality": "Legendary"
@@ -43671,6 +43971,14 @@
         "Name": "Subaquatic",
         "Quality": "Epic"
       },
+      "0x0250000000004BD8": {
+        "Name": "Cybermedic",
+        "Quality": "Epic"
+      },
+      "0x0250000000004BED": {
+        "Name": "MM-Mei",
+        "Quality": "Legendary"
+      },
       "0x0250000000004C00": {
         "Name": "Corredor",
         "Quality": "Epic"
@@ -43686,6 +43994,10 @@
       "0x0250000000004C50": {
         "Name": "Pachimari",
         "Quality": "Epic"
+      },
+      "0x0250000000004C60": {
+        "Name": "Venus",
+        "Quality": "Legendary"
       },
       "0x0250000000004C65": {
         "Name": "Midas",
@@ -44811,6 +45123,18 @@
       },
       "0x0250000000004CA6": {
         "Name": "Bird Feeder",
+        "Quality": "Epic"
+      },
+      "0x0250000000004CFD": {
+        "Name": "Power Flail",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D1A": {
+        "Name": "Round 'Em Up",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D1C": {
+        "Name": "Kickin'",
         "Quality": "Epic"
       }
     },
@@ -46105,6 +46429,18 @@
       },
       "0x0250000000004C8A": {
         "Name": "Hey There, Cowboy",
+        "Quality": "Rare"
+      },
+      "0x0250000000004CF6": {
+        "Name": "Taking A Break",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D27": {
+        "Name": "Peace",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D2A": {
+        "Name": "At Ease",
         "Quality": "Rare"
       }
     },
@@ -50063,6 +50399,46 @@
       },
       "0x0250000000004CA5": {
         "Name": "Sick Of Your Rules!",
+        "Quality": "Common"
+      },
+      "0x0250000000004D0F": {
+        "Name": "Not A Hog",
+        "Quality": "Common"
+      },
+      "0x0250000000004D10": {
+        "Name": "Not a Rat",
+        "Quality": "Common"
+      },
+      "0x0250000000004D11": {
+        "Name": "Amusement",
+        "Quality": "Common"
+      },
+      "0x0250000000004D12": {
+        "Name": "Smile",
+        "Quality": "Common"
+      },
+      "0x0250000000004D13": {
+        "Name": "My Blade Never Dulls",
+        "Quality": "Common"
+      },
+      "0x0250000000004D14": {
+        "Name": "Settle Down",
+        "Quality": "Common"
+      },
+      "0x0250000000004D15": {
+        "Name": "Give Up?",
+        "Quality": "Common"
+      },
+      "0x0250000000004D16": {
+        "Name": "How Riveting",
+        "Quality": "Common"
+      },
+      "0x0250000000004D17": {
+        "Name": "We're A Good Team",
+        "Quality": "Common"
+      },
+      "0x0250000000004D18": {
+        "Name": "Your Judgement Is Flawed",
         "Quality": "Common"
       }
     },
