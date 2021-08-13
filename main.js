@@ -32,6 +32,7 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
               .trim()
               .replace(/\s+/g, " ")
               .replace(/ /g, '-')
+              .replace('0f1', '')
   }
 
   const typeMapping = {
@@ -62,6 +63,7 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     "sprays/year-of-the-dog": "year-of-the-dog-2018",
     "sprays/year-of-the-rooster": "year-of-the-rooster-2017",
     "sprays/year-of-the-rat": "year-of-the-rat-2020",
+    "sprays/year-of-the-ox": "year-of-the-ox-2021",
     "sprays/junkrat-hayseed": "junkrat-scarecrow",
     "skins/junkrat-bilgerat": "junkrat-buccaneer",
     "sprays/anniversary": "anniversary-2017",
@@ -72,6 +74,7 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     "icons/2018-pacific-allstars": "pacific-allstars-2018",
     "icons/2018-atlantic-allstars": "atlantic-allstars-2018",
     "icons/path-to-pro-2019": "path-to-pro",
+    "icons/reaper-imperial-guard": "reaper-imperial",
 
     "voicelines/roadhog-im-beached-as-bro": "roadhog-youre-a-talker",
     "voicelines/brigitte-get-out-of-here": "brigitte-take-a-hike",

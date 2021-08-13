@@ -2423,6 +2423,10 @@
         "0x0250000000004BB2": {
           "Name": "Pagoda",
           "Quality": "Rare"
+        },
+        "0x0250000000004D7D": {
+          "Name": "Nihon",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -2590,6 +2594,10 @@
         },
         "0x0250000000001218": {
           "Name": "Defeat is the first step",
+          "Quality": "Common"
+        },
+        "0x0250000000004D8E": {
+          "Name": "Pool party?",
           "Quality": "Common"
         },
         "0x0250000000000C93": {
@@ -2949,6 +2957,10 @@
         "0x0250000000004AA4": {
           "Name": "Kyōgisha",
           "Quality": "Epic"
+        },
+        "0x025000000000491E": {
+          "Name": "Nihon",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -3098,6 +3110,10 @@
         },
         "0x0250000000004BB1": {
           "Name": "Yōkai",
+          "Quality": "Common"
+        },
+        "0x0250000000004D7B": {
+          "Name": "Nihon",
           "Quality": "Common"
         }
       },
@@ -3926,6 +3942,10 @@
           "Name": "Kneel",
           "Quality": "Epic"
         },
+        "0x0250000000004D82": {
+          "Name": "Marshmallows",
+          "Quality": "Epic"
+        },
         "0x0250000000000C2F": {
           "Name": "Pumpkin Smash",
           "Quality": "Epic"
@@ -3954,6 +3974,10 @@
         },
         "0x02500000000006D6": {
           "Name": "Legendary",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D45": {
+          "Name": "Medal",
           "Quality": "Rare"
         },
         "0x0250000000000C27": {
@@ -4058,6 +4082,10 @@
         },
         "0x0250000000001220": {
           "Name": "Glittering prizes!",
+          "Quality": "Common"
+        },
+        "0x0250000000004D8D": {
+          "Name": "See my muscles?",
           "Quality": "Common"
         },
         "0x0250000000000C9C": {
@@ -4621,6 +4649,10 @@
         "0x0250000000002900": {
           "Name": "Orbital",
           "Quality": "Rare"
+        },
+        "0x0250000000004D7C": {
+          "Name": "Sunset",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -5151,6 +5183,10 @@
         "0x0250000000004A48": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004D7F": {
+          "Name": "Sunset",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -5301,6 +5337,10 @@
         "0x0250000000002AA8": {
           "Name": "Bricks Rain from Above",
           "Quality": "Common"
+        },
+        "0x0250000000004D7A": {
+          "Name": "Sunset Soar",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -5366,6 +5406,10 @@
         },
         "0x0250000000004660": {
           "Name": "Ancient Bronze",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D77": {
+          "Name": "Ocean King",
           "Quality": "Rare"
         }
       },
@@ -5530,6 +5574,10 @@
         },
         "0x0250000000001227": {
           "Name": "Oh, it's on!",
+          "Quality": "Common"
+        },
+        "0x0250000000004D88": {
+          "Name": "Why is it so warm?",
           "Quality": "Common"
         },
         "0x0250000000000CA4": {
@@ -5889,6 +5937,10 @@
         "0x0250000000004A4A": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004BFF": {
+          "Name": "Ocean King",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -6034,6 +6086,10 @@
         },
         "0x0250000000004661": {
           "Name": "Ancient Bronze",
+          "Quality": "Common"
+        },
+        "0x0250000000004D78": {
+          "Name": "Ocean King",
           "Quality": "Common"
         }
       },
@@ -6639,6 +6695,10 @@
         "0x0250000000004A4E": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004CAB": {
+          "Name": "Ange de la mort",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -7369,6 +7429,10 @@
         "0x02500000000049E3": {
           "Name": "Sand Castle",
           "Quality": "Epic"
+        },
+        "0x0250000000004DA9": {
+          "Name": "Pirate Ship",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -7548,6 +7612,10 @@
         },
         "0x0250000000000BBF": {
           "Name": "Rhythmic Gymnastics",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D99": {
+          "Name": "Mermaid",
           "Quality": "Rare"
         },
         "0x02500000000012D3": {
@@ -7863,6 +7931,10 @@
         "0x02500000000012F0": {
           "Name": "Peacock",
           "Quality": "Epic"
+        },
+        "0x0250000000004BA1": {
+          "Name": "Mermaid",
+          "Quality": "Legendary"
         },
         "0x0250000000000C6A": {
           "Name": "Vampire",
@@ -8204,6 +8276,10 @@
         },
         "0x0250000000000B5B": {
           "Name": "Rhythmic",
+          "Quality": "Common"
+        },
+        "0x0250000000004D9F": {
+          "Name": "Mermaid",
           "Quality": "Common"
         },
         "0x0250000000000C63": {
@@ -9146,6 +9222,10 @@
           "Name": "Sword stance",
           "Quality": "Rare"
         },
+        "0x0250000000004D42": {
+          "Name": "Medal",
+          "Quality": "Rare"
+        },
         "0x0250000000000C89": {
           "Name": "R.I.P.",
           "Quality": "Rare"
@@ -9994,6 +10074,10 @@
         },
         "0x0250000000004A98": {
           "Name": "No job too big",
+          "Quality": "Common"
+        },
+        "0x0250000000004D87": {
+          "Name": "I'm on vacation",
           "Quality": "Common"
         },
         "0x0250000000000CA1": {
@@ -11261,6 +11345,10 @@
         "0x0250000000004C12": {
           "Name": "Gunsmoke",
           "Quality": "Common"
+        },
+        "0x0250000000004D52": {
+          "Name": "Young Jesse",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -11502,6 +11590,10 @@
         },
         "0x025000000000121B": {
           "Name": "I give it a 3!",
+          "Quality": "Common"
+        },
+        "0x0250000000004D86": {
+          "Name": "Watch the footy",
           "Quality": "Common"
         },
         "0x0250000000000C96": {
@@ -12918,6 +13010,10 @@
           "Name": "Lights Out",
           "Quality": "Epic"
         },
+        "0x0250000000004DA3": {
+          "Name": "Grillmaster",
+          "Quality": "Epic"
+        },
         "0x0250000000000227": {
           "Name": "Heroic",
           "Quality": "Common"
@@ -13726,6 +13822,10 @@
           "Name": "Come on, ref!",
           "Quality": "Common"
         },
+        "0x0250000000004D89": {
+          "Name": "Put me in, coach!",
+          "Quality": "Common"
+        },
         "0x0250000000000C97": {
           "Name": "Killed it!",
           "Quality": "Common"
@@ -14480,6 +14580,10 @@
           "Name": "Serious?",
           "Quality": "Common"
         },
+        "0x0250000000004D8C": {
+          "Name": "See you at the finish line",
+          "Quality": "Common"
+        },
         "0x0250000000000C9E": {
           "Name": "Happy Halloween!",
           "Quality": "Common"
@@ -15062,6 +15166,10 @@
           "Name": "Table Tennis",
           "Quality": "Rare"
         },
+        "0x0250000000004D9B": {
+          "Name": "Sprinkles",
+          "Quality": "Rare"
+        },
         "0x02500000000012D5": {
           "Name": "Jiangshi",
           "Quality": "Rare"
@@ -15262,6 +15370,10 @@
           "Name": "I tried my best",
           "Quality": "Common"
         },
+        "0x0250000000004A94": {
+          "Name": "Time to cool off",
+          "Quality": "Common"
+        },
         "0x0250000000000C98": {
           "Name": "Scary!",
           "Quality": "Common"
@@ -15388,6 +15500,10 @@
           "Name": "Ecopoint: Antarctica",
           "Quality": "Legendary"
         },
+        "0x0250000000004A9F": {
+          "Name": "Sprinkles",
+          "Quality": "Legendary"
+        },
         "0x0250000000001194": {
           "Name": "Jiangshi",
           "Quality": "Legendary"
@@ -15422,10 +15538,6 @@
         },
         "0x0250000000002440": {
           "Name": "Honeydew",
-          "Quality": "Legendary"
-        },
-        "0x0250000000004BED": {
-          "Name": "MM-Mei",
           "Quality": "Legendary"
         },
         "0x02500000000004E8": {
@@ -15742,6 +15854,10 @@
           "Name": "Table Tennis",
           "Quality": "Common"
         },
+        "0x0250000000004DA1": {
+          "Name": "Sprinkles",
+          "Quality": "Common"
+        },
         "0x0250000000000C57": {
           "Name": "Trick or Treat",
           "Quality": "Common"
@@ -16038,6 +16154,10 @@
         },
         "0x0250000000001231": {
           "Name": "What's up?",
+          "Quality": "Common"
+        },
+        "0x0250000000004D8A": {
+          "Name": "Got some sun once",
           "Quality": "Common"
         },
         "0x02500000000012CC": {
@@ -17905,6 +18025,10 @@
         "0x0250000000004BD8": {
           "Name": "Cybermedic",
           "Quality": "Epic"
+        },
+        "0x0250000000004D66": {
+          "Name": "Haroeris",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -18108,6 +18232,10 @@
         },
         "0x0250000000001237": {
           "Name": "Javelin",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D9A": {
+          "Name": "Referee",
           "Quality": "Rare"
         },
         "0x0250000000002AE6": {
@@ -18418,6 +18546,10 @@
         },
         "0x025000000000124E": {
           "Name": "Immortal",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004C74": {
+          "Name": "Referee",
           "Quality": "Legendary"
         },
         "0x0250000000001A3F": {
@@ -18750,6 +18882,10 @@
           "Name": "Javelin",
           "Quality": "Common"
         },
+        "0x0250000000004DA0": {
+          "Name": "Referee",
+          "Quality": "Common"
+        },
         "0x02500000000012DF": {
           "Name": "Trick or Treat",
           "Quality": "Common"
@@ -19014,6 +19150,10 @@
         },
         "0x0250000000004A93": {
           "Name": "Happy Midsummer!",
+          "Quality": "Common"
+        },
+        "0x0250000000004D8B": {
+          "Name": "No sweat",
           "Quality": "Common"
         },
         "0x02500000000022AD": {
@@ -20322,6 +20462,10 @@
           "Name": "Lounge",
           "Quality": "Epic"
         },
+        "0x0250000000004D6F": {
+          "Name": "Beach Mode",
+          "Quality": "Epic"
+        },
         "0x02500000000027BD": {
           "Name": "Hamster Dance",
           "Quality": "Epic"
@@ -20978,6 +21122,14 @@
           "Name": "Shooting",
           "Quality": "Rare"
         },
+        "0x0250000000004D98": {
+          "Name": "Poolside",
+          "Quality": "Rare"
+        },
+        "0x0250000000004DA2": {
+          "Name": "Flamingo Floatie",
+          "Quality": "Rare"
+        },
         "0x0250000000002AE5": {
           "Name": "Warlock",
           "Quality": "Rare"
@@ -21016,6 +21168,10 @@
         },
         "0x02500000000047D1": {
           "Name": "Mardi B.O.B.",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D4D": {
+          "Name": "Deadlock Ashe",
           "Quality": "Rare"
         }
       },
@@ -21134,6 +21290,10 @@
         },
         "0x0250000000004A78": {
           "Name": "The best way to win",
+          "Quality": "Common"
+        },
+        "0x0250000000004D8F": {
+          "Name": "I'll get in the pool...",
           "Quality": "Common"
         },
         "0x0250000000004AFA": {
@@ -21287,6 +21447,10 @@
         "0x0250000000002454": {
           "Name": "Posh",
           "Quality": "Epic"
+        },
+        "0x0250000000004BB4": {
+          "Name": "Poolside",
+          "Quality": "Legendary"
         },
         "0x0250000000002795": {
           "Name": "Warlock",
@@ -21515,6 +21679,10 @@
         "0x0250000000004A52": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004CC5": {
+          "Name": "Deadlock",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -21614,6 +21782,10 @@
           "Name": "Shooting",
           "Quality": "Common"
         },
+        "0x0250000000004D9E": {
+          "Name": "Poolside",
+          "Quality": "Common"
+        },
         "0x0250000000002AD6": {
           "Name": "Trick or Treat",
           "Quality": "Common"
@@ -21680,6 +21852,26 @@
         },
         "0x02500000000047D0": {
           "Name": "Gold Mask",
+          "Quality": "Common"
+        },
+        "0x0250000000004D4E": {
+          "Name": "Outlaws",
+          "Quality": "Common"
+        },
+        "0x0250000000004D50": {
+          "Name": "Waffles",
+          "Quality": "Common"
+        },
+        "0x0250000000004D55": {
+          "Name": "Hat Trick",
+          "Quality": "Common"
+        },
+        "0x0250000000004D54": {
+          "Name": "Troublemakers",
+          "Quality": "Common"
+        },
+        "0x0250000000004D53": {
+          "Name": "Pondering",
           "Quality": "Common"
         }
       },
@@ -21774,6 +21966,10 @@
         },
         "0x02500000000048D1": {
           "Name": "Stasis",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D5D": {
+          "Name": "Medal",
           "Quality": "Rare"
         },
         "0x0250000000004B04": {
@@ -23100,6 +23296,10 @@
           "Name": "Swimming",
           "Quality": "Rare"
         },
+        "0x0250000000004D79": {
+          "Name": "Scuba",
+          "Quality": "Rare"
+        },
         "0x0250000000004B23": {
           "Name": "Flying Dutchman",
           "Quality": "Rare"
@@ -23372,6 +23572,10 @@
         },
         "0x0250000000002A3B": {
           "Name": "Oracle",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004C62": {
+          "Name": "Scuba",
           "Quality": "Legendary"
         },
         "0x02500000000049D6": {
@@ -23690,6 +23894,10 @@
         },
         "0x0250000000004A86": {
           "Name": "Swimming",
+          "Quality": "Common"
+        },
+        "0x0250000000004D9D": {
+          "Name": "Scuba",
           "Quality": "Common"
         },
         "0x0250000000002AD4": {
@@ -24589,6 +24797,10 @@
       },
       "0x0250000000004C1B": {
         "Name": "Fan Dance",
+        "Quality": "Epic"
+      },
+      "0x0250000000004DA3": {
+        "Name": "Grillmaster",
         "Quality": "Epic"
       }
     },
@@ -30898,11 +31110,11 @@
         "Quality": "Common"
       },
       "0x0250000000004C92": {
-        "Name": "Competitive 6v6 Elimination Hero 2021",
+        "Name": "Competitive 6v6 Elimination Competitor 2021",
         "Quality": "Common"
       },
       "0x0250000000004C94": {
-        "Name": "Competitive 6v6 Elimination Competitor 2021",
+        "Name": "Competitive 6v6 Elimination Hero 2021",
         "Quality": "Common"
       },
       "0x0250000000004C95": {
@@ -31003,6 +31215,94 @@
       },
       "0x0250000000004D31": {
         "Name": "Competitive Deathmatch Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004D4E": {
+        "Name": "Outlaws",
+        "Quality": "Common"
+      },
+      "0x0250000000004D50": {
+        "Name": "Waffles",
+        "Quality": "Common"
+      },
+      "0x0250000000004D51": {
+        "Name": "Graduation",
+        "Quality": "Common"
+      },
+      "0x0250000000004D52": {
+        "Name": "Young Jesse",
+        "Quality": "Common"
+      },
+      "0x0250000000004D53": {
+        "Name": "Pondering",
+        "Quality": "Common"
+      },
+      "0x0250000000004D54": {
+        "Name": "Troublemakers",
+        "Quality": "Common"
+      },
+      "0x0250000000004D55": {
+        "Name": "Hat Trick",
+        "Quality": "Common"
+      },
+      "0x0250000000004D67": {
+        "Name": "Season 29 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004D68": {
+        "Name": "Season 29 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004D78": {
+        "Name": "Ocean King",
+        "Quality": "Common"
+      },
+      "0x0250000000004D7A": {
+        "Name": "Sunset Soar",
+        "Quality": "Common"
+      },
+      "0x0250000000004D7B": {
+        "Name": "Nihon",
+        "Quality": "Common"
+      },
+      "0x0250000000004D81": {
+        "Name": "Beach Fuel",
+        "Quality": "Common"
+      },
+      "0x0250000000004D92": {
+        "Name": "Season 30 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004D93": {
+        "Name": "Season 30 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004D94": {
+        "Name": "Copa Lúcioball Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004D97": {
+        "Name": "Copa Lúcioball Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004D9D": {
+        "Name": "Scuba",
+        "Quality": "Common"
+      },
+      "0x0250000000004D9E": {
+        "Name": "Poolside",
+        "Quality": "Common"
+      },
+      "0x0250000000004D9F": {
+        "Name": "Mermaid",
+        "Quality": "Common"
+      },
+      "0x0250000000004DA0": {
+        "Name": "Referee",
+        "Quality": "Common"
+      },
+      "0x0250000000004DA1": {
+        "Name": "Sprinkles",
         "Quality": "Common"
       }
     },
@@ -33484,7 +33784,7 @@
         "Quality": "Rare"
       },
       "0x025000000000435D": {
-        "Name": "2020",
+        "Name": "2021",
         "Quality": "Rare"
       },
       "0x0250000000004392": {
@@ -34000,11 +34300,11 @@
         "Quality": "Rare"
       },
       "0x0250000000004C91": {
-        "Name": "Competitive 6v6 Elimination Competitor 2021",
+        "Name": "Competitive 6v6 Elimination Hero 2021",
         "Quality": "Rare"
       },
       "0x0250000000004C93": {
-        "Name": "Competitive 6v6 Elimination Hero 2021",
+        "Name": "Competitive 6v6 Elimination Competitor 2021",
         "Quality": "Rare"
       },
       "0x0250000000004C96": {
@@ -34093,6 +34393,78 @@
       },
       "0x0250000000004D32": {
         "Name": "Competitive Deathmatch Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D4D": {
+        "Name": "Deadlock Ashe",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D59": {
+        "Name": "Rainbow",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D69": {
+        "Name": "Season 29 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D6A": {
+        "Name": "Season 29 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D77": {
+        "Name": "Ocean King",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D79": {
+        "Name": "Scuba",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D7C": {
+        "Name": "Sunset",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D7D": {
+        "Name": "Nihon",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D83": {
+        "Name": "Summer Games 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D90": {
+        "Name": "Season 30 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D91": {
+        "Name": "Season 30 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D95": {
+        "Name": "Copa Lúcioball Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D96": {
+        "Name": "Copa Lúcioball Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D98": {
+        "Name": "Poolside",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D99": {
+        "Name": "Mermaid",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D9A": {
+        "Name": "Referee",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D9B": {
+        "Name": "Sprinkles",
+        "Quality": "Rare"
+      },
+      "0x0250000000004DA2": {
+        "Name": "Flamingo Floatie",
         "Quality": "Rare"
       }
     },
@@ -43119,6 +43491,10 @@
         "Name": "Carbon Fiber",
         "Quality": "Epic"
       },
+      "0x025000000000491E": {
+        "Name": "Nihon",
+        "Quality": "Epic"
+      },
       "0x025000000000491F": {
         "Name": "Penguin",
         "Quality": "Legendary"
@@ -43615,6 +43991,10 @@
         "Name": "Stone",
         "Quality": "Epic"
       },
+      "0x0250000000004A9F": {
+        "Name": "Sprinkles",
+        "Quality": "Legendary"
+      },
       "0x0250000000004AA1": {
         "Name": "Soldier: 1776",
         "Quality": "Legendary"
@@ -43947,6 +44327,14 @@
         "Name": "Polyanitsa",
         "Quality": "Legendary"
       },
+      "0x0250000000004BA1": {
+        "Name": "Mermaid",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004BB4": {
+        "Name": "Poolside",
+        "Quality": "Legendary"
+      },
       "0x0250000000004BC9": {
         "Name": "Bird of Paradise",
         "Quality": "Epic"
@@ -43979,6 +44367,10 @@
         "Name": "MM-Mei",
         "Quality": "Legendary"
       },
+      "0x0250000000004BFF": {
+        "Name": "Ocean King",
+        "Quality": "Epic"
+      },
       "0x0250000000004C00": {
         "Name": "Corredor",
         "Quality": "Epic"
@@ -43999,8 +44391,40 @@
         "Name": "Venus",
         "Quality": "Legendary"
       },
+      "0x0250000000004C62": {
+        "Name": "Scuba",
+        "Quality": "Legendary"
+      },
       "0x0250000000004C65": {
         "Name": "Midas",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004C6C": {
+        "Name": "Tropical PH",
+        "Quality": "Epic"
+      },
+      "0x0250000000004C74": {
+        "Name": "Referee",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004CAB": {
+        "Name": "Ange de la mort",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004CC5": {
+        "Name": "Deadlock",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004D66": {
+        "Name": "Haroeris",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004D7F": {
+        "Name": "Sunset",
+        "Quality": "Epic"
+      },
+      "0x0250000000004DA9": {
+        "Name": "Pirate Ship",
         "Quality": "Legendary"
       }
     },
@@ -45135,6 +45559,14 @@
       },
       "0x0250000000004D1C": {
         "Name": "Kickin'",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D6F": {
+        "Name": "Beach Mode",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D82": {
+        "Name": "Marshmallows",
         "Quality": "Epic"
       }
     },
@@ -46441,6 +46873,18 @@
       },
       "0x0250000000004D2A": {
         "Name": "At Ease",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D42": {
+        "Name": "Medal",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D45": {
+        "Name": "Medal",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D5D": {
+        "Name": "Medal",
         "Quality": "Rare"
       }
     },
@@ -50173,6 +50617,10 @@
         "Name": "Happy Midsummer!",
         "Quality": "Common"
       },
+      "0x0250000000004A94": {
+        "Name": "Time to cool off",
+        "Quality": "Common"
+      },
       "0x0250000000004A95": {
         "Name": "Fore!",
         "Quality": "Common"
@@ -50439,6 +50887,46 @@
       },
       "0x0250000000004D18": {
         "Name": "Your Judgement Is Flawed",
+        "Quality": "Common"
+      },
+      "0x0250000000004D86": {
+        "Name": "Watch the footy",
+        "Quality": "Common"
+      },
+      "0x0250000000004D87": {
+        "Name": "I'm on vacation",
+        "Quality": "Common"
+      },
+      "0x0250000000004D88": {
+        "Name": "Why is it so warm?",
+        "Quality": "Common"
+      },
+      "0x0250000000004D89": {
+        "Name": "Put me in, coach!",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8A": {
+        "Name": "Got some sun once",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8B": {
+        "Name": "No sweat",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8C": {
+        "Name": "See you at the finish line",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8D": {
+        "Name": "See my muscles?",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8E": {
+        "Name": "Pool party?",
+        "Quality": "Common"
+      },
+      "0x0250000000004D8F": {
+        "Name": "I'll get in the pool...",
         "Quality": "Common"
       }
     },
