@@ -238,6 +238,10 @@
           "Name": "Too edgy for you?",
           "Quality": "Common"
         },
+        "0x0250000000004E44": {
+          "Name": "Where's my candy?",
+          "Quality": "Common"
+        },
         "0x0250000000000D8C": {
           "Name": "Holiday spirit",
           "Quality": "Common"
@@ -998,6 +1002,10 @@
         },
         "0x02500000000022B6": {
           "Name": "Trick or treat",
+          "Quality": "Common"
+        },
+        "0x0250000000004E4B": {
+          "Name": "Is that a costume?",
           "Quality": "Common"
         },
         "0x0250000000000D93": {
@@ -2612,6 +2620,10 @@
           "Name": "The Shimada will rise again",
           "Quality": "Common"
         },
+        "0x0250000000004E4D": {
+          "Name": "The archer vanished... ",
+          "Quality": "Common"
+        },
         "0x0250000000000D80": {
           "Name": "A gift for you",
           "Quality": "Common"
@@ -3246,6 +3258,10 @@
           "Name": "R.I.P.",
           "Quality": "Rare"
         },
+        "0x0250000000004DF0": {
+          "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
         "0x0250000000000D06": {
           "Name": "Toast",
           "Quality": "Rare"
@@ -3360,6 +3376,10 @@
         },
         "0x0250000000004B02": {
           "Name": "The Viking's quest",
+          "Quality": "Common"
+        },
+        "0x0250000000004E45": {
+          "Name": "Not a costume",
           "Quality": "Common"
         },
         "0x0250000000000D88": {
@@ -3900,6 +3920,10 @@
           "Name": "Gridironhardt",
           "Quality": "Rare"
         },
+        "0x0250000000004E3C": {
+          "Name": "Draugr",
+          "Quality": "Rare"
+        },
         "0x0250000000004BDD": {
           "Name": "Conductor",
           "Quality": "Rare"
@@ -4217,6 +4241,10 @@
         "0x0250000000000C8A": {
           "Name": "Coldhardt",
           "Quality": "Epic"
+        },
+        "0x0250000000004D41": {
+          "Name": "Draugr",
+          "Quality": "Legendary"
         },
         "0x0250000000002460": {
           "Name": "Festive",
@@ -4558,6 +4586,10 @@
         },
         "0x0250000000000C5A": {
           "Name": "Trick or Treat",
+          "Quality": "Common"
+        },
+        "0x0250000000004E42": {
+          "Name": "Draugr",
           "Quality": "Common"
         },
         "0x0250000000000D16": {
@@ -5590,6 +5622,10 @@
         },
         "0x02500000000022B7": {
           "Name": "Boo!",
+          "Quality": "Common"
+        },
+        "0x0250000000004E4A": {
+          "Name": "A full moon?",
           "Quality": "Common"
         },
         "0x0250000000000D90": {
@@ -6888,6 +6924,10 @@
           "Name": "Boxing",
           "Quality": "Rare"
         },
+        "0x0250000000004E39": {
+          "Name": "Coffin",
+          "Quality": "Rare"
+        },
         "0x025000000000139B": {
           "Name": "Avalanche",
           "Quality": "Rare"
@@ -7177,6 +7217,10 @@
         "0x0250000000000C69": {
           "Name": "Tombstone",
           "Quality": "Epic"
+        },
+        "0x0250000000004CF2": {
+          "Name": "Coffin",
+          "Quality": "Legendary"
         },
         "0x02500000000012CE": {
           "Name": "Avalanche",
@@ -7538,6 +7582,10 @@
         },
         "0x0250000000000C58": {
           "Name": "Trick or Treat",
+          "Quality": "Common"
+        },
+        "0x0250000000004E3F": {
+          "Name": "Coffin",
           "Quality": "Common"
         },
         "0x0250000000000D14": {
@@ -8484,6 +8532,10 @@
           "Name": "R.I.P.",
           "Quality": "Rare"
         },
+        "0x0250000000004DEB": {
+          "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
         "0x025000000000123E": {
           "Name": "Toast",
           "Quality": "Rare"
@@ -9169,6 +9221,10 @@
         "0x0250000000002AA6": {
           "Name": "Genji Minifig",
           "Quality": "Rare"
+        },
+        "0x0250000000004E36": {
+          "Name": "Skeleton",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -9687,6 +9743,10 @@
         "0x0250000000004A4B": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004BCC": {
+          "Name": "Skeleton",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -9841,6 +9901,10 @@
         "0x0250000000002AAB": {
           "Name": "Brickblade",
           "Quality": "Common"
+        },
+        "0x0250000000004E1E": {
+          "Name": "Skeleton",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -9906,6 +9970,10 @@
         },
         "0x0250000000004BE1": {
           "Name": "Frosty",
+          "Quality": "Rare"
+        },
+        "0x0250000000004E37": {
+          "Name": "Clown",
           "Quality": "Rare"
         }
       },
@@ -10086,6 +10154,10 @@
         },
         "0x02500000000012BF": {
           "Name": "Boo!",
+          "Quality": "Common"
+        },
+        "0x0250000000004E47": {
+          "Name": "Beneath your bed",
           "Quality": "Common"
         },
         "0x0250000000000D8D": {
@@ -10433,6 +10505,10 @@
         "0x0250000000004C65": {
           "Name": "Midas",
           "Quality": "Legendary"
+        },
+        "0x0250000000004C72": {
+          "Name": "Clown",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -10578,6 +10654,10 @@
         },
         "0x0250000000004BEB": {
           "Name": "Frosty",
+          "Quality": "Common"
+        },
+        "0x0250000000004E1D": {
+          "Name": "Clown",
           "Quality": "Common"
         }
       },
@@ -11604,6 +11684,10 @@
           "Name": "I'm alive!",
           "Quality": "Common"
         },
+        "0x0250000000004E46": {
+          "Name": "Can't scare me",
+          "Quality": "Common"
+        },
         "0x0250000000000D83": {
           "Name": "Merry Christmas",
           "Quality": "Common"
@@ -12173,6 +12257,10 @@
         "0x0250000000001156": {
           "Name": "Zaryanoversary",
           "Quality": "Rare"
+        },
+        "0x0250000000004E35": {
+          "Name": "Einherjar",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -12707,6 +12795,10 @@
         "0x0250000000004A63": {
           "Name": "Contenders Home",
           "Quality": "Epic"
+        },
+        "0x0250000000004CFF": {
+          "Name": "Einherjar",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -12853,6 +12945,10 @@
         "0x0250000000000719": {
           "Name": "Cute",
           "Quality": "Common"
+        },
+        "0x0250000000004E1F": {
+          "Name": "Einherjar",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -12976,6 +13072,10 @@
           "Name": "R.I.P.",
           "Quality": "Rare"
         },
+        "0x0250000000004D4C": {
+          "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
         "0x0250000000000D51": {
           "Name": "Toast",
           "Quality": "Rare"
@@ -13094,6 +13194,10 @@
         },
         "0x0250000000004B01": {
           "Name": "What, are you scared?",
+          "Quality": "Common"
+        },
+        "0x0250000000004E49": {
+          "Name": "Everyone has ghosts",
           "Quality": "Common"
         },
         "0x0250000000000D8F": {
@@ -13630,6 +13734,10 @@
           "Name": "Gorgon",
           "Quality": "Rare"
         },
+        "0x0250000000004E3D": {
+          "Name": "Satyr",
+          "Quality": "Rare"
+        },
         "0x0250000000002507": {
           "Name": "Snow Fox",
           "Quality": "Rare"
@@ -13951,6 +14059,10 @@
         "0x0250000000002AA1": {
           "Name": "Gorgon",
           "Quality": "Epic"
+        },
+        "0x0250000000004CED": {
+          "Name": "Satyr",
+          "Quality": "Legendary"
         },
         "0x0250000000000CF7": {
           "Name": "Andes",
@@ -14296,6 +14408,10 @@
         },
         "0x0250000000002ADB": {
           "Name": "Gorgon",
+          "Quality": "Common"
+        },
+        "0x0250000000004E43": {
+          "Name": "Satyr",
           "Quality": "Common"
         },
         "0x0250000000000D12": {
@@ -16168,6 +16284,10 @@
           "Name": "Aw, isn't that sweet?",
           "Quality": "Common"
         },
+        "0x0250000000004E4C": {
+          "Name": "You're not alone in here",
+          "Quality": "Common"
+        },
         "0x0250000000000D87": {
           "Name": "I know who's been naughty",
           "Quality": "Common"
@@ -16936,6 +17056,10 @@
         },
         "0x02500000000012C8": {
           "Name": "You should be scared",
+          "Quality": "Common"
+        },
+        "0x0250000000004E48": {
+          "Name": "Knock knock",
           "Quality": "Common"
         },
         "0x025000000000134A": {
@@ -18972,6 +19096,10 @@
           "Name": "Feskarn",
           "Quality": "Rare"
         },
+        "0x0250000000004E3A": {
+          "Name": "Vampire Hunter",
+          "Quality": "Rare"
+        },
         "0x0250000000004606": {
           "Name": "Opera Warrior",
           "Quality": "Rare"
@@ -19272,6 +19400,10 @@
         },
         "0x025000000000484E": {
           "Name": "Feskarn",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004D62": {
+          "Name": "Vampire Hunter",
           "Quality": "Legendary"
         },
         "0x0250000000002530": {
@@ -19604,6 +19736,10 @@
           "Name": "Trick or Treat",
           "Quality": "Common"
         },
+        "0x0250000000004E40": {
+          "Name": "Vampire Hunter",
+          "Quality": "Common"
+        },
         "0x0250000000002485": {
           "Name": "Knitting",
           "Quality": "Common"
@@ -19738,6 +19874,10 @@
         },
         "0x02500000000015EF": {
           "Name": "Facepalm",
+          "Quality": "Epic"
+        },
+        "0x0250000000004D43": {
+          "Name": "Boo",
           "Quality": "Epic"
         },
         "0x025000000000196F": {
@@ -21908,6 +22048,10 @@
           "Name": "Surf",
           "Quality": "Rare"
         },
+        "0x0250000000004E3B": {
+          "Name": "Vampire Bat",
+          "Quality": "Rare"
+        },
         "0x0250000000004C34": {
           "Name": "Magpie",
           "Quality": "Rare"
@@ -22058,6 +22202,10 @@
         },
         "0x025000000000499E": {
           "Name": "Surf's Up",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004D3B": {
+          "Name": "Vampire Bat",
           "Quality": "Legendary"
         },
         "0x0250000000004ACF": {
@@ -22358,6 +22506,10 @@
           "Name": "Trick or Treat",
           "Quality": "Common"
         },
+        "0x0250000000004E41": {
+          "Name": "Vampire Bat",
+          "Quality": "Common"
+        },
         "0x0250000000004BE2": {
           "Name": "Snowman",
           "Quality": "Common"
@@ -22610,6 +22762,10 @@
         },
         "0x02500000000027B1": {
           "Name": "Take a knee",
+          "Quality": "Epic"
+        },
+        "0x0250000000004E0A": {
+          "Name": "Zombie Walk",
           "Quality": "Epic"
         },
         "0x0250000000004BEE": {
@@ -23340,6 +23496,10 @@
         },
         "0x02500000000029CB": {
           "Name": "Inconsequential",
+          "Quality": "Epic"
+        },
+        "0x0250000000004E03": {
+          "Name": "Magic Pumpkins",
           "Quality": "Epic"
         },
         "0x0250000000004963": {
@@ -31304,6 +31464,74 @@
       "0x0250000000004DA1": {
         "Name": "Sprinkles",
         "Quality": "Common"
+      },
+      "0x0250000000004DE4": {
+        "Name": "Dragons' Treasure",
+        "Quality": "Common"
+      },
+      "0x0250000000004DF6": {
+        "Name": "Competitive 3v3 Elimination Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004DF7": {
+        "Name": "Competitive 3v3 Elimination Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004E15": {
+        "Name": "Competitive Team Deathmatch Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004E16": {
+        "Name": "Competitive Team Deathmatch Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004E1D": {
+        "Name": "Clown",
+        "Quality": "Common"
+      },
+      "0x0250000000004E1E": {
+        "Name": "Skeleton",
+        "Quality": "Common"
+      },
+      "0x0250000000004E1F": {
+        "Name": "Einherjar",
+        "Quality": "Common"
+      },
+      "0x0250000000004E2D": {
+        "Name": "Dragons' Fireworks",
+        "Quality": "Common"
+      },
+      "0x0250000000004E2F": {
+        "Name": "Season 31 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004E30": {
+        "Name": "Season 31 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004E34": {
+        "Name": "Tiny Champion",
+        "Quality": "Common"
+      },
+      "0x0250000000004E3F": {
+        "Name": "Coffin",
+        "Quality": "Common"
+      },
+      "0x0250000000004E40": {
+        "Name": "Vampire Hunter",
+        "Quality": "Common"
+      },
+      "0x0250000000004E41": {
+        "Name": "Vampire Bat",
+        "Quality": "Common"
+      },
+      "0x0250000000004E42": {
+        "Name": "Draugr",
+        "Quality": "Common"
+      },
+      "0x0250000000004E43": {
+        "Name": "Satyr",
+        "Quality": "Common"
       }
     },
     "Icon": {
@@ -33784,7 +34012,7 @@
         "Quality": "Rare"
       },
       "0x025000000000435D": {
-        "Name": "2021",
+        "Name": "2020",
         "Quality": "Rare"
       },
       "0x0250000000004392": {
@@ -34465,6 +34693,66 @@
       },
       "0x0250000000004DA2": {
         "Name": "Flamingo Floatie",
+        "Quality": "Rare"
+      },
+      "0x0250000000004DF4": {
+        "Name": "Competitive 3v3 Elimination Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004DF5": {
+        "Name": "Competitive 3v3 Elimination Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E17": {
+        "Name": "Competitive Team Deathmatch Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E18": {
+        "Name": "Competitive Team Deathmatch Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E31": {
+        "Name": "Season 31 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E32": {
+        "Name": "Season 31 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E35": {
+        "Name": "Einherjar",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E36": {
+        "Name": "Skeleton",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E37": {
+        "Name": "Clown",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E38": {
+        "Name": "Halloween Terror 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E39": {
+        "Name": "Coffin",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E3A": {
+        "Name": "Vampire Hunter",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E3B": {
+        "Name": "Vampire Bat",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E3C": {
+        "Name": "Draugr",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E3D": {
+        "Name": "Satyr",
         "Quality": "Rare"
       }
     },
@@ -44347,6 +44635,10 @@
         "Name": "Mousquetaire",
         "Quality": "Legendary"
       },
+      "0x0250000000004BCC": {
+        "Name": "Skeleton",
+        "Quality": "Epic"
+      },
       "0x0250000000004BCE": {
         "Name": "Terracotta Medic",
         "Quality": "Epic"
@@ -44403,6 +44695,10 @@
         "Name": "Tropical PH",
         "Quality": "Epic"
       },
+      "0x0250000000004C72": {
+        "Name": "Clown",
+        "Quality": "Epic"
+      },
       "0x0250000000004C74": {
         "Name": "Referee",
         "Quality": "Legendary"
@@ -44413,6 +44709,30 @@
       },
       "0x0250000000004CC5": {
         "Name": "Deadlock",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004CED": {
+        "Name": "Satyr",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004CF2": {
+        "Name": "Coffin",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004CFF": {
+        "Name": "Einherjar",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D3B": {
+        "Name": "Vampire Bat",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004D41": {
+        "Name": "Draugr",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004D62": {
+        "Name": "Vampire Hunter",
         "Quality": "Legendary"
       },
       "0x0250000000004D66": {
@@ -45561,12 +45881,24 @@
         "Name": "Kickin'",
         "Quality": "Epic"
       },
+      "0x0250000000004D43": {
+        "Name": "Boo",
+        "Quality": "Epic"
+      },
       "0x0250000000004D6F": {
         "Name": "Beach Mode",
         "Quality": "Epic"
       },
       "0x0250000000004D82": {
         "Name": "Marshmallows",
+        "Quality": "Epic"
+      },
+      "0x0250000000004E03": {
+        "Name": "Magic Pumpkins",
+        "Quality": "Epic"
+      },
+      "0x0250000000004E0A": {
+        "Name": "Zombie Walk",
         "Quality": "Epic"
       }
     },
@@ -46883,8 +47215,20 @@
         "Name": "Medal",
         "Quality": "Rare"
       },
+      "0x0250000000004D4C": {
+        "Name": "Pumpkin",
+        "Quality": "Rare"
+      },
       "0x0250000000004D5D": {
         "Name": "Medal",
+        "Quality": "Rare"
+      },
+      "0x0250000000004DEB": {
+        "Name": "Pumpkin",
+        "Quality": "Rare"
+      },
+      "0x0250000000004DF0": {
+        "Name": "Pumpkin",
         "Quality": "Rare"
       }
     },
@@ -50927,6 +51271,46 @@
       },
       "0x0250000000004D8F": {
         "Name": "I'll get in the pool...",
+        "Quality": "Common"
+      },
+      "0x0250000000004E44": {
+        "Name": "Where's my candy?",
+        "Quality": "Common"
+      },
+      "0x0250000000004E45": {
+        "Name": "Not a costume",
+        "Quality": "Common"
+      },
+      "0x0250000000004E46": {
+        "Name": "Can't scare me",
+        "Quality": "Common"
+      },
+      "0x0250000000004E47": {
+        "Name": "Beneath your bed",
+        "Quality": "Common"
+      },
+      "0x0250000000004E48": {
+        "Name": "Knock knock",
+        "Quality": "Common"
+      },
+      "0x0250000000004E49": {
+        "Name": "Everyone has ghosts",
+        "Quality": "Common"
+      },
+      "0x0250000000004E4A": {
+        "Name": "A full moon?",
+        "Quality": "Common"
+      },
+      "0x0250000000004E4B": {
+        "Name": "Is that a costume?",
+        "Quality": "Common"
+      },
+      "0x0250000000004E4C": {
+        "Name": "You're not alone in here",
+        "Quality": "Common"
+      },
+      "0x0250000000004E4D": {
+        "Name": "The archer vanished... ",
         "Quality": "Common"
       }
     },
