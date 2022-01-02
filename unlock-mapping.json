@@ -807,6 +807,10 @@
         "0x0250000000004AEA": {
           "Name": "Comic Book",
           "Quality": "Rare"
+        },
+        "0x0250000000004EC0": {
+          "Name": "Wooltide",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -1365,6 +1369,10 @@
         "0x0250000000004AEC": {
           "Name": "Comic Book",
           "Quality": "Epic"
+        },
+        "0x0250000000004D33": {
+          "Name": "Wooltide",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -1546,6 +1554,10 @@
         },
         "0x0250000000004AEB": {
           "Name": "Quote Me",
+          "Quality": "Common"
+        },
+        "0x0250000000004EBD": {
+          "Name": "Wooltide",
           "Quality": "Common"
         }
       },
@@ -2500,6 +2512,10 @@
           "Name": "Skewered",
           "Quality": "Rare"
         },
+        "0x0250000000004D48": {
+          "Name": "Toast",
+          "Quality": "Rare"
+        },
         "0x025000000000248E": {
           "Name": "Firework",
           "Quality": "Rare"
@@ -3294,6 +3310,10 @@
         },
         "0x0250000000000131": {
           "Name": "In your face",
+          "Quality": "Epic"
+        },
+        "0x0250000000004DF2": {
+          "Name": "Lava Angel",
           "Quality": "Epic"
         },
         "0x025000000000104A": {
@@ -4130,6 +4150,10 @@
         },
         "0x0250000000004BBF": {
           "Name": "Cold? Me? Hah!",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED4": {
+          "Name": "Call this Cold?",
           "Quality": "Common"
         },
         "0x0250000000000F53": {
@@ -5373,6 +5397,10 @@
         "0x0250000000004D7A": {
           "Name": "Sunset Soar",
           "Quality": "Common"
+        },
+        "0x0250000000004DE8": {
+          "Name": "Determined",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -6384,6 +6412,10 @@
         },
         "0x02500000000024F7": {
           "Name": "Happy Holidays",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED6": {
+          "Name": "Cookies",
           "Quality": "Common"
         },
         "0x0250000000000F5E": {
@@ -7689,6 +7721,10 @@
         "0x0250000000004B10": {
           "Name": "Marammat",
           "Quality": "Rare"
+        },
+        "0x0250000000004EC1": {
+          "Name": "Mistletoe",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -8223,6 +8259,10 @@
         "0x0250000000004B08": {
           "Name": "Marammat",
           "Quality": "Epic"
+        },
+        "0x0250000000004C66": {
+          "Name": "Mistletoe",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -8396,6 +8436,10 @@
         },
         "0x0250000000004BB6": {
           "Name": "Sanjay",
+          "Quality": "Common"
+        },
+        "0x0250000000004EBE": {
+          "Name": "Mistletoe",
           "Quality": "Common"
         }
       },
@@ -9206,6 +9250,10 @@
           "Name": "Karasu-Tengu",
           "Quality": "Rare"
         },
+        "0x0250000000004ED9": {
+          "Name": "Ice Wraith",
+          "Quality": "Rare"
+        },
         "0x02500000000010B9": {
           "Name": "Cyborg",
           "Quality": "Rare"
@@ -9514,6 +9562,10 @@
         },
         "0x0250000000004780": {
           "Name": "Karasu-Tengu",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004E29": {
+          "Name": "Ice Wraith",
           "Quality": "Legendary"
         },
         "0x025000000000125F": {
@@ -9868,6 +9920,10 @@
         },
         "0x0250000000000D3A": {
           "Name": "Ornament",
+          "Quality": "Common"
+        },
+        "0x0250000000004EC8": {
+          "Name": "Ice Wraith",
           "Quality": "Common"
         },
         "0x0250000000000ED4": {
@@ -10672,10 +10728,10 @@
         }
       }
     },
-    "McCree": {
+    "Cassidy": {
       "Icon": {
         "0x0250000000000304": {
-          "Name": "McCree",
+          "Name": "Cassidy",
           "Quality": "Rare"
         },
         "0x025000000000054C": {
@@ -10687,7 +10743,7 @@
           "Quality": "Rare"
         },
         "0x025000000000159A": {
-          "Name": "Cute McCree",
+          "Name": "Cute Cassidy",
           "Quality": "Rare"
         },
         "0x0250000000000BAE": {
@@ -10711,7 +10767,7 @@
           "Quality": "Rare"
         },
         "0x02500000000028C5": {
-          "Name": "Deadlock McCree",
+          "Name": "Deadlock Cassidy",
           "Quality": "Rare"
         },
         "0x025000000000114C": {
@@ -10728,6 +10784,10 @@
         },
         "0x0250000000004C13": {
           "Name": "Wanderer",
+          "Quality": "Rare"
+        },
+        "0x0250000000004DDB": {
+          "Name": "Sandstorm",
           "Quality": "Rare"
         }
       },
@@ -10813,7 +10873,7 @@
       },
       "HighlightIntro": {
         "0x0250000000000140": {
-          "Name": "The name's McCree",
+          "Name": "The name's Cassidy",
           "Quality": "Epic"
         },
         "0x025000000000013F": {
@@ -11275,6 +11335,10 @@
         "0x0250000000004B34": {
           "Name": "Xiake",
           "Quality": "Epic"
+        },
+        "0x0250000000004D00": {
+          "Name": "Sandstorm",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -11343,7 +11407,7 @@
           "Quality": "Common"
         },
         "0x0250000000000562": {
-          "Name": "Jesse",
+          "Name": "Cole",
           "Quality": "Common"
         },
         "0x0250000000000563": {
@@ -11427,7 +11491,23 @@
           "Quality": "Common"
         },
         "0x0250000000004D52": {
-          "Name": "Young Jesse",
+          "Name": "Young Cole",
+          "Quality": "Common"
+        },
+        "0x0250000000004DDA": {
+          "Name": "Old Friends",
+          "Quality": "Common"
+        },
+        "0x0250000000004DE5": {
+          "Name": "Back to Back",
+          "Quality": "Common"
+        },
+        "0x0250000000004DE7": {
+          "Name": "Cute Bike",
+          "Quality": "Common"
+        },
+        "0x0250000000004DE9": {
+          "Name": "Hat Tip",
           "Quality": "Common"
         }
       },
@@ -11702,6 +11782,10 @@
         },
         "0x0250000000004349": {
           "Name": "Season's greetings!",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED0": {
+          "Name": "It's Snowing!",
           "Quality": "Common"
         },
         "0x0250000000000F4D": {
@@ -13784,6 +13868,10 @@
           "Name": "Juggle",
           "Quality": "Epic"
         },
+        "0x0250000000004EB4": {
+          "Name": "A Suave Gift",
+          "Quality": "Epic"
+        },
         "0x0250000000000FE7": {
           "Name": "Smooth",
           "Quality": "Epic"
@@ -13960,6 +14048,10 @@
         },
         "0x0250000000004BBD": {
           "Name": "Swap these out for ice skates",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED1": {
+          "Name": "Avalanche!",
           "Quality": "Common"
         },
         "0x0250000000000F4E": {
@@ -14512,6 +14604,10 @@
           "Name": "Shin-Ryeong",
           "Quality": "Rare"
         },
+        "0x0250000000004EDB": {
+          "Name": "Snow Pals",
+          "Quality": "Rare"
+        },
         "0x0250000000000F05": {
           "Name": "Hanbok",
           "Quality": "Rare"
@@ -14828,6 +14924,10 @@
         },
         "0x02500000000049E1": {
           "Name": "Shin-Ryeong",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004DF1": {
+          "Name": "Sleighing",
           "Quality": "Legendary"
         },
         "0x0250000000000CFF": {
@@ -15180,6 +15280,10 @@
           "Name": "COOKIE",
           "Quality": "Common"
         },
+        "0x0250000000004EC9": {
+          "Name": "Bag of Gifts",
+          "Quality": "Common"
+        },
         "0x0250000000000ED6": {
           "Name": "Seesaw",
           "Quality": "Common"
@@ -15516,6 +15620,10 @@
         },
         "0x0250000000004BBE": {
           "Name": "Let's have some hot cocoa",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED2": {
+          "Name": "Cold Never Bothered Me",
           "Quality": "Common"
         },
         "0x0250000000000F4F": {
@@ -15867,6 +15975,10 @@
         "0x0250000000004A3B": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004BED": {
+          "Name": "MM-Mei",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -17070,6 +17182,10 @@
           "Name": "They say chivalry is dead",
           "Quality": "Common"
         },
+        "0x0250000000004ECF": {
+          "Name": "Hot Cocoa",
+          "Quality": "Common"
+        },
         "0x025000000000164C": {
           "Name": "Fortune favors the bold",
           "Quality": "Common"
@@ -17816,6 +17932,10 @@
           "Name": "I'm too old for surprises",
           "Quality": "Common"
         },
+        "0x0250000000004ECC": {
+          "Name": "Happy Holidays",
+          "Quality": "Common"
+        },
         "0x0250000000000E93": {
           "Name": "The moon in winter",
           "Quality": "Common"
@@ -18323,6 +18443,10 @@
         "0x0250000000004D0D": {
           "Name": "Sentinel",
           "Quality": "Common"
+        },
+        "0x0250000000004DEA": {
+          "Name": "Tea Break",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -18364,6 +18488,10 @@
         },
         "0x0250000000002AE6": {
           "Name": "Demon",
+          "Quality": "Rare"
+        },
+        "0x0250000000004EDD": {
+          "Name": "Reindeer",
           "Quality": "Rare"
         },
         "0x0250000000002524": {
@@ -18678,6 +18806,10 @@
         },
         "0x0250000000001A3F": {
           "Name": "Demon",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004D63": {
+          "Name": "Reindeer",
           "Quality": "Legendary"
         },
         "0x0250000000002468": {
@@ -19026,6 +19158,10 @@
           "Name": "Ornament",
           "Quality": "Common"
         },
+        "0x0250000000004ECB": {
+          "Name": "Reindeer",
+          "Quality": "Common"
+        },
         "0x02500000000015EA": {
           "Name": "Drum Dance",
           "Quality": "Common"
@@ -19118,6 +19254,10 @@
         },
         "0x0250000000004B1D": {
           "Name": "Stone",
+          "Quality": "Rare"
+        },
+        "0x0250000000004EC2": {
+          "Name": "Peppermint Bark",
           "Quality": "Rare"
         }
       },
@@ -19298,6 +19438,10 @@
         },
         "0x02500000000024EF": {
           "Name": "I Made That Just for You",
+          "Quality": "Common"
+        },
+        "0x0250000000004ECE": {
+          "Name": "Present for You",
           "Quality": "Common"
         },
         "0x0250000000002511": {
@@ -19633,6 +19777,10 @@
         "0x0250000000004A89": {
           "Name": "Stone",
           "Quality": "Epic"
+        },
+        "0x0250000000004C5E": {
+          "Name": "Peppermint Bark",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -19782,6 +19930,10 @@
         },
         "0x0250000000004B1B": {
           "Name": "Stone",
+          "Quality": "Common"
+        },
+        "0x0250000000004EBF": {
+          "Name": "Peppermint Bark",
           "Quality": "Common"
         }
       },
@@ -20032,6 +20184,10 @@
         },
         "0x02500000000024F3": {
           "Name": "The Gift of Knowledge",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED3": {
+          "Name": "Coal for You",
           "Quality": "Common"
         },
         "0x025000000000164E": {
@@ -20564,6 +20720,10 @@
           "Name": "Scarecrow",
           "Quality": "Rare"
         },
+        "0x0250000000004EDA": {
+          "Name": "Santa Claws",
+          "Quality": "Rare"
+        },
         "0x02500000000028F9": {
           "Name": "Gold Ball",
           "Quality": "Rare"
@@ -20860,6 +21020,10 @@
         },
         "0x0250000000001AC9": {
           "Name": "Jack-o'-lantern",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004E06": {
+          "Name": "Snowman",
           "Quality": "Legendary"
         },
         "0x0250000000002830": {
@@ -21190,6 +21354,10 @@
         },
         "0x0250000000002503": {
           "Name": "Ornament",
+          "Quality": "Common"
+        },
+        "0x0250000000004EC7": {
+          "Name": "Snowman",
           "Quality": "Common"
         },
         "0x02500000000024CC": {
@@ -21528,6 +21696,10 @@
         },
         "0x0250000000004B07": {
           "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
+        "0x0250000000004D4B": {
+          "Name": "Toast",
           "Quality": "Rare"
         },
         "0x025000000000248D": {
@@ -22090,6 +22262,10 @@
           "Name": "Analysis",
           "Quality": "Epic"
         },
+        "0x0250000000004EB5": {
+          "Name": "Snowfall",
+          "Quality": "Epic"
+        },
         "0x02500000000049A2": {
           "Name": "Weightless",
           "Quality": "Epic"
@@ -22118,6 +22294,10 @@
         },
         "0x0250000000004B04": {
           "Name": "Pumpkin",
+          "Quality": "Rare"
+        },
+        "0x0250000000004E63": {
+          "Name": "Toast",
           "Quality": "Rare"
         },
         "0x0250000000004C8A": {
@@ -22718,6 +22898,10 @@
           "Name": "Tropical",
           "Quality": "Rare"
         },
+        "0x0250000000004EDC": {
+          "Name": "Snowboarder",
+          "Quality": "Rare"
+        },
         "0x02500000000028C2": {
           "Name": "Lieutenant Augustin",
           "Quality": "Rare"
@@ -22930,6 +23114,10 @@
           "Name": "Some kind of angel",
           "Quality": "Common"
         },
+        "0x0250000000004ECD": {
+          "Name": "Let's Go Sledding!",
+          "Quality": "Common"
+        },
         "0x0250000000004678": {
           "Name": "Need something?",
           "Quality": "Common"
@@ -23018,6 +23206,10 @@
         },
         "0x0250000000004891": {
           "Name": "Tropical",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004DBF": {
+          "Name": "Snowboarder",
           "Quality": "Legendary"
         },
         "0x025000000000279F": {
@@ -23354,6 +23546,10 @@
           "Name": "Ornament",
           "Quality": "Common"
         },
+        "0x0250000000004ECA": {
+          "Name": "Snowboarder",
+          "Quality": "Common"
+        },
         "0x025000000000440E": {
           "Name": "Lion Dance",
           "Quality": "Common"
@@ -23646,6 +23842,10 @@
         },
         "0x0250000000004346": {
           "Name": "Happy Christmas!",
+          "Quality": "Common"
+        },
+        "0x0250000000004ED5": {
+          "Name": "Merry Christmas!",
           "Quality": "Common"
         },
         "0x0250000000004679": {
@@ -24276,7 +24476,7 @@
         "Quality": "Epic"
       },
       "0x0250000000000140": {
-        "Name": "The name's McCree",
+        "Name": "The name's Cassidy",
         "Quality": "Epic"
       },
       "0x0250000000000141": {
@@ -24961,6 +25161,10 @@
       },
       "0x0250000000004DA3": {
         "Name": "Grillmaster",
+        "Quality": "Epic"
+      },
+      "0x0250000000004DF2": {
+        "Name": "Lava Angel",
         "Quality": "Epic"
       }
     },
@@ -26338,7 +26542,7 @@
         "Quality": "Common"
       },
       "0x0250000000000562": {
-        "Name": "Jesse",
+        "Name": "Cole",
         "Quality": "Common"
       },
       "0x0250000000000563": {
@@ -27982,7 +28186,7 @@
         "Quality": "Common"
       },
       "0x0250000000000D7D": {
-        "Name": "Snowcree",
+        "Name": "Snowcole",
         "Quality": "Common"
       },
       "0x0250000000000E52": {
@@ -31390,7 +31594,7 @@
         "Quality": "Common"
       },
       "0x0250000000004D52": {
-        "Name": "Young Jesse",
+        "Name": "Young Cole",
         "Quality": "Common"
       },
       "0x0250000000004D53": {
@@ -31465,8 +31669,36 @@
         "Name": "Sprinkles",
         "Quality": "Common"
       },
+      "0x0250000000004DDA": {
+        "Name": "Old Friends",
+        "Quality": "Common"
+      },
       "0x0250000000004DE4": {
         "Name": "Dragons' Treasure",
+        "Quality": "Common"
+      },
+      "0x0250000000004DE5": {
+        "Name": "Back to Back",
+        "Quality": "Common"
+      },
+      "0x0250000000004DE6": {
+        "Name": "Talon Spotted",
+        "Quality": "Common"
+      },
+      "0x0250000000004DE7": {
+        "Name": "Cute Bike",
+        "Quality": "Common"
+      },
+      "0x0250000000004DE8": {
+        "Name": "Determined",
+        "Quality": "Common"
+      },
+      "0x0250000000004DE9": {
+        "Name": "Hat Tip",
+        "Quality": "Common"
+      },
+      "0x0250000000004DEA": {
+        "Name": "Tea Break",
         "Quality": "Common"
       },
       "0x0250000000004DF6": {
@@ -31532,6 +31764,58 @@
       "0x0250000000004E43": {
         "Name": "Satyr",
         "Quality": "Common"
+      },
+      "0x0250000000004EA9": {
+        "Name": "Gladiators Unleashed",
+        "Quality": "Common"
+      },
+      "0x0250000000004EBD": {
+        "Name": "Wooltide",
+        "Quality": "Common"
+      },
+      "0x0250000000004EBE": {
+        "Name": "Mistletoe",
+        "Quality": "Common"
+      },
+      "0x0250000000004EBF": {
+        "Name": "Peppermint Bark",
+        "Quality": "Common"
+      },
+      "0x0250000000004EC3": {
+        "Name": "Competitive No Limits Competitor 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004EC4": {
+        "Name": "Competitive No Limits Hero 2021",
+        "Quality": "Common"
+      },
+      "0x0250000000004EC7": {
+        "Name": "Snowman",
+        "Quality": "Common"
+      },
+      "0x0250000000004EC8": {
+        "Name": "Ice Wraith",
+        "Quality": "Common"
+      },
+      "0x0250000000004EC9": {
+        "Name": "Bag of Gifts",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECA": {
+        "Name": "Snowboarder",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECB": {
+        "Name": "Reindeer",
+        "Quality": "Common"
+      },
+      "0x0250000000004EE0": {
+        "Name": "Season 32 Competitor",
+        "Quality": "Common"
+      },
+      "0x0250000000004EE1": {
+        "Name": "Season 32 Hero",
+        "Quality": "Common"
       }
     },
     "Icon": {
@@ -31544,7 +31828,7 @@
         "Quality": "Common"
       },
       "0x0250000000000304": {
-        "Name": "McCree",
+        "Name": "Cassidy",
         "Quality": "Rare"
       },
       "0x0250000000000305": {
@@ -32936,7 +33220,7 @@
         "Quality": "Rare"
       },
       "0x025000000000159A": {
-        "Name": "Cute McCree",
+        "Name": "Cute Cassidy",
         "Quality": "Rare"
       },
       "0x025000000000159B": {
@@ -33720,7 +34004,7 @@
         "Quality": "Rare"
       },
       "0x02500000000028C5": {
-        "Name": "Deadlock McCree",
+        "Name": "Deadlock Cassidy",
         "Quality": "Rare"
       },
       "0x02500000000028C6": {
@@ -34695,6 +34979,10 @@
         "Name": "Flamingo Floatie",
         "Quality": "Rare"
       },
+      "0x0250000000004DDB": {
+        "Name": "Sandstorm",
+        "Quality": "Rare"
+      },
       "0x0250000000004DF4": {
         "Name": "Competitive 3v3 Elimination Competitor 2021",
         "Quality": "Rare"
@@ -34753,6 +35041,62 @@
       },
       "0x0250000000004E3D": {
         "Name": "Satyr",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EC0": {
+        "Name": "Wooltide",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EC1": {
+        "Name": "Mistletoe",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EC2": {
+        "Name": "Peppermint Bark",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EC5": {
+        "Name": "Competitive No Limits Competitor 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EC6": {
+        "Name": "Competitive No Limits Hero 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004ED9": {
+        "Name": "Ice Wraith",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EDA": {
+        "Name": "Santa Claws",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EDB": {
+        "Name": "Snow Pals",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EDC": {
+        "Name": "Snowboarder",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EDD": {
+        "Name": "Reindeer",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EE2": {
+        "Name": "Season 32 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EE3": {
+        "Name": "Season 32 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EE5": {
+        "Name": "Winter Wonderland 2021",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EE6": {
+        "Name": "2022",
         "Quality": "Rare"
       }
     },
@@ -44679,6 +45023,10 @@
         "Name": "Pachimari",
         "Quality": "Epic"
       },
+      "0x0250000000004C5E": {
+        "Name": "Peppermint Bark",
+        "Quality": "Epic"
+      },
       "0x0250000000004C60": {
         "Name": "Venus",
         "Quality": "Legendary"
@@ -44691,8 +45039,8 @@
         "Name": "Midas",
         "Quality": "Legendary"
       },
-      "0x0250000000004C6C": {
-        "Name": "Tropical PH",
+      "0x0250000000004C66": {
+        "Name": "Mistletoe",
         "Quality": "Epic"
       },
       "0x0250000000004C72": {
@@ -44723,6 +45071,14 @@
         "Name": "Einherjar",
         "Quality": "Epic"
       },
+      "0x0250000000004D00": {
+        "Name": "Sandstorm",
+        "Quality": "Epic"
+      },
+      "0x0250000000004D33": {
+        "Name": "Wooltide",
+        "Quality": "Epic"
+      },
       "0x0250000000004D3B": {
         "Name": "Vampire Bat",
         "Quality": "Legendary"
@@ -44735,6 +45091,10 @@
         "Name": "Vampire Hunter",
         "Quality": "Legendary"
       },
+      "0x0250000000004D63": {
+        "Name": "Reindeer",
+        "Quality": "Legendary"
+      },
       "0x0250000000004D66": {
         "Name": "Haroeris",
         "Quality": "Legendary"
@@ -44745,6 +45105,22 @@
       },
       "0x0250000000004DA9": {
         "Name": "Pirate Ship",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004DBF": {
+        "Name": "Snowboarder",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004DF1": {
+        "Name": "Sleighing",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004E06": {
+        "Name": "Snowman",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004E29": {
+        "Name": "Ice Wraith",
         "Quality": "Legendary"
       }
     },
@@ -45899,6 +46275,14 @@
       },
       "0x0250000000004E0A": {
         "Name": "Zombie Walk",
+        "Quality": "Epic"
+      },
+      "0x0250000000004EB4": {
+        "Name": "A Suave Gift",
+        "Quality": "Epic"
+      },
+      "0x0250000000004EB5": {
+        "Name": "Snowfall",
         "Quality": "Epic"
       }
     },
@@ -47215,6 +47599,14 @@
         "Name": "Medal",
         "Quality": "Rare"
       },
+      "0x0250000000004D48": {
+        "Name": "Toast",
+        "Quality": "Rare"
+      },
+      "0x0250000000004D4B": {
+        "Name": "Toast",
+        "Quality": "Rare"
+      },
       "0x0250000000004D4C": {
         "Name": "Pumpkin",
         "Quality": "Rare"
@@ -47229,6 +47621,10 @@
       },
       "0x0250000000004DF0": {
         "Name": "Pumpkin",
+        "Quality": "Rare"
+      },
+      "0x0250000000004E63": {
+        "Name": "Toast",
         "Quality": "Rare"
       }
     },
@@ -51311,6 +51707,50 @@
       },
       "0x0250000000004E4D": {
         "Name": "The archer vanished... ",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECC": {
+        "Name": "Happy Holidays",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECD": {
+        "Name": "Let's Go Sledding!",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECE": {
+        "Name": "Present for You",
+        "Quality": "Common"
+      },
+      "0x0250000000004ECF": {
+        "Name": "Hot Cocoa",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED0": {
+        "Name": "It's Snowing!",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED1": {
+        "Name": "Avalanche!",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED2": {
+        "Name": "Cold Never Bothered Me",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED3": {
+        "Name": "Coal for You",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED4": {
+        "Name": "Call this Cold?",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED5": {
+        "Name": "Merry Christmas!",
+        "Quality": "Common"
+      },
+      "0x0250000000004ED6": {
+        "Name": "Cookies",
         "Quality": "Common"
       }
     },

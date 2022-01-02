@@ -35,6 +35,10 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
               .replace('0f1', '')
   }
 
+  const getCleanHeroID = heroId => {
+    return getCleanID(heroId).replace('cassidy', 'mccree')
+  }
+
   const typeMapping = {
     Icon: 'icons',
     Portrait: 'icons',
@@ -57,6 +61,15 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
   }
 
   const idOverrides = {
+    // stupid ass mccree change
+    "sprays/snowcole": "snowcree",
+    "sprays/mccree-cole": "mccree-jesse",
+    "sprays/mccree-young-cole": "mccree-young-jesse",
+    "icons/mccree-cassidy": "mccree-mccree",
+    "icons/mccree-cute-cassidy": "mccree-cute-mccree",
+    "icons/mccree-deadlock-cassidy": "mccree-deadlock-mccree",
+    "intros/mccree-the-names-cassidy": "mccree-the-names-mccree",
+
     "sprays/mccree-bad-luck": "mccree-noose",
     "sprays/sombra-hax0red": "sombra-deafmute",
     "sprays/hanzo-brickstrike": "hanzo-brick-dragon",
@@ -154,7 +167,7 @@ app.controller('MainCtrl', ['$http', '$timeout', function($http, $timeout) {
     const itemIdMapping = {}
 
     for (const heroName in this.unlockData.Heroes) {
-      const heroNameClean = getCleanID(heroName)
+      const heroNameClean = getCleanHeroID(heroName)
 
       for (let itemType in this.unlockData.Heroes[heroName]) {
         const itemTypeClean = typeMapping[itemType]
