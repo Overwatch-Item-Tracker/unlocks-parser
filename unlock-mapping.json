@@ -53,6 +53,10 @@
         "0x0250000000004C14": {
           "Name": "Imperial Guard",
           "Quality": "Rare"
+        },
+        "0x0250000000004EF3": {
+          "Name": "Dusk",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -258,6 +262,10 @@
           "Name": "I have the devil's own luck",
           "Quality": "Common"
         },
+        "0x0250000000004F43": {
+          "Name": "Lucky Color",
+          "Quality": "Common"
+        },
         "0x02500000000010D7": {
           "Name": "Amateur hour",
           "Quality": "Common"
@@ -366,6 +374,10 @@
         },
         "0x0250000000002B1A": {
           "Name": "Masquerade",
+          "Quality": "Legendary"
+        },
+        "0x0250000000005020": {
+          "Name": "Evermore",
           "Quality": "Legendary"
         },
         "0x02500000000003F6": {
@@ -583,6 +595,10 @@
         "0x0250000000004A46": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004DC7": {
+          "Name": "Dusk",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -741,6 +757,34 @@
         "0x02500000000047E6": {
           "Name": "Red Death",
           "Quality": "Common"
+        },
+        "0x0250000000004EF2": {
+          "Name": "Deadly Mischief",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCA": {
+          "Name": "Grim Calling",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCB": {
+          "Name": "Crusader",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCC": {
+          "Name": "Calculating",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCD": {
+          "Name": "Resurrection",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCE": {
+          "Name": "Death and Deceit",
+          "Quality": "Common"
+        },
+        "0x0250000000004FCF": {
+          "Name": "Code of Violence",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -786,6 +830,10 @@
         },
         "0x0250000000002523": {
           "Name": "Noble Thief",
+          "Quality": "Rare"
+        },
+        "0x0250000000004F4D": {
+          "Name": "Nezha",
           "Quality": "Rare"
         },
         "0x02500000000010BC": {
@@ -1132,6 +1180,10 @@
         },
         "0x0250000000001BC2": {
           "Name": "Hong Gildong",
+          "Quality": "Legendary"
+        },
+        "0x0250000000004E27": {
+          "Name": "Nezha",
           "Quality": "Legendary"
         },
         "0x0250000000000F77": {
@@ -1504,6 +1556,10 @@
           "Name": "Dragon Dance",
           "Quality": "Common"
         },
+        "0x0250000000004F4C": {
+          "Name": "Nezha's Mischief",
+          "Quality": "Common"
+        },
         "0x0250000000001080": {
           "Name": "Slipstream",
           "Quality": "Common"
@@ -1600,6 +1656,10 @@
         },
         "0x0250000000002509": {
           "Name": "Sugar Plum Fairy",
+          "Quality": "Rare"
+        },
+        "0x0250000000004F4E": {
+          "Name": "Seolbim",
           "Quality": "Rare"
         },
         "0x02500000000010B8": {
@@ -1704,6 +1764,10 @@
         },
         "0x025000000000123B": {
           "Name": "Toast",
+          "Quality": "Rare"
+        },
+        "0x0250000000004EA5": {
+          "Name": "Lantern",
           "Quality": "Rare"
         },
         "0x02500000000019C5": {
@@ -1940,12 +2004,20 @@
           "Name": "Zhuque",
           "Quality": "Legendary"
         },
+        "0x0250000000004DD5": {
+          "Name": "Seolbim",
+          "Quality": "Legendary"
+        },
         "0x0250000000000F8E": {
           "Name": "Combat Medic Ziegler",
           "Quality": "Legendary"
         },
         "0x0250000000004879": {
           "Name": "Dragoon",
+          "Quality": "Legendary"
+        },
+        "0x0250000000005011": {
+          "Name": "Mage",
           "Quality": "Legendary"
         },
         "0x025000000000041A": {
@@ -2296,6 +2368,10 @@
         },
         "0x0250000000000EDB": {
           "Name": "Dragon Dance",
+          "Quality": "Common"
+        },
+        "0x0250000000004F46": {
+          "Name": "Seolbim",
           "Quality": "Common"
         },
         "0x0250000000001072": {
@@ -2662,6 +2738,10 @@
         },
         "0x0250000000002513": {
           "Name": "Pointless frivolity",
+          "Quality": "Common"
+        },
+        "0x0250000000004F3A": {
+          "Name": "No Mercy for the Tiger",
           "Quality": "Common"
         },
         "0x02500000000010C7": {
@@ -4290,6 +4370,10 @@
           "Name": "Lieutenant Wilhelm",
           "Quality": "Epic"
         },
+        "0x0250000000005013": {
+          "Name": "Steelhardt",
+          "Quality": "Legendary"
+        },
         "0x025000000000043B": {
           "Name": "Classic",
           "Quality": "Common"
@@ -5688,6 +5772,10 @@
           "Name": "Red and Green",
           "Quality": "Common"
         },
+        "0x0250000000004F42": {
+          "Name": "Delightful Get-Together",
+          "Quality": "Common"
+        },
         "0x02500000000010E9": {
           "Name": "Have you seen my glasses?",
           "Quality": "Common"
@@ -6246,6 +6334,10 @@
         },
         "0x0250000000000A84": {
           "Name": "At Rest",
+          "Quality": "Epic"
+        },
+        "0x0250000000004F26": {
+          "Name": "Fan Tricks",
           "Quality": "Epic"
         },
         "0x0250000000000F60": {
@@ -8610,6 +8702,10 @@
           "Name": "Transcendence",
           "Quality": "Epic"
         },
+        "0x0250000000004F4F": {
+          "Name": "Release",
+          "Quality": "Epic"
+        },
         "0x0250000000001060": {
           "Name": "Perspective",
           "Quality": "Epic"
@@ -8714,6 +8810,10 @@
         },
         "0x025000000000162D": {
           "Name": "Fortune favors me",
+          "Quality": "Common"
+        },
+        "0x0250000000004F3B": {
+          "Name": "One Moon",
           "Quality": "Common"
         },
         "0x02500000000010ED": {
@@ -8828,6 +8928,10 @@
         },
         "0x0250000000004668": {
           "Name": "Huitzilopochtli",
+          "Quality": "Legendary"
+        },
+        "0x0250000000005012": {
+          "Name": "Zealot",
           "Quality": "Legendary"
         },
         "0x0250000000000485": {
@@ -9304,6 +9408,10 @@
           "Name": "Paper Stars",
           "Quality": "Epic"
         },
+        "0x0250000000004F22": {
+          "Name": "Sky Lantern",
+          "Quality": "Epic"
+        },
         "0x0250000000000FE5": {
           "Name": "Dance",
           "Quality": "Epic"
@@ -9582,6 +9690,10 @@
         },
         "0x0250000000000FE3": {
           "Name": "Sentai",
+          "Quality": "Legendary"
+        },
+        "0x025000000000500F": {
+          "Name": "Demon",
           "Quality": "Legendary"
         },
         "0x0250000000000490": {
@@ -10234,6 +10346,10 @@
         },
         "0x025000000000163A": {
           "Name": "It's all gone to the dogs",
+          "Quality": "Common"
+        },
+        "0x0250000000004F40": {
+          "Name": "I'll Catch You",
           "Quality": "Common"
         },
         "0x02500000000010DB": {
@@ -13091,6 +13207,10 @@
         "0x0250000000003FB7": {
           "Name": "Ugly Sweater",
           "Quality": "Rare"
+        },
+        "0x0250000000004F48": {
+          "Name": "Auspicious",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -13625,6 +13745,10 @@
         "0x0250000000004A49": {
           "Name": "Contenders Away",
           "Quality": "Epic"
+        },
+        "0x0250000000004D64": {
+          "Name": "Auspicious",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -13778,6 +13902,10 @@
         },
         "0x0250000000003FB4": {
           "Name": "Ugly Sweater",
+          "Quality": "Common"
+        },
+        "0x0250000000004F49": {
+          "Name": "Practicing Forms",
           "Quality": "Common"
         }
       },
@@ -14824,6 +14952,10 @@
           "Name": "Happy new year",
           "Quality": "Common"
         },
+        "0x0250000000004F3D": {
+          "Name": "One Year Older",
+          "Quality": "Common"
+        },
         "0x02500000000010C3": {
           "Name": "Try and keep up",
           "Quality": "Common"
@@ -14945,6 +15077,10 @@
         "0x0250000000002821": {
           "Name": "Midnight",
           "Quality": "Epic"
+        },
+        "0x025000000000501F": {
+          "Name": "White Cat",
+          "Quality": "Legendary"
         },
         "0x02500000000004DD": {
           "Name": "Classic",
@@ -15640,6 +15776,10 @@
         },
         "0x0250000000004C40": {
           "Name": "Moo!",
+          "Quality": "Common"
+        },
+        "0x0250000000004F3E": {
+          "Name": "Happy Year of the Tiger",
           "Quality": "Common"
         },
         "0x02500000000010CF": {
@@ -16428,6 +16568,10 @@
           "Name": "You work too hard",
           "Quality": "Common"
         },
+        "0x0250000000004F41": {
+          "Name": "This One Has Teeth",
+          "Quality": "Common"
+        },
         "0x02500000000010DF": {
           "Name": "Don't be a coward",
           "Quality": "Common"
@@ -16753,6 +16897,10 @@
         "0x0250000000004A07": {
           "Name": "Fantasma",
           "Quality": "Epic"
+        },
+        "0x0250000000005015": {
+          "Name": "Zhulong",
+          "Quality": "Legendary"
         }
       },
       "Spray": {
@@ -17192,6 +17340,10 @@
         },
         "0x0250000000001630": {
           "Name": "I'll throw you a bone",
+          "Quality": "Common"
+        },
+        "0x0250000000004F3C": {
+          "Name": "More Dumplings",
           "Quality": "Common"
         },
         "0x0250000000001937": {
@@ -17948,6 +18100,10 @@
           "Name": "Stubborn as an ox",
           "Quality": "Common"
         },
+        "0x0250000000004F2C": {
+          "Name": "Good Kitty",
+          "Quality": "Common"
+        },
         "0x02500000000010C1": {
           "Name": "Damn",
           "Quality": "Common"
@@ -18572,6 +18728,10 @@
         },
         "0x025000000000127F": {
           "Name": "Pumpkin Head",
+          "Quality": "Rare"
+        },
+        "0x0250000000004EA7": {
+          "Name": "Sparklers",
           "Quality": "Rare"
         },
         "0x02500000000017AA": {
@@ -20206,6 +20366,10 @@
           "Name": "Unsavory",
           "Quality": "Common"
         },
+        "0x0250000000004F3F": {
+          "Name": "Tiger by the Tail",
+          "Quality": "Common"
+        },
         "0x025000000000193A": {
           "Name": "This is to my liking",
           "Quality": "Common"
@@ -20739,6 +20903,10 @@
         "0x0250000000004D0B": {
           "Name": "8 Ball",
           "Quality": "Rare"
+        },
+        "0x0250000000004F4A": {
+          "Name": "Tea",
+          "Quality": "Rare"
         }
       },
       "Emote": {
@@ -21245,6 +21413,10 @@
         "0x0250000000004B31": {
           "Name": "8 Ball",
           "Quality": "Epic"
+        },
+        "0x0250000000004DAA": {
+          "Name": "Porcelain",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -21399,6 +21571,10 @@
         "0x0250000000004D0C": {
           "Name": "Corner Pocket",
           "Quality": "Common"
+        },
+        "0x0250000000004F4B": {
+          "Name": "Porcelain",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -21480,6 +21656,10 @@
         },
         "0x0250000000004D4D": {
           "Name": "Deadlock Ashe",
+          "Quality": "Rare"
+        },
+        "0x0250000000004F45": {
+          "Name": "Skullcap",
           "Quality": "Rare"
         }
       },
@@ -21638,6 +21818,10 @@
         },
         "0x0250000000004C42": {
           "Name": "Life's a rodeo",
+          "Quality": "Common"
+        },
+        "0x0250000000004F39": {
+          "Name": "Earned My Stripes",
           "Quality": "Common"
         },
         "0x0250000000002881": {
@@ -21885,11 +22069,11 @@
           "Quality": "Epic"
         },
         "0x02500000000024DD": {
-          "Name": "Overwatch League White",
+          "Name": "Overwatch League Gray",
           "Quality": "Epic"
         },
         "0x02500000000024DC": {
-          "Name": "Overwatch League Gray",
+          "Name": "Overwatch League White",
           "Quality": "Epic"
         },
         "0x0250000000002717": {
@@ -21995,6 +22179,10 @@
         "0x0250000000004CC5": {
           "Name": "Deadlock",
           "Quality": "Legendary"
+        },
+        "0x0250000000004D6D": {
+          "Name": "Prosperity",
+          "Quality": "Epic"
         }
       },
       "Spray": {
@@ -22185,6 +22373,10 @@
         "0x0250000000004D53": {
           "Name": "Pondering",
           "Quality": "Common"
+        },
+        "0x0250000000004F47": {
+          "Name": "Spring Couplets",
+          "Quality": "Common"
         }
       },
       "WeaponSkin": {
@@ -22298,6 +22490,10 @@
         },
         "0x0250000000004E63": {
           "Name": "Toast",
+          "Quality": "Rare"
+        },
+        "0x0250000000004EA4": {
+          "Name": "Fan",
           "Quality": "Rare"
         },
         "0x0250000000004C8A": {
@@ -25165,6 +25361,10 @@
       },
       "0x0250000000004DF2": {
         "Name": "Lava Angel",
+        "Quality": "Epic"
+      },
+      "0x0250000000004F4F": {
+        "Name": "Release",
         "Quality": "Epic"
       }
     },
@@ -31816,6 +32016,82 @@
       "0x0250000000004EE1": {
         "Name": "Season 32 Hero",
         "Quality": "Common"
+      },
+      "0x0250000000004EF2": {
+        "Name": "Deadly Mischief",
+        "Quality": "Common"
+      },
+      "0x0250000000004F46": {
+        "Name": "Seolbim",
+        "Quality": "Common"
+      },
+      "0x0250000000004F47": {
+        "Name": "Spring Couplets",
+        "Quality": "Common"
+      },
+      "0x0250000000004F49": {
+        "Name": "Practicing Forms",
+        "Quality": "Common"
+      },
+      "0x0250000000004F4B": {
+        "Name": "Porcelain",
+        "Quality": "Common"
+      },
+      "0x0250000000004F4C": {
+        "Name": "Nezha's Mischief",
+        "Quality": "Common"
+      },
+      "0x0250000000004F63": {
+        "Name": "Competitive CTF Hero 2022",
+        "Quality": "Common"
+      },
+      "0x0250000000004F66": {
+        "Name": "Competitive CTF Competitor 2022",
+        "Quality": "Common"
+      },
+      "0x0250000000004F85": {
+        "Name": "Year of the Tiger",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCA": {
+        "Name": "Grim Calling",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCB": {
+        "Name": "Crusader",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCC": {
+        "Name": "Calculating",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCD": {
+        "Name": "Resurrection",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCE": {
+        "Name": "Death and Deceit",
+        "Quality": "Common"
+      },
+      "0x0250000000004FCF": {
+        "Name": "Code of Violence",
+        "Quality": "Common"
+      },
+      "0x0250000000004FD8": {
+        "Name": "Season 33 Hero",
+        "Quality": "Common"
+      },
+      "0x0250000000004FD9": {
+        "Name": "Season 33 Competitor",
+        "Quality": "Common"
+      },
+      "0x025000000000504A": {
+        "Name": "Competitive 6v6 Elimination Competitor 2022",
+        "Quality": "Common"
+      },
+      "0x025000000000504B": {
+        "Name": "Competitive 6v6 Elimination Hero 2022",
+        "Quality": "Common"
       }
     },
     "Icon": {
@@ -35097,6 +35373,66 @@
       },
       "0x0250000000004EE6": {
         "Name": "2022",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EF3": {
+        "Name": "Dusk",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F45": {
+        "Name": "Skullcap",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F48": {
+        "Name": "Auspicious",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F4A": {
+        "Name": "Tea",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F4D": {
+        "Name": "Nezha",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F4E": {
+        "Name": "Seolbim",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F50": {
+        "Name": "Year of the Tiger 2022",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F64": {
+        "Name": "Competitive CTF Hero 2022",
+        "Quality": "Rare"
+      },
+      "0x0250000000004F65": {
+        "Name": "Competitive CTF Competitor 2022",
+        "Quality": "Rare"
+      },
+      "0x0250000000004FDA": {
+        "Name": "Season 33 Competitor",
+        "Quality": "Rare"
+      },
+      "0x0250000000004FDB": {
+        "Name": "Season 33 Hero",
+        "Quality": "Rare"
+      },
+      "0x0250000000005048": {
+        "Name": "Competitive 6v6 Elimination Competitor 2022",
+        "Quality": "Rare"
+      },
+      "0x0250000000005049": {
+        "Name": "Competitive 6v6 Elimination Hero 2022",
+        "Quality": "Rare"
+      },
+      "0x025000000000505B": {
+        "Name": "Ukraine",
+        "Quality": "Rare"
+      },
+      "0x0250000000005061": {
+        "Name": "Anniversary 2022",
         "Quality": "Rare"
       }
     },
@@ -40724,11 +41060,11 @@
         "Quality": "Epic"
       },
       "0x02500000000024DC": {
-        "Name": "Overwatch League Gray",
+        "Name": "Overwatch League White",
         "Quality": "Epic"
       },
       "0x02500000000024DD": {
-        "Name": "Overwatch League White",
+        "Name": "Overwatch League Gray",
         "Quality": "Epic"
       },
       "0x0250000000002501": {
@@ -45095,9 +45431,17 @@
         "Name": "Reindeer",
         "Quality": "Legendary"
       },
+      "0x0250000000004D64": {
+        "Name": "Auspicious",
+        "Quality": "Epic"
+      },
       "0x0250000000004D66": {
         "Name": "Haroeris",
         "Quality": "Legendary"
+      },
+      "0x0250000000004D6D": {
+        "Name": "Prosperity",
+        "Quality": "Epic"
       },
       "0x0250000000004D7F": {
         "Name": "Sunset",
@@ -45107,8 +45451,20 @@
         "Name": "Pirate Ship",
         "Quality": "Legendary"
       },
+      "0x0250000000004DAA": {
+        "Name": "Porcelain",
+        "Quality": "Epic"
+      },
       "0x0250000000004DBF": {
         "Name": "Snowboarder",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004DC7": {
+        "Name": "Dusk",
+        "Quality": "Legendary"
+      },
+      "0x0250000000004DD5": {
+        "Name": "Seolbim",
         "Quality": "Legendary"
       },
       "0x0250000000004DF1": {
@@ -45119,8 +45475,40 @@
         "Name": "Snowman",
         "Quality": "Legendary"
       },
+      "0x0250000000004E27": {
+        "Name": "Nezha",
+        "Quality": "Legendary"
+      },
       "0x0250000000004E29": {
         "Name": "Ice Wraith",
+        "Quality": "Legendary"
+      },
+      "0x025000000000500F": {
+        "Name": "Demon",
+        "Quality": "Legendary"
+      },
+      "0x0250000000005011": {
+        "Name": "Mage",
+        "Quality": "Legendary"
+      },
+      "0x0250000000005012": {
+        "Name": "Zealot",
+        "Quality": "Legendary"
+      },
+      "0x0250000000005013": {
+        "Name": "Steelhardt",
+        "Quality": "Legendary"
+      },
+      "0x0250000000005015": {
+        "Name": "Zhulong",
+        "Quality": "Legendary"
+      },
+      "0x025000000000501F": {
+        "Name": "White Cat",
+        "Quality": "Legendary"
+      },
+      "0x0250000000005020": {
+        "Name": "Evermore",
         "Quality": "Legendary"
       }
     },
@@ -46283,6 +46671,14 @@
       },
       "0x0250000000004EB5": {
         "Name": "Snowfall",
+        "Quality": "Epic"
+      },
+      "0x0250000000004F22": {
+        "Name": "Sky Lantern",
+        "Quality": "Epic"
+      },
+      "0x0250000000004F26": {
+        "Name": "Fan Tricks",
         "Quality": "Epic"
       }
     },
@@ -47625,6 +48021,18 @@
       },
       "0x0250000000004E63": {
         "Name": "Toast",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EA4": {
+        "Name": "Fan",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EA5": {
+        "Name": "Lantern",
+        "Quality": "Rare"
+      },
+      "0x0250000000004EA7": {
+        "Name": "Sparklers",
         "Quality": "Rare"
       }
     },
@@ -51751,6 +52159,54 @@
       },
       "0x0250000000004ED6": {
         "Name": "Cookies",
+        "Quality": "Common"
+      },
+      "0x0250000000004F2C": {
+        "Name": "Good Kitty",
+        "Quality": "Common"
+      },
+      "0x0250000000004F39": {
+        "Name": "Earned My Stripes",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3A": {
+        "Name": "No Mercy for the Tiger",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3B": {
+        "Name": "One Moon",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3C": {
+        "Name": "More Dumplings",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3D": {
+        "Name": "One Year Older",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3E": {
+        "Name": "Happy Year of the Tiger",
+        "Quality": "Common"
+      },
+      "0x0250000000004F3F": {
+        "Name": "Tiger by the Tail",
+        "Quality": "Common"
+      },
+      "0x0250000000004F40": {
+        "Name": "I'll Catch You",
+        "Quality": "Common"
+      },
+      "0x0250000000004F41": {
+        "Name": "This One Has Teeth",
+        "Quality": "Common"
+      },
+      "0x0250000000004F42": {
+        "Name": "Delightful Get-Together",
+        "Quality": "Common"
+      },
+      "0x0250000000004F43": {
+        "Name": "Lucky Color",
         "Quality": "Common"
       }
     },
